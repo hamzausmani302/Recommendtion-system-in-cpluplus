@@ -1,0 +1,1010 @@
+Restaurant ID,:Restaurant Name,:City,:Location,:Locality,:Cuisines,:avg_for_two,:Aggregate Ratinng,:Comments,:Votes
+6317637,:Le Petit Souffle,:Makati City,:Third Floor, Century City Mall, Kalayaan Avenue, Poblacion, Makati City",",:Century City Mall, Poblacion, Makati City",",:French, Japanese, Desserts",,:1100,:4.8,:Excellent,:314
+6304287,:Izakaya Kikufuji,:Makati City,:Little Tokyo, 2277 Chino Roces Avenue, Legaspi Village, Makati City",",:Little Tokyo, Legaspi Village, Makati City",,:Japanese,,:1200,:4.5,:Excellent,:591
+6300002,:Heat - Edsa Shangri-La,:Mandaluyong City,:Edsa Shangri-La, 1 Garden Way, Ortigas, Mandaluyong City",",:Edsa Shangri-La, Ortigas, Mandaluyong City",",:Seafood, Asian, Filipino, Indian",,:4000,:4.4,:Very Good,:270
+6318506,:Ooma,:Mandaluyong City,:Third Floor, Mega Fashion Hall, SM Megamall, Ortigas, Mandaluyong City",",:SM Megamall, Ortigas, Mandaluyong City",",:Japanese, Sushi",,:1500,:4.9,:Excellent,:365
+6314302,:Sambo Kojin,:Mandaluyong City,:Third Floor, Mega Atrium, SM Megamall, Ortigas, Mandaluyong City",",:SM Megamall, Ortigas, Mandaluyong City",",:Japanese, Korean",,:1500,:4.8,:Excellent,:229
+18189371,:Din Tai Fung,:Mandaluyong City,:Ground Floor, Mega Fashion Hall, SM Megamall, Ortigas, Mandaluyong City",",:SM Megamall, Ortigas, Mandaluyong City",,:Chinese,,:1000,:4.4,:Very Good,:336
+6300781,:Buffet 101,:Pasay City,:Building K, SM By The Bay, Sunset Boulevard, Mall of Asia Complex (MOA), Pasay City",",:SM by the Bay, Mall of Asia Complex, Pasay City",",:Asian, European",,:2000,:4,:Very Good,:520
+6301290,:Vikings,:Pasay City,:Building B, By The Bay, Seaside Boulevard, Mall of Asia Complex (MOA), Pasay City",",:SM by the Bay, Mall of Asia Complex, Pasay City",",:Seafood, Filipino, Asian, European",,:2000,:4.2,:Very Good,:677
+6300010,:Spiral - Sofitel Philippine Plaza Manila,:Pasay City,:Plaza Level, Sofitel Philippine Plaza Manila, CCP Complex, Pasay City",",:Sofitel Philippine Plaza Manila, Pasay City",",:European, Asian, Indian",,:6000,:4.9,:Excellent,:621
+6314987,:Locavore,:Pasig City,:Brixton Technology Center, 10 Brixton Street, Kapitolyo, Pasig City",,:Kapitolyo,,:Filipino,,:1100,:4.8,:Excellent,:532
+6309903,:Silantro Fil-Mex,:Pasig City,:75 East Capitol Drive, Kapitolyo, Pasig City",,:Kapitolyo,",:Filipino, Mexican",,:800,:4.9,:Excellent,:1070
+6309455,:Mad Mark's Creamery & Good Eats,:Pasig City,:23 East Capitol Drive, Kapitolyo, Pasig City",,:Kapitolyo,",:American, Ice Cream, Desserts",,:900,:4.2,:Very Good,:488
+6318433,:Silantro Fil-Mex,:Quezon City,:Second Floor, UP Town Center, Katipunan Avenue, Diliman, Quezon City",",:UP Town Center, Diliman, Quezon City",",:Filipino, Mexican",,:800,:4.8,:Excellent,:294
+6310470,:Guevarra's,:San Juan City,:387 P. Guevarra Corner Argonne Street, Addition Hills, San Juan City",,:Addition Hills,,:Filipino,,:1000,:4.2,:Very Good,:458
+6314605,:Sodam Korean Restaurant,:San Juan City,:17 J. Abad Santos Drive, Little Baguio, San Juan City",,:Little Baguio,,:Korean,,:700,:4.3,:Very Good,:223
+18185059,:Cafe Arabelle,:Santa Rosa,:Ayala Mall, Solenad, Nuvali, Santa Rosa - Tagaytay Road, Don Jose, Santa Rosa",",:Nuvali, Don Jose, Santa Rosa",",:Cafe, American, Italian, Filipino",,:800,:3.6,:Good,:29
+18182702,:Nonna's Pasta & Pizzeria,:Santa Rosa,:Ground Floor, Building G, Solenad 3, Nuvali, Don Jose, Santa Rosa",",:Solenad 3, Don Jose, Santa Rosa",",:Italian, Pizza",,:850,:4,:Very Good,:72
+6318213,:Balay Dako,:Tagaytay City,:Aguinaldo Highway, Tagaytay City",,:Tagaytay City,,:Filipino,,:1200,:4.5,:Excellent,:211
+18255654,:Hobing Korean Dessert Cafe,:Taguig City,:Third Floor, BGC Stopover Pavillion, Rizal Drive Corner 31st Street, Bonifacio Global City, Taguig City",",:BGC Stopover Pavillion, Bonifacio Global City",",:Cafe, Korean, Desserts",,:600,:4.5,:Excellent,:118
+6308205,:Wildflour Cafe + Bakery,:Taguig City,:Ground Floor, Netlima Building, 4th Avenue Corner 26th Street, Bonifacio Global City, Taguig City",,:Bonifacio Global City,",:Cafe, Bakery, American, Italian",,:1500,:4.4,:Very Good,:392
+6315438,:NIU by Vikings,:Taguig City,:Sixth Floor, SM Aura Premier, C5 Road Corner 26th Street, Bonifacio Global City, Taguig City",",:SM Aura Premier, Bonifacio Global City, Taguig City",",:Seafood, American, Mediterranean, Japanese",,:3000,:4.7,:Excellent,:535
+6310406,:The Food Hall by Todd English,:Taguig City,:Fifth Floor, SM Aura Premier, C5 Corner 26th Street, Bonifacio Global City, Taguig City",",:SM Aura Premier, Bonifacio Global City, Taguig City",",:American, Asian, Italian, Seafood",,:1800,:4.5,:Excellent,:618
+6600681,:Chez Michou,:Bras°_lia,:SCLN, 208, Bloco A, Loja 30, Asa Norte, Bras°_lia",,:Asa Norte,",:Fast Food, French",,:55,:3,:Average,:6
+6601005,:Caf°? Daniel Briand,:Bras°_lia,:SCLN 104, Bloco A, Loja 26, Asa Norte, Bras°_lia",,:Asa Norte,,:Cafe,,:30,:3.8,:Good,:9
+6600292,:Casa do Biscoito Mineiro,:Bras°_lia,:SCLN 210, Bloco D, Loja 36/48, Asa Norte, Bras°_lia",,:Asa Norte,,:Bakery,,:45,:3.7,:Good,:11
+6600441,:Maori,:Bras°_lia,:CLN 110, Bloco D, Loja 28, Asa Norte, Bras°_lia",,:Asa Norte,,:Brazilian,,:60,:3.8,:Good,:11
+6600970,:Pizza °ë Bessa,:Bras°_lia,:SCS 214, Bloco C, Loja 40, Asa Sul, Bras°_lia",,:Asa Sul,,:Pizza,,:50,:3.2,:Average,:11
+6600379,:Sushi Loko,:Bras°_lia,:SCS 213, Bloco C, Loja 35, Asa Sul, Bras°_lia",,:Asa Sul,,:Japanese,,:80,:3.1,:Average,:10
+6600214,:Beirute,:Bras°_lia,:CLS 109, Bloco A, Loja 2/6, Asa Sul, Bras°_lia",,:Asa Sul,,:Arabian,,:90,:3.7,:Good,:8
+6601218,:New Koto,:Bras°_lia,:SCS 212, Bloco B, Loja 26, Asa Sul, Bras°_lia",,:Asa Sul,,:Japanese,,:200,:3.7,:Good,:5
+6600060,:Sandubas Caf°?,:Bras°_lia,:Edif°_cio Jos°? Severo, SCS 6, Bloco A, Loja 99, Asa Sul, Bras°_lia",,:Asa Sul,",:Brazilian, Cafe",,:30,:0,:Not rated,:2
+6600083,:Villa Tevere,:Bras°_lia,:CLS 115, Bloco A, Loja 2, Asa Sul, Bras°_lia",,:Asa Sul,,:Italian,,:150,:4.1,:Very Good,:12
+6601515,:Rovereto,:Bras°_lia,:Rua 13 Norte, Lote 4, °Åguas Claras, Bras°_lia",,:°Åguas Claras,,:Pizza,,:100,:3.1,:Average,:9
+6601361,:Buena Carne,:Bras°_lia,:Avenida Arauc°árias, 1325, Loja 19, °Åguas Claras, Bras°_lia",,:°Åguas Claras,",:Bar Food, Brazilian",,:60,:3.6,:Good,:9
+6601602,:Taco Pep,:Bras°_lia,:Vila Malls, Avenida das Castanheiras, Lote 1060, °?guas Claras, Bras°_lia",,:°Åguas Claras,",:Mexican, Grill",,:100,:4.3,:Very Good,:29
+6601589,:Coco Bambu,:Bras°_lia,:Bras°_lia Shopping - Piso 2, SCN 5, Bloco A, Asa Norte, Bras°_lia",",:Bras°_lia Shopping, Asa Norte",,:International,,:230,:4.2,:Very Good,:17
+6601862,:Tayp°á,:Bras°_lia,:Fashion Park, Shis Ql 17, Bloco G, Loja 208, Lago Sul, Bras°_lia",,:Lago Sul,",:Peruvian, Latin American",,:100,:3.6,:Good,:5
+6601595,:Outback Steakhouse,:Bras°_lia,:ParkShopping - Piso 2, SAI/SO, °Årea 6580, Guar°á I, Bras°_lia",",:ParkShopping, Guar°á I",",:American, Grill",,:150,:4,:Very Good,:10
+6601158,:Manzu°á,:Bras°_lia,:Pont°úo Lago Sul, SHIS 10, Lote 9, Lago Sul, Bras°_lia",",:Pont°úo Lago Sul, Lago Sul",,:Seafood,,:240,:3.2,:Average,:6
+6600427,:Coco Bambu,:Bras°_lia,:SCES, Trecho 2, Conjunto 13/36, Setor de Clubes Esportivos Sul, Bras°_lia",,:Setor De Clubes Esportivos Sul,,:International,,:230,:4.9,:Excellent,:30
+6600116,:Gero,:Bras°_lia,:Shopping Iguatemi - piso 1, SHIN CA 4, Lote A, Lago Norte, Bras°_lia",",:Shopping Iguatemi, Lago Norte",,:Italian,,:350,:3.3,:Average,:8
+6601457,:Brazilian American Burgers,:Bras°_lia,:CLSN 301, Bloco C, Loja 86, Sudoeste, Bras°_lia",,:Sudoeste,",:American, Burger",,:50,:3.6,:Good,:9
+7303219,:Pesqueiro Eco Gourmet,:Rio de Janeiro,:Praia da Barra da Tijuca, Avenida L°_cio Costa, Ilha 25, Barra da Tijuca, Rio de Janeiro",,:Barra da Tijuca,",:Seafood, Bar Food, Brazilian",,:140,:4,:Very Good,:7
+7304307,:Confeitaria Colombo,:Rio de Janeiro,:Rua Gon°_alves Dias, 32, Centro, Rio de Janeiro",,:Centro,",:Desserts, Cafe",,:100,:4.8,:Excellent,:29
+7301215,:Bibi,:Rio de Janeiro,:Rua Santa Clara, 36, Copabana, Rio de Janeiro",,:Copacabana,",:Juices, Healthy Food",,:60,:4.7,:Excellent,:24
+7300596,:Cervantes,:Rio de Janeiro,:Avenida Prado Junior, 335 B, Copacabana, Rio de Janeiro",,:Copacabana,",:Beverages, Bar Food, Fast Food",,:90,:4.5,:Excellent,:29
+7300612,:Amir,:Rio de Janeiro,:Rua Ronald de Carvalho, 55, Copacabana, Rio de Janeiro",,:Copacabana,,:Lebanese,,:170,:4.2,:Very Good,:11
+7300704,:TT Burger,:Rio de Janeiro,:Galeria River, Rua Francisco Otaviano, 67, Copacabana, Rio de Janeiro",",:Galeria River, Copacabana",,:Burger,,:60,:4.8,:Excellent,:19
+7300955,:Braseiro da G°ávea,:Rio de Janeiro,:Pra°_a Santos Dumont, 116, G°ávea, Rio de Janeiro",,:G°ávea,",:Brazilian, Bar Food",,:100,:4.9,:Excellent,:40
+7300521,:Balada Mix,:Rio de Janeiro,:Rua An°_bal de Mendon°_a, 37, Ipanema, Rio de Janeiro",,:Ipanema,",:Brazilian, Healthy Food, Juices, Pizza",,:90,:4.6,:Excellent,:21
+7300515,:Garota de Ipanema,:Rio de Janeiro,:Rua Vinicius de Moraes, 49, Ipanema, Rio de Janeiro",,:Ipanema,",:Brazilian, Bar Food",,:120,:4.9,:Excellent,:49
+7300483,:Zaz°á Bistr°Ä Tropical,:Rio de Janeiro,:Rua Joana Ang°?lica, 40, Ipanema, Rio de Janeiro",,:Ipanema,,:Brazilian,,:170,:4.6,:Excellent,:21
+7301064,:Fil°? de Ouro,:Rio de Janeiro,:Rua Jardim Bot°õnico, 731, Jardim Bot°õnico, Lagoa, Rio de Janeiro",,:Lagoa,,:Brazilian,,:90,:4.3,:Very Good,:14
+7304312,:D.O.C Ristorante,:Rio de Janeiro,:Le Monde, Bloco 3, Lojas A/B, Avenida das Am°?ricas, 3500, Barra da Tijuca, Rio de Janeiro",",:Le Monde, Barra da Tijuca",,:Italian,,:150,:4,:Very Good,:5
+7300004,:Sushi Leblon,:Rio de Janeiro,:Rua Dias Ferreira, 256, Leblon, Rio de Janeiro",,:Leblon,,:Japanese,,:250,:4.6,:Excellent,:25
+7300868,:Talho Capixaba,:Rio de Janeiro,:Avenida Ataulfo de Paiva, 1022, Lojas A e B, Leblon, Rio de Janeiro",,:Leblon,",:Bakery, Sandwich, Brazilian",,:120,:4.4,:Very Good,:13
+7302637,:Leme Light,:Rio de Janeiro,:Rua Gustavo Sampaio, 798, Leme, Rio de Janeiro",,:Leme,,:Brazilian,,:40,:4.2,:Very Good,:7
+7302140,:Shirley,:Rio de Janeiro,:Rua Gustavo Sampaio, 610, Leme, Rio de Janeiro",,:Leme,",:Brazilian, Seafood",,:250,:4.2,:Very Good,:8
+7305048,:Quiosque Chopp Brahma,:Rio de Janeiro,:Madureira Shopping - Loja 289/290, Piso 2, Estrada do Portela, 222, Madureira, Rio de Janeiro, RJ",,:Madureira,",:Bar Food, Brazilian",,:70,:0,:Not rated,:1
+7302898,:Apraz°_vel,:Rio de Janeiro,:Rua Apraz°_vel, 62, Santa Teresa, Rio de Janeiro",,:Santa Teresa,,:Brazilian,,:300,:4.7,:Excellent,:44
+7302859,:Aconchego Carioca,:Rio de Janeiro,:Rua Bar°úo de Iguatemi, 379, Tijuca, Rio de Janeiro",,:Tijuca,",:Brazilian, Bar Food",,:85,:4.6,:Excellent,:24
+7301700,:Garota de Ipanema,:Rio de Janeiro,:Avenida Jo°úo Alves, 56, Urca, Rio de Janeiro",,:Urca,",:Brazilian, Bar Food",,:80,:4.3,:Very Good,:10
+6706313,:Cantina Famiglia Mancini,:S°úo Paulo,:Rua Avanhandava, 81, Bela Vista, S°úo Paulo 10000",",:Bela Vista, Centro",",:Italian, Pizza",,:250,:4.5,:Excellent,:49
+6704326,:Templo da Carne - Marcos Bassi,:S°úo Paulo,:Rua Treze de Maio, 668, Bela Vista, S°úo Paulo 01327000",",:Bela Vista, Centro",",:Steak, BBQ",,:250,:4.4,:Very Good,:17
+6711179,:Gopala Hari,:S°úo Paulo,:Rua Antonio Carlos, 429, Consola°_°úo, S°úo Paulo",,:Consola°_°úo,,:Indian,,:70,:3.1,:Average,:5
+6702797,:Jiquitaia,:S°úo Paulo,:Rua Ant°Änio Carlos, 268, Consola°_°úo, S°úo Paulo",,:Consola°_°úo,,:Brazilian,,:100,:4.1,:Very Good,:15
+6700475,:Skye - Hotel Unique,:S°úo Paulo,:Hotel Unique, Avenida Brigadeiro Lu°_s Ant°Änio, 4700, Jardim Paulista, S°úo Paulo",",:Hotel Unique, Jardim Paulista",",:Beverages, International",,:300,:4.8,:Excellent,:59
+6713413,:Les 3 Brasseurs,:S°úo Paulo,:Rua Jesu°_no Arruda, 470, Itaim Bibi, S°úo Paulo",,:Itaim Bibi,",:French, Brazilian, Beverages",,:120,:4.6,:Excellent,:30
+6714340,:Red Steak & Burger,:S°úo Paulo,:Rua Tabapu°ú, 1417, Itaim Bibi, S°úo Paulo",,:Itaim Bibi,",:Brazilian, Grill",,:75,:3.9,:Good,:5
+6710645,:Cantinho da Gula,:S°úo Paulo,:Rua Pedroso Alvarenga, 522, Itaim Bibi, S°úo Paulo, SP",,:Itaim Bibi,,:Brazilian,,:55,:0,:Not rated,:0
+6700402,:Paris 6 Classique,:S°úo Paulo,:Rua Haddock Lobo, 1240, Cerqueira C°?sar, Jardim Paulista, S°úo Paulo",,:Jardim Paulista,,:French,,:200,:3.4,:Average,:73
+6700846,:Kawa Sushi,:S°úo Paulo,:Alameda Lorena, 300, Jardim Paulista, S°úo Paulo",,:Jardim Paulista,",:Sushi, Japanese",,:120,:3.5,:Good,:9
+6702159,:A Figueira Rubaiyat,:S°úo Paulo,:Rua Haddock Lobo, 1738, Cerqueira C°?sar, Jardim Paulista, S°úo Paulo 10000",,:Jardim Paulista,",:BBQ, Grill, Brazilian",,:300,:4.3,:Very Good,:39
+6711666,:Kinoshita,:S°úo Paulo,:Rua Jacques F°?lix, 405, Vila Nova Concei°_°úo, Moema, S°úo Paulo",,:Moema,,:Sushi,,:230,:3.9,:Good,:12
+6701257,:Meats,:S°úo Paulo,:Rua dos Pinheiros, 320, Pinheiros, S°úo Paulo",,:Pinheiros,",:Gourmet Fast Food, Burger",,:120,:4.3,:Very Good,:68
+6706211,:Paribar,:S°úo Paulo,:Pra°_a Dom Jos°? Gaspar, 42, Rep°_blica, S°úo Paulo 10000",,:Rep°_blica,",:Brazilian, Italian",,:150,:4.3,:Very Good,:46
+6705858,:Terra°_o It°ália,:S°úo Paulo,:Edif°_cio It°ália - 41?? Andar, Avenida Ipiranga, 344, Rep°_blica, S°úo Paulo",,:Rep°_blica,,:Italian,,:400,:4.4,:Very Good,:37
+6701419,:Divino Fog°úo,:S°úo Paulo,:Shopping Metr°Ä Santa Cruz - Piso L2, Rua Domingos de Morais, 2564, Vila Mariana, S°úo Paulo",",:Shopping Metr°Ä Santa Cruz, Vila Mariana",",:Brazilian, Mineira",,:65,:0,:Not rated,:2
+6703956,:Super Grill,:S°úo Paulo,:Shopping Morumbi - Piso Lazer, Avenida Roque Petroni J°_nior, 1089, Santo Amaro, S°úo Paulo",",:Shopping Morumbi, Santo Amaro",,:Brazilian,,:50,:0,:Not rated,:2
+6709580,:Esquina Mocot°_,:S°úo Paulo,:Avenida Nossa Senhora do Loreto, 1104, Vila Medeiros, Vila Maria, S°úo Paulo",,:Vila Maria,",:Brazilian, North Eastern",,:100,:4.4,:Very Good,:22
+6703176,:Veloso,:S°úo Paulo,:Rua Concei°_°úo Veloso, 56, Vila Mariana, S°úo Paulo",,:Vila Mariana,",:Brazilian, Bar Food, Beverages",,:70,:4.6,:Excellent,:58
+6713772,:Sainte Marie Gastronomia,:S°úo Paulo,:Rua Dom Jo°úo Batista da Costa, 70, Vila S°Änia, S°úo Paulo",,:Vila S°Änia,",:Lebanese, Arabian",,:120,:4.1,:Very Good,:11
+17284404,:Austin's BBQ and Oyster Bar,:Albany,:2820 Meredyth Dr, Albany, GA 31707",,:Albany,",:BBQ, Burger, Seafood",,:25,:3.3,:Average,:35
+17284203,:BJ's Country Buffet,:Albany,:2401 Dawson Rd, Albany, GA 31707",,:Albany,",:American, BBQ",,:10,:3.3,:Average,:25
+17284105,:Cookie Shoppe,:Albany,:115 N Jackson St, Albany, GA 31701",,:Albany,,,:0,,:3,:0,:34
+17284302,:0
+17284397,:Elements Coffee Co - Northwest,:Albany,:2726 Ledo Rd Ste 10, Albany, GA 31707",,:Albany,",:Coffee and Tea, Sandwich",,:10,:3.4,:Average,:26
+17284211,:Pearly's Famous Country Cookng,:Albany,:814 N Slappey Blvd, Albany, GA 31701",,:Albany,,,:0,,:3,:0,:36
+17284094,:0
+17284409,:Guang Zhou Chinese Restaurant,:Albany,:1214 N Westover Blvd, Albany, GA 31707",,:Albany,",:Asian, Chinese, Vegetarian",,:10,:3.9,:Good,:141
+17284139,:Harvest Moon,:Albany,:2347 Dawson Road, Albany, GA 31707",,:Albany,",:Pizza, Bar Food, Sandwich",,:25,:3.7,:Good,:147
+17284403,:Henry Campbell's Steakhouse,:Albany,:629 N. Westover Blvd, Albany, GA 31707",,:Albany,",:Steak, Tapas, Bar Food",,:70,:3.5,:Good,:51
+17284145,:Hong Kong Cafe,:Albany,:2700 Dawson Rd, Albany, GA 31707",,:Albany,",:Chinese, Seafood, Vegetarian",,:25,:3.6,:Good,:88
+17284150,:House of China Restaurant II,:Albany,:2526 Dawson Rd Ste A, Albany, GA 31707",,:Albany,,:Chinese,,:10,:3.8,:Good,:153
+17284158,:Jimmie's Hot Dogs,:Albany,:204 S Jackson St, Albany, GA 31701",,:Albany,,,:10,,:3,:0,:160
+17284175,:0
+17284179,:Longhorn Steakhouse,:Albany,:2733 Dawson Rd, Albany, GA 31707",,:Albany,",:American, Steak",,:25,:3.5,:Good,:58
+17284197,:Mikata Japanese Steakhouse,:Albany,:2610 Dawson Rd, Albany, GA 31707",,:Albany,",:Japanese, Steak, Sushi",,:40,:3.6,:Good,:115
+17284241,:Shogun Japanese Steak House,:Albany,:629 N Westover Blvd, Albany, GA 31707",,:Albany,",:Japanese, Steak, Sushi",,:40,:3.5,:Good,:51
+17284390,:The Catch Seafood Room & Oyster Bar,:Albany,:2332 Whispering Pines Road, Albany, GA 31707",,:Albany,",:Seafood, Tapas, Bar Food",,:40,:3.8,:Good,:250
+17284279,:Villa Gargano,:Albany,:1604 N Slappey Blvd, Albany, GA 31701",,:Albany,",:Italian, Pizza",,:10,:3.7,:Good,:117
+17284364,:3 Squares Diner,:Albany,:202 W Franklin St, Sylvester, GA 31791",,:Sylvester,",:American, Breakfast, Diner",,:10,:3.4,:Average,:20
+16611114,:Whitebull Hotel,:Armidale,:117 Marsh St, Armidale, NSW",,:Armidale,",:Bar Food, Steak",,:20,:3.5,:Good,:25
+17293281,:Last Resort Grill,:Athens,:184 W Clayton St, Athens, GA 30601",,:Athens,",:American, Southern, Southwestern",,:40,:4.5,:Excellent,:1821
+17293301,:Mama's Boy Restaurant,:Athens,:197 Oak St, GA 30601",,:Athens,,:Southern,,:10,:4.5,:Excellent,:849
+17293409,:Sr. Sol 1,:Athens,:175 Tallassee Rd, Athens, GA 30606",,:Athens,,:Mexican,,:10,:4.6,:Excellent,:917
+17293163,:Choo Choo Eastside,:Athens,:1055 Gaines School Rd Ste 100, Athens, GA 30605",,:Athens,",:Japanese, Korean",,:10,:3.9,:Good,:439
+17293228,:The Grill,:Athens,:171 College Ave, Athens, GA 30601",,:Athens,",:Breakfast, Burger, Sandwich",,:10,:3.7,:Good,:289
+17293880,:Big City Bread Cafe,:Athens,:393 N Finley St, Athens, GA 30601",,:Athens,",:Breakfast, Sandwich",,:10,:4.3,:Very Good,:558
+17293169,:Clocked,:Athens,:259 W Washington St, Athens, GA 30601",,:Athens,",:American, Burger, Sandwich",,:10,:4.2,:Very Good,:613
+17293186,:DePalma's Italian Cafe - Downtown,:Athens,:401 E Broad St, Athens, GA 30601",,:Athens,",:American, Italian, Pizza",,:25,:4,:Very Good,:353
+17293180,:DePalma's Italian Cafe - East Side,:Athens,:1965 Barnett Shoals Rd, Athens, GA 30605",,:Athens,",:American, Italian, Pizza",,:25,:4.1,:Very Good,:387
+17293205,:Five & Ten,:Athens,:1073 South Milledge Ave, Athens, GA 30605",,:Athens,,:American,,:40,:4.3,:Very Good,:755
+17293229,:Grit,:Athens,:199 Prince Ave, Athens, GA 30601",,:Athens,",:International, Southern, Vegetarian",,:10,:4.2,:Very Good,:800
+17293897,:Ike & Jane,:Athens,:1307 Prince Ave, Athens, GA 30606",,:Athens,,:Sandwich,,:10,:4.1,:Very Good,:350
+17293273,:La Dolce Vita Ristorante,:Athens,:323 E Broad St, Athens, GA 30601",,:Athens,,:Italian,,:40,:4.1,:Very Good,:464
+17293870,:Shokitini,:Athens,:251 W Clayton St, Athens, GA 30601",,:Athens,",:Asian, Japanese, Sushi",,:25,:4.2,:Very Good,:550
+17293877,:Taqueria Del Sol,:Athens,:334 Prince Ave, Athens, GA 30601",,:Athens,",:Mexican, Spanish",,:10,:4.1,:Very Good,:543
+17293890,:The National,:Athens,:232 W. Hancock Ave., Athens, GA 30601",,:Athens,",:International, Southern",,:40,:4.1,:Very Good,:465
+17293915,:The Royal Peasant,:Athens,:1675 S. Lumpkin St., Athens, GA 30606",,:Athens,,:Bar Food,,:10,:4.4,:Very Good,:546
+17293422,:Transmetropolitan,:Athens,:145 E Clayton St, Athens, GA 30601",,:Athens,",:Italian, Pizza, Sandwich",,:10,:4.4,:Very Good,:1098
+17293873,:Trappeze Pub,:Athens,:269 N Hull St, Athens, GA 30601",,:Athens,",:Burger, Bar Food",,:25,:4.2,:Very Good,:579
+17294014,:Viva! Argentine Cuisine,:Athens,:247 Prince Ave, Athens, GA 30601",,:Athens,",:Desserts, Latin American, Argentine",,:10,:4.1,:Very Good,:374
+17294556,:Miyabi Kyoto Japanese Steak House,:Augusta,:1315 Augusta West Pkwy, Augusta, GA 30909",,:Augusta,",:Chinese, Steak",,:40,:4.6,:Excellent,:717
+17294607,:Rae's Coastal Cafe,:Augusta,:3208 W Wimbledon Dr, Augusta, GA 30909",,:Augusta,",:American, Caribbean, Seafood",,:40,:4.9,:Excellent,:548
+17294279,:The Bee's Knees,:Augusta,:211 10th Street, Augusta, GA 30901",,:Augusta,",:International, Tapas, Vegetarian",,:25,:4.5,:Excellent,:631
+17294300,:Boll Weevil Cafe,:Augusta,:10 9th St, Augusta, GA 30901",,:Augusta,",:Desserts, Sandwich, Southern",,:10,:3.9,:Good,:372
+17295215,:Farmhaus Burger,:Augusta,:1204 Broad St, Augusta, GA 30901",,:Augusta,",:American, Burger",,:25,:3.9,:Good,:201
+17295028,:Manuel's Bread Cafe,:Augusta,:505 Railroad Ave, North Augusta, GA 29841",,:Augusta,",:Breakfast, French",,:40,:3.8,:Good,:332
+17294642,:Sconyers Bar B Que,:Augusta,:2250 Sconyers Way, Augusta, GA 30906",,:Augusta,,:BBQ,,:25,:3.5,:Good,:304
+17295109,:Frog Hollow Tavern,:Augusta,:1282 broad street, Augusta, GA 30901",,:Augusta,,:American,,:40,:4.3,:Very Good,:368
+17294441,:Giuseppe's Pizza & Italian Specialities,:Augusta,:3690 Wheeler Rd, Augusta, GA 30909",,:Augusta,",:Desserts, Italian, Pizza",,:25,:4.1,:Very Good,:430
+17294552,:Mellow Mushroom,:Augusta,:1167 Broad St, Augusta, GA 30901",,:Augusta,",:Italian, Pizza, Sandwich",,:25,:4.4,:Very Good,:433
+17294565,:Nacho Mamas Burritos,:Augusta,:976 Broad St, Augusta, GA 30901",,:Augusta,,:Mexican,,:10,:4,:Very Good,:380
+17294623,:Rhinehart's Oyster Bar,:Augusta,:3051 Washington Rd, Augusta, GA 30907",,:Augusta,",:Bar Food, Sandwich, Seafood",,:25,:4,:Very Good,:456
+17294712,:Takosushi,:Augusta,:437 Highland Ave, Augusta, GA 30909",,:Augusta,",:Mexican, Southwestern, Sushi",,:40,:4.2,:Very Good,:647
+17295033,:The Chop House,:Augusta,:Augusta Mall, Augusta, GA 30909",,:Augusta,,:Steak,,:40,:4,:Very Good,:360
+17295069,:The Taj of India,:Augusta,:502 Furys Ferry Rd, Augusta, GA 30907",,:Augusta,,:Indian,,:25,:4,:Very Good,:227
+17294261,:Augsburg Haus,:Augusta,:4460 Washington Road, Evans, GA 30809",,:Evans,,:German,,:25,:3.9,:Good,:290
+17295115,:Pho Bac,:Augusta,:4300 Towne Centre, Evans, GA 30809",,:Evans,,:Vietnamese,,:10,:4.1,:Very Good,:270
+17294836,:Rhinehart's Oyster Bar,:Augusta,:303 North Bel Air Rd, Evans, GA 30809",,:Evans,",:Burger, Seafood",,:25,:4,:Very Good,:326
+17294850,:Thai Kitchen,:Augusta,:4357 Washington Road, Evans, GA 30809",,:Evans,,:Thai,,:35,:4.3,:Very Good,:317
+17294883,:El Kiosco Mexican Restaurant,:Augusta,:5174 Wrightsboro Rd, Grovetown, GA 30813",,:Grovetown,,:Mexican,,:10,:4.2,:Very Good,:300
+16608864,:Taste of Balingup,:Balingup,:63 South Western Hwy, Balingup, WA",,:Balingup,,:Modern Australian,,:20,:3.2,:Average,:21
+16604911,:Bridge Road Brewers,:Beechworth,:Old Coach House 50 Ford St, Beechworth, Beechworth, VIC",,:Beechworth,",:Pizza, Bar Food",,:20,:4.6,:Excellent,:237
+17303465,:Bardenay,:Boise,:610 W Grove St, Boise, ID 83702",,:Boise,",:American, Bar Food",,:25,:4.5,:Excellent,:879
+17303642,:Flatbread Neapolitan Pizzeria,:Boise,:800 W Main Suite 230, Boise, ID 83702",,:Boise,",:Italian, Pizza",,:25,:4.6,:Excellent,:615
+17303670,:Goldy's Breakfast Bistro,:Boise,:108 S Capitol Blvd, Boise, ID 83702",,:Boise,",:Breakfast, Sandwich",,:25,:4.5,:Excellent,:879
+17303545,:Chandlers Steakhouse,:Boise,:981 W Grove St, Boise, ID 83702",,:Boise,",:American, Seafood, Steak",,:70,:3.9,:Good,:379
+17303655,:Bar Gernika Basque Pub & Eatery,:Boise,:202 S Capitol Blvd, Boise, ID 83702",,:Boise,",:European, Spanish",,:10,:4.3,:Very Good,:303
+17304691,:Barbacoa Restaurant,:Boise,:276 Bobwhite Ct, Boise, ID 83706",,:Boise,",:Latin American, Steak",,:70,:4.1,:Very Good,:538
+17303478,:Big Jud's,:Boise,:1289 Protest Rd, Boise, ID 83706",,:Boise,",:American, Burger, Sandwich",,:10,:4.2,:Very Good,:334
+17303480,:Bittercreek Ale House,:Boise,:246 N 8th St, Boise, ID 83702",,:Boise,",:American, Bar Food",,:25,:4.3,:Very Good,:555
+17304733,:Boise Fry Company,:Boise,:204 N Capitol Blvd, Boise, ID 83702",,:Boise,",:American, Burger",,:10,:4.4,:Very Good,:823
+17303646,:Flying Pie Pizzaria,:Boise,:6508 W Fairview Ave, Boise, ID 83704",,:Boise,,:Pizza,,:25,:4.1,:Very Good,:550
+17304929,:Fork,:Boise,:199 N 8th St, Boise, ID 83702",,:Boise,",:American, Burger",,:25,:4.4,:Very Good,:650
+17303684,:Guido's Original New York Style Pizza,:Boise,:235 N 5th St, Boise, ID 83702",,:Boise,,:Pizza,,:10,:4.3,:Very Good,:410
+17303772,:Los Beto's,:Boise,:5220 W Fairview Ave, Boise, ID 83706",,:Boise,,:Mexican,,:10,:4.4,:Very Good,:660
+17305123,:Lucianos Italian Restaurant,:Boise,:11 N Orchard St, Boise, ID 83706",,:Boise,",:Italian, Seafood, Vegetarian",,:25,:4.4,:Very Good,:360
+17303787,:Mai Thai Restaurant,:Boise,:750 W Idaho St, Boise, ID 83702",,:Boise,",:Sushi, Thai",,:40,:4,:Very Good,:340
+17303990,:Shige Japanese Cuisine,:Boise,:100 N 8th St, Boise, ID 83702",,:Boise,",:Japanese, Sushi, Teriyaki",,:25,:4.1,:Very Good,:393
+17304741,:The Egg Factory,:Boise,:8061 W Fairview Ave, Boise, ID 83704",,:Boise,,:Breakfast,,:10,:4.3,:Very Good,:422
+17304726,:Tucanos,:Boise,:1388 S Entertainment Ave, Boise, ID 83709",,:Boise,,:Brazilian,,:40,:4,:Very Good,:435
+17304486,:Texas Roadhouse,:Boise,:3801 E Fairview Avenue, Meridian, Boise, ID 83642",,:Meridian,",:American, BBQ, Steak",,:25,:4,:Very Good,:369
+17304533,:Brick 29,:Boise,:320 11th Avenue S, Nampa, ID 83651",,:Nampa,,:American,,:40,:4.4,:Very Good,:487
+17316233,:Winifreds,:Cedar Rapids/Iowa City,:3847 1st Ave SE, Cedar Rapids, IA 52402",,:Cedar Rapids,",:American, Mediterranean, Seafood",,:40,:3.7,:Good,:98
+17315883,:Biaggi's Ristorante Italiano,:Cedar Rapids/Iowa City,:320 Collins Rd NE, Cedar Rapids, IA 52402",,:Cedar Rapids,",:Italian, Pizza",,:40,:4.1,:Very Good,:365
+17315995,:El Super Burrito,:Cedar Rapids/Iowa City,:3300 Johnson Ave NW, Cedar Rapids, IA 52405",,:Cedar Rapids,,:Mexican,,:10,:4.1,:Very Good,:190
+17316018,:Granite City Food & Brewery,:Cedar Rapids/Iowa City,:4755 1st Ave SE, Cedar Rapids, IA 52402",,:Cedar Rapids,",:American, Breakfast, Burger",,:40,:4.1,:Very Good,:429
+17316038,:Irish Democrat,:Cedar Rapids/Iowa City,:3207 1st Ave SE, Cedar Rapids, IA 52402",,:Cedar Rapids,",:American, BBQ, Burger",,:25,:4.4,:Very Good,:430
+17316771,:Taste of India,:Cedar Rapids/Iowa City,:1060 Old Marion Rd NE, Cedar Rapids, IA 52402",,:Cedar Rapids,,:Indian,,:25,:4.2,:Very Good,:186
+17316201,:Thai Moon Restaurant,:Cedar Rapids/Iowa City,:4362 16th Ave SW, Cedar Rapids, IA 52404",,:Cedar Rapids,",:Chinese, Sushi, Thai",,:10,:4.2,:Very Good,:220
+17316208,:Ting's Red Lantern,:Cedar Rapids/Iowa City,:540 Boyson Rd NE, Cedar Rapids, IA 52402",,:Cedar Rapids,,:Chinese,,:10,:4.2,:Very Good,:347
+17316389,:Monica's,:Cedar Rapids/Iowa City,:303 2nd Street, Coralville, IA 52241",,:Coralville,",:American, Italian, Pizza",,:25,:3.8,:Good,:161
+17316278,:Exotic India,:Cedar Rapids/Iowa City,:102 2nd Ave, Coralville, IA 52241",,:Coralville,,:Indian,,:25,:4.1,:Very Good,:160
+17316744,:Shorts Burger and Shine,:Cedar Rapids/Iowa City,:18 S Clinton St, Iowa City, IA 52240",,:Iowa City,,:Burger,,:10,:4.9,:Excellent,:820
+17316751,:The Hamburg Inn No. 2 Inc.,:Cedar Rapids/Iowa City,:214 N Linn St, Iowa City, IA 52245",,:Iowa City,",:American, Breakfast, Burger",,:10,:4.5,:Excellent,:488
+17316766,:Bluebird Diner,:Cedar Rapids/Iowa City,:330 E Market St, Iowa City, IA 52245",,:Iowa City,",:Breakfast, Diner",,:25,:3.6,:Good,:253
+17316743,:Graze,:Cedar Rapids/Iowa City,:115 East College St, Iowa City, IA 52240",,:Iowa City,",:American, International, Sushi",,:40,:3.8,:Good,:220
+17316374,:A & A Pagliai's Pizza,:Cedar Rapids/Iowa City,:302 E Bloomington St, Iowa City, IA 52245",,:Iowa City,,:Pizza,,:25,:4.3,:Very Good,:485
+17316381,:Atlas World Grill,:Cedar Rapids/Iowa City,:127 Iowa Ave, Iowa City, IA 52240",,:Iowa City,,:International,,:40,:4.3,:Very Good,:428
+17316802,:BlackStone,:Cedar Rapids/Iowa City,:503 Westbury Dr Ste 1, Iowa City, IA 52245",,:Iowa City,",:American, Breakfast",,:25,:4.1,:Very Good,:294
+17316416,:Devotay,:Cedar Rapids/Iowa City,:117 N Linn St, Iowa City, IA 52245",,:Iowa City,",:Mediterranean, Tapas, Vegetarian",,:40,:4,:Very Good,:380
+17316449,:Jimmy Jack's Rib Shack,:Cedar Rapids/Iowa City,:1940 Lower Muscatine Rd, Iowa City, IA 52240",,:Iowa City,,:BBQ,,:25,:4.2,:Very Good,:259
+17316603,:Zoeys Pizzeria,:Cedar Rapids/Iowa City,:690 10th St, Marion, IA 52302",,:Marion,",:Pizza, Sandwich",,:25,:4.7,:Excellent,:433
+16659169,:Tokyo Sushi,:Chatham-Kent,:150 Richmond St, Chatham-Kent, ON N7M2V2",,:Chatham-Kent,",:Japanese, Sushi",,:25,:3.7,:Good,:176
+17558684,:Berry Patch Restaurant,:Clatskanie,:49289 Us-30, Westport, OR 97016",,:Clatskanie,",:American, Breakfast, Desserts",,:10,:4.3,:Very Good,:96
+18366580,:Sakura Sushi & Grill,:Cochrane,:130 Quarry Street, Unit 20, Cochrane, AB T4C 0W5",,:Cochrane,",:Asian, Japanese",,:25,:3.1,:Average,:6
+17330755,:Uptown Vietnam cuisine,:Columbus,:1250 Broadway, Columbus, GA 31901",,:Columbus,",:Asian, Vietnamese",,:10,:3.3,:Average,:33
+17330611,:Cafe Le Rue @ The Landings,:Columbus,:2523 Airport Thruway, Columbus, GA 31904",,:Columbus,",:American, Seafood, Cajun",,:25,:4.6,:Excellent,:489
+17330609,:Mark's City Grille,:Columbus,:7160 moon road, Columbus, GA 31909",,:Columbus,,:American,,:25,:4.5,:Excellent,:345
+17330024,:B Merrell's,:Columbus,:7600 Veterans Pkwy, Columbus, GA 31909",,:Columbus,",:Burger, Bar Food, Southern",,:25,:3.8,:Good,:149
+17330074,:Cannon Brewpub,:Columbus,:1041 Broadway, Columbus, GA 31901",,:Columbus,",:Pizza, Bar Food",,:25,:3.9,:Good,:330
+17330185,:Fuji Japanese Steak House,:Columbus,:6499 Veterans Pkwy, Columbus, GA 31909",,:Columbus,",:Japanese, Steak",,:40,:3.9,:Good,:247
+17330397,:Ruth Ann's Family Restaurant,:Columbus,:941 Veterans Parkway, Columbus, GA 31901",,:Columbus,",:Breakfast, Diner, Southern",,:10,:3.7,:Good,:123
+17330735,:Samurai Japanese Cuisine & Sushi Bar,:Columbus,:1009 Broadway, Columbus, GA 31901",,:Columbus,",:Japanese, Steak, Sushi",,:40,:3.6,:Good,:109
+17330676,:Wasabi Sushi and Thai,:Columbus,:1639 Bradley Park Dr, Columbus, GA 31904",,:Columbus,",:Japanese, Sushi, Thai",,:40,:3.7,:Good,:134
+17330048,:Buckhead Bar and Grill,:Columbus,:5010 Armour Rd, Columbus, GA 31904",,:Columbus,",:Seafood, Steak, Vegetarian",,:40,:4.2,:Very Good,:722
+17330604,:Burt's Butcher Shoppe and Eatery,:Columbus,:2932 Warm Springs Rd, Columbus, GA 31909",,:Columbus,,:Steak,,:25,:4.3,:Very Good,:213
+17330087,:Chef Lee's Peking Restaurant,:Columbus,:6100 Bradley Park Dr, Columbus, GA 31904",,:Columbus,,:Chinese,,:25,:4,:Very Good,:335
+17330137,:Country's Barbecue,:Columbus,:3137 Mercury Dr, Columbus, GA 31906",,:Columbus,",:BBQ, Southern",,:25,:4,:Very Good,:353
+17330155,:Deorio's,:Columbus,:3201 Macon Rd Ste 167, Columbus, GA 31906",,:Columbus,",:Italian, Pizza",,:0,:4,:Very Good,:170
+17330309,:Mellow Mushroom,:Columbus,:6100 Veterans Pkwy, Columbus, GA 31909",,:Columbus,,:Pizza,,:25,:4.1,:Very Good,:192
+17330311,:Meritage,:Columbus,:1039 1st Ave, Columbus, GA 31901",,:Columbus,",:American, Tapas",,:40,:4.1,:Very Good,:302
+17330615,:Mongo The Mongolian Fire Pit,:Columbus,:7830 - E Veterans Pkwy, Columbus, GA 31909",,:Columbus,",:Asian, Chinese",,:10,:4.2,:Very Good,:355
+17330638,:The Black Cow,:Columbus,:115 A 12th St, Columbus, GA 31901",,:Columbus,,:American,,:25,:4.3,:Very Good,:287
+17330628,:Wood Stone,:Columbus,:5739 Whitesville Rd, Columbus, GA 31904",,:Columbus,",:Italian, Mediterranean, Pizza",,:40,:4,:Very Good,:264
+17330546,:Hunter's Pub,:Columbus,:11269 GA Hwy 219, Hamilton, GA 31811",,:Hamilton,",:American, Seafood, Steak",,:40,:4.4,:Very Good,:235
+16643459,:Consort Restaurant,:Consort,:4931 50th Street, Consort, AB T0C 1B0",,:Consort,",:Chinese, Canadian",,:25,:3,:Average,:6
+17334434,:Thatcher's Barbeque and Grill,:Dalton,:1214 N Wall St, Calhoun, GA 30701",,:Calhoun,",:American, BBQ, Southern",,:25,:3.7,:Good,:38
+17334348,:Christian and Jake's Bistro,:Dalton,:555 Georgia Hwy 53, Calhoun, GA 30701",,:Calhoun,",:Desserts, Sandwich",,:10,:4.4,:Very Good,:122
+17334213,:Dub's High on the Hog,:Dalton,:349 S Wall St, Calhoun, GA 30701",,:Calhoun,,:BBQ,,:25,:4.4,:Very Good,:207
+17334355,:Sierra's Mexican Restaurant,:Dalton,:500 S. 3rd Avenue, Chatsworth, GA 30705",,:Chatsworth,",:Mexican, Tex-Mex",,:10,:3.9,:Good,:66
+17334212,:Oakwood Cafe,:Dalton,:201 West Cuyler Street, Dalton, GA 30720",,:Dalton,",:BBQ, Breakfast, Southern",,:10,:4.9,:Excellent,:249
+17333797,:Chili's Grill & Bar,:Dalton,:881 College Dr, Dalton, GA 30720",,:Dalton,,:American,,:25,:3.8,:Good,:63
+17334217,:Fuji Japanese Steakhouse,:Dalton,:1321 W Walnut Ave, Dalton, GA 30720",,:Dalton,",:Japanese, Sushi",,:40,:3.8,:Good,:145
+17334273,:Las Palmas,:Dalton,:1331 W Walnut Ave, Dalton, GA 30720",,:Dalton,,:Mexican,,:10,:3.8,:Good,:83
+17334254,:Tony's Italian Restaurant & Pizza,:Dalton,:933 Market St, Dalton, GA 30720",,:Dalton,,:Italian,,:25,:3.7,:Good,:116
+17333836,:Filling Station,:Dalton,:316 N Hamilton St, Dalton, GA 30720",,:Dalton,",:American, Burger",,:10,:4.1,:Very Good,:122
+17334197,:Five Guys Burgers and Fries,:Dalton,:1303 W. Walnut Ave., Dalton, GA 30720",,:Dalton,,:Fast Food,,:10,:4.1,:Very Good,:142
+17333882,:Los Pablos,:Dalton,:1513 W Walnut Ave Ste 6, Dalton, GA 30720",,:Dalton,,:Mexican,,:10,:4.1,:Very Good,:114
+17334211,:Kobe Hibachi & Sushi,:Dalton,:2603 Battlefield Pkwy, Fort Oglethorpe, GA 30742",,:Fort Oglethorpe,",:American, Japanese, Sushi",,:25,:4.6,:Excellent,:214
+17334390,:Soho Hibachi,:Dalton,:1014 Battlefield Parkway, Fort Oglethorpe, GA 30742",,:Fort Oglethorpe,,:Japanese,,:10,:4.3,:Very Good,:116
+17334034,:Thai Garden,:Dalton,:685 Battlefield Pkwy, Fort Oglethorpe, GA 30742",,:Fort Oglethorpe,,:Thai,,:25,:4.2,:Very Good,:111
+17334414,:Southern Bliss Bakery,:Dalton,:300 W Patton St., Lafayette, GA 30728",,:LaFayette,",:Desserts, Sandwich",,:10,:3.7,:Good,:25
+17334082,:Bailey's Bar-B-Que,:Dalton,:5540 Highway 41, Ringgold, GA 30736",,:Ringgold,,:BBQ,,:10,:4.1,:Very Good,:128
+17334364,:Farm To Fork,:Dalton,:118 Remco Shops Lane, Ringgold, GA 30736",,:Ringgold,",:American, Diner, Southern",,:10,:4.3,:Very Good,:244
+17334398,:Home Plate Grill,:Dalton,:7807 Nashville St, Ringgold, GA 30736",,:Ringgold,",:American, BBQ, Southern",,:10,:4.2,:Very Good,:112
+17334219,:Pie Slingers Pizzeria,:Dalton,:56A Fieldstone Village Drive, Rock Spring, GA 30739",,:Rock Spring,",:Italian, Pizza",,:10,:4.1,:Very Good,:144
+17335173,:Olive Tree Cafe,:Davenport,:2513 53rd Avenue, Bettendorf, IA 52722",,:Bettendorf,",:Indian, Mediterranean, Middle Eastern",,:25,:4.6,:Excellent,:166
+17335195,::Red Ginger Sushi,:rill & Bar",:avenport,",:793 Middle Rd, Bettendorf, IA 52722",,:Bettendorf,",:0,:0,:40,:4
+17335225,:Crust Stone Oven Pizza,:Davenport,:2561 E 53rd Ave, Bettendorf, IA 52722",,:Bettendorf,",:Burger, Pizza",,:25,:3.9,:Good,:136
+17335219,:Jimmy's Pancake House,:Davenport,:2521 - 18th St., Bettendorf, IA 52722",,:Bettendorf,",:American, Breakfast, Greek",,:10,:4,:Very Good,:85
+17334965,:Trattoria Tiramisu,:Davenport,:1804 State St, Bettendorf, IA 52722",,:Bettendorf,,:Italian,,:25,:4.1,:Very Good,:117
+17335189,:Prairie Grille at SteepleGate Inn,:Davenport,:100 W 76th St, Davenport, IA 52806",,:Davenport,",:American, Breakfast",,:25,:3.4,:Average,:53
+17335156,:Tantra Asian Bistro,:Davenport,:589 East 53rd St, Davenport, IA 52807",,:Davenport,,:Asian,,:25,:4.9,:Excellent,:474
+17334717,:Chick-fil-A,:Davenport,:320 W Kimberly Rd, Davenport, IA 52806",,:Davenport,,:Fast Food,,:10,:3.9,:Good,:125
+17334752,:Duck City Bistro,:Davenport,:115 E 3rd St, Davenport, IA 52801",,:Davenport,",:American, French",,:70,:3.7,:Good,:201
+18453427,:Frick's Tap,:Davenport,:1402 W 3rd Street, IA 52802",,:Davenport,",:American, Bar Food, BBQ",,:25,:0,:Not rated,:2
+17793744,:Los Agaves,:Davenport,:4882 Utica Ridge Rd, Davenport, IA 52807",,:Davenport,,:Mexican,,:25,:0,:Not rated,:3
+17334679,:Azteca,:Davenport,:4811 N Brady St Ste 3, Davenport, IA 52806",,:Davenport,,:Mexican,,:0,:4.3,:Very Good,:167
+17334718,:China Cafe,:Davenport,:3018 E 53rd St, Davenport, IA 52807",,:Davenport,,:Chinese,,:25,:4,:Very Good,:112
+17334763,:Exotic Thai Restaurant,:Davenport,:2303 E 53rd St, Davenport, IA 52807",,:Davenport,,:Thai,,:25,:4.1,:Very Good,:256
+17335158,:Front Street Brewery,:Davenport,:208 E River Dr, Davenport, IA 52801",,:Davenport,,:American,,:10,:4.3,:Very Good,:123
+17334782,:Granite City Food & Brewery,:Davenport,:5270 Utica Ridge Rd, Davenport, IA 52807",,:Davenport,,:American,,:25,:4,:Very Good,:199
+17334846,:Los Agaves,:Davenport,:3852 N Brady St, Davenport, IA 52806",,:Davenport,,:Mexican,,:25,:4.1,:Very Good,:157
+17334853,:Machine Shed Restaurant,:Davenport,:7250 Northwest Blvd, Davenport, IA 52806",,:Davenport,,:American,,:25,:4.1,:Very Good,:100
+17335168,:Osaka,:Davenport,:4901 Utica Ridge Rd, Davenport, IA 52807",,:Davenport,",:Japanese, Sushi",,:40,:4.2,:Very Good,:141
+17334958,:Texas Roadhouse,:Davenport,:4005 E 53rd Street, Davenport, IA 52807",,:Davenport,",:American, BBQ, Steak",,:25,:4.2,:Very Good,:197
+17258496,:Hickory Park,:Des Moines,:1404 S Duff Ave, Ames, IA 50010",,:Ames,",:BBQ, Burger, Desserts",,:25,:4.5,:Excellent,:1025
+17259395,:The Cafe,:Des Moines,:2616 Northridge Pkwy, Ames, IA 50010",,:Ames,",:American, Coffee and Tea",,:25,:4.9,:Excellent,:570
+17258350,:Flying Mango,:Des Moines,:4345 Hickman Rd, Des Moines, IA 50310",,:Beaverdale,",:BBQ, Caribbean, Cajun",,:40,:4.5,:Excellent,:674
+17258136,:Cool Basil,:Des Moines,:8801 University Ave, Clive, IA 50325",,:Clive,",:Asian, Sushi, Thai",,:25,:4.1,:Very Good,:496
+17258522,:HuHot Mongolian Grill,:Des Moines,:4100 University Avenue, West Des Moines, IA 50266",,:Clive,",:Asian, Chinese",,:25,:4,:Very Good,:411
+17259958,:Malo,:Des Moines,:900 Mulberry Street, Des Moines, IA 50309",,:Downtown,",:Latin American, Mexican",,:25,:3.2,:Average,:113
+17258036,:Centro,:Des Moines,:1007 Locust St, Des Moines, IA 50309",,:Downtown,",:Italian, Pizza",,:40,:4.5,:Excellent,:1109
+17259368,:Fong's Pizza,:Des Moines,:223 4th Street, Des Moines, IA 50309",,:Downtown,",:Chinese, Pizza",,:25,:4.6,:Excellent,:728
+17257684,:A Dong Restaurant,:Des Moines,:1511 High Street, Des Moines, IA 50309",,:Downtown,",:Asian, Vegetarian, Vietnamese, Bubble Tea",,:10,:4.4,:Very Good,:659
+17258154,:Court Avenue Brewing Company,:Des Moines,:309 Court Ave, Des Moines, IA 50309",,:Downtown,",:American, Pizza, Bar Food",,:40,:4.2,:Very Good,:370
+17259340,:Django,:Des Moines,:210 10th Street, Des Moines, IA 50309",,:Downtown,,:French,,:40,:4.3,:Very Good,:532
+17259243,:Miyabi 9,:Des Moines,:512 E Grand Ave, Des Moines, IA 50309",,:East Village,",:Japanese, Sushi",,:25,:4.8,:Excellent,:860
+17259625,:Zombie Burger + Drink Lab,:Des Moines,:300 E. Grand Ave., Des Moines, IA 50309",,:East Village,",:Burger, Desserts, Vegetarian",,:10,:4.2,:Very Good,:943
+17259169,:Tursi's Latin King,:Des Moines,:2200 Hubbell Ave, Des Moines, IA 50317",,:Fairground,",:American, Italian",,:70,:4.1,:Very Good,:476
+17259166,:Tsing Tsao South,:Des Moines,:4230 Fleur Dr, Des Moines, IA 50321",,:Greater South Side,,:Chinese,,:10,:4.1,:Very Good,:218
+17259335,:Bandit Burrito,:Des Moines,:5340 Merle Hay Road, Johnston, IA 50131",,:Johnston,",:Breakfast, Mexican, Southwestern",,:10,:4,:Very Good,:214
+17259248,:Jethro's BBQ,:Des Moines,:3100 Forest Ave, Des Moines, IA 50311",,:Kingman Place Historic District,",:American, BBQ",,:25,:4.3,:Very Good,:699
+17258552,:The Machine Shed Restaurant,:Des Moines,:11151 Hickman Road, Urbandale, IA 50322",,:Urbandale,",:American, Breakfast",,:25,:3.8,:Good,:308
+17259550,:Mi Patria,:Des Moines,:1410 22nd St., West Des Moines, IA 50266",,:West Des Moines,,:Latin American,,:25,:4,:Very Good,:157
+17259200,:Waterfront Seafood Market,:Des Moines,:2900 University Ave, West Des Moines, IA 50266",,:West Des Moines,",:Seafood, Sushi",,:40,:4.2,:Very Good,:530
+16615894,:The Giggling Goat,:Dicky Beach,:14 Beerburrum St, Dicky Beach, QLD",,:Dicky Beach,",:Coffee and Tea, Tea, Modern Australian",,:7,:3.6,:Good,:29
+17342816,:Burnt Toast Cafe,:Dubuque,:1220 Iowa St, Dubuque, IA 52001",,:Dubuque,,:Breakfast,,:10,:3.4,:Average,:33
+17342498,:Catfish Charlie's,:Dubuque,:1630 E 16th St, Dubuque, IA 52001",,:Dubuque,,:Seafood,,:25,:3.3,:Average,:40
+17342648,:Salsa's Mexican Restaurant,:Dubuque,:1091 Main St, Dubuque, IA 52001",,:Dubuque,,:Mexican,,:10,:3.4,:Average,:153
+17342781,:Tony Roma's,:Dubuque,:350 Bell St, Dubuque, IA 52001",,:Dubuque,",:American, BBQ, Seafood",,:25,:3.3,:Average,:65
+17342799,:Vinny Vanucchi's,:Dubuque,:180 Main Street, Dubuque, IA 52001",,:Dubuque,,:Italian,,:25,:3.4,:Average,:58
+17342772,:Champps Americana,:Dubuque,:3100 Dodge St., Dubuque, IA 52003",,:Dubuque,",:American, Burger, Sandwich",,:25,:3.5,:Good,:100
+17342771,:Fiesta Cancun,:Dubuque,:2515 NW Arterial, Dubuque, IA 52002",,:Dubuque,,:Mexican,,:10,:3.6,:Good,:156
+17342548,:Happy Joe's Pizza & Ice Cream,:Dubuque,:855 Century Dr, Dubuque, IA 52002",,:Dubuque,",:Desserts, Pizza, Ice Cream",,:0,:3.5,:Good,:74
+17342556,:Houlihan's,:Dubuque,:1795 Greyhound Park Rd, Dubuque, IA 52001",,:Dubuque,",:American, Burger",,:25,:3.6,:Good,:117
+17342811,:Ichiban Hibachi Steakhouse & Sushi Bar,:Dubuque,:3187 University Ave, Dubuque, IA 52001",,:Dubuque,",:Japanese, Steak, Sushi",,:40,:3.7,:Good,:83
+17342576,:Kalmes Breaktime Bar & Grill,:Dubuque,:1097 Jackson St, Dubuque, IA 52001",,:Dubuque,",:American, Burger",,:25,:3.6,:Good,:48
+17342770,:L. May Eatery,:Dubuque,:1072 Main St, Dubuque, IA 52001",,:Dubuque,",:International, Pizza",,:40,:3.8,:Good,:198
+17342585,:Los Aztecas,:Dubuque,:2700 Dodge St, Dubuque, IA 52003",,:Dubuque,,:Mexican,,:10,:3.5,:Good,:126
+17342494,:Manna Java World Cafe,:Dubuque,:700 Locust St, Dubuque, IA 52001",,:Dubuque,",:Breakfast, Pizza",,:10,:3.5,:Good,:119
+17342594,:Mario's Italian Restaurant,:Dubuque,:1298 Main St, Dubuque, IA 52001",,:Dubuque,",:American, Italian",,:25,:3.6,:Good,:140
+17342625,:Pepper Sprout Incorporated,:Dubuque,:378 Main St, Dubuque, IA 52001",,:Dubuque,,:American,,:40,:3.6,:Good,:159
+17342652,:Shot Tower Inn,:Dubuque,:290 Locust St, Dubuque, IA 52001",,:Dubuque,",:Italian, Pizza",,:25,:3.6,:Good,:131
+17342665,:Sunshine Family Restaurant,:Dubuque,:401 Central Ave, Dubuque, IA 52001",,:Dubuque,",:American, Breakfast, Burger",,:10,:3.5,:Good,:60
+17342810,:Watershed Cafe,:Dubuque,:51 W 32nd Street, Dubuque, IA 52001",,:Dubuque,",:American, Burger, Pizza, Cafe",,:25,:3.7,:Good,:89
+17342775,:Woodfire Grille,:Dubuque,:301 Bell Street, Dubuque, IA 52001",,:Dubuque,",:American, Seafood, Steak",,:70,:3.6,:Good,:72
+16612028,:The Belle General,:East Ballina,:12 Shelly Beach Rd, East Ballina, NSW",,:East Ballina,,:Cafe,,:20,:4.1,:Very Good,:56
+17536645,:Jehova es Mi Pastor Tacos y Burritos,:Fernley,:135 W. Main Street, Fernley, NV 89408",,:Fernley,,:Mexican,,:10,:3.7,:Good,:83
+16613507,:Flaxton Gardens,:Flaxton,:313 Flaxton Drive, Flaxton, QLD",,:Flaxton,",:Tea, Modern Australian",,:30,:3.5,:Good,:37
+16607969,:Bespoke Harvest,:Forrest,:16 Grant St, Forrest, VIC",,:Forrest,",:Cafe, Australian",,:20,:3.7,:Good,:29
+17374405,:Houndstooth Grill & Tavern,:Gainesville,:6323 Grand Hickory Dr Ste 200A, Braselton, GA 30517",,:Braselton,",:American, Sandwich, Seafood",,:25,:4.4,:Very Good,:239
+17375060,:Hawg Wild BBQ & Catfish House,:Gainesville,:515 Grant Street, Clarkesville, GA 30523",,:Clarkesville,",:BBQ, Burger, Seafood",,:10,:4.1,:Very Good,:235
+17375164,:Bourbon Street Grille,:Gainesville,:90 Public Sq N, Dahlonega, GA 30533",,:Dahlonega,",:American, Burger, Cajun",,:25,:3.8,:Good,:88
+17374552,:Corkscrew Cafe,:Gainesville,:51 W Main St, Dahlonega, GA 30533",,:Dahlonega,,,:40,,:3,:0,:209
+17375078,:0
+17375049,:Hoka-Hoka Japanese Steak & Sushi,:Gainesville,:617 North Grove Street, Dahlonega, GA 30533",,:Dahlonega,",:Chinese, Japanese, Thai",,:10,:4.4,:Very Good,:267
+17375077,:Shenanigan's Irish Pub,:Gainesville,:87 N. Chestatee St., Dahlonega, GA 30533",,:Dahlonega,",:Bar Food, Seafood, Vegetarian",,:25,:4.1,:Very Good,:171
+17375141,:Fish Tales Lakeside Grille,:Gainesville,:6330 Mitchell Street, Flowery Branch, GA 30542",,:Flowery Branch,,:Seafood,,:25,:3.8,:Good,:107
+17375198,:Antebellum,:Gainesville,:5510 Church Street, Flowery Branch, GA 30542",,:Flowery Branch,",:American, Southern",,:40,:4.3,:Very Good,:164
+17375180,:Moonie's Texas Barbecue,:Gainesville,:5545 Atlanta Highway, Flowery Branch, GA 30542",,:Flowery Branch,",:BBQ, Sandwich",,:10,:4.1,:Very Good,:182
+17375072,:Atlanta Highway Seafood Market,:Gainesville,:227 Atlanta Highway Suite 900, Gainesville, GA 30501",,:Gainesville,",:Sandwich, Seafood, Cajun",,:25,:4.9,:Excellent,:681
+17375047,:Eat at Thai,:Gainesville,:975 Dawsonville Hwy, Gainesville, GA 30501",,:Gainesville,,:Thai,,:10,:4.6,:Excellent,:357
+17375074,:Smoke House BBQ and Catering,:Gainesville,:3205 Atlanta Hwy, Atlanta Highway, Gainesville, GA, Gainesville, GA 30507",,:Gainesville,,:BBQ,,:25,:3.8,:Good,:89
+17374921,:2 Dog,:Gainesville,:317 Spring St SE, Gainesville, GA 30501",,:Gainesville,",:American, European, Sandwich",,:25,:4.2,:Very Good,:350
+17374819,:Longstreet Cafe,:Gainesville,:1043 Riverside Terrace, Gainesville, GA 30501",,:Gainesville,,:Southern,,:10,:4.3,:Very Good,:298
+17375089,:Re-Cess,:Gainesville,:118 Bradford St NE, Gainesville, GA 30501",,:Gainesville,",:American, Southern",,:25,:4.2,:Very Good,:319
+17375214,:Bodensee,:Gainesville,:64 Munich Strasse, Helen, GA 30545",,:Helen,,:German,,:40,:3.8,:Good,:114
+17374951,:Hofer's Bakery & Cafe,:Gainesville,:8758 N Main St, Helen, GA 30545",,:Helen,",:German, Ice Cream",,:10,:3.9,:Good,:136
+17374978,:Troll Tavern,:Gainesville,:8590 N Main St Ste B, Helen, GA 30545",,:Helen,",:Burger, German, Sandwich",,:25,:2.2,:Poor,:108
+17375104,:The Nacoochee Village Tavern & Pizzeria,:Gainesville,:7275 S Main St., Helen, GA 30545",,:Helen,",:Italian, Pizza, Sandwich",,:10,:4,:Very Good,:161
+16604358,:Blue Bean Love Cafe,:Hepburn Springs,:115 Main Rd, Hepburn Springs, Hepburn Springs, VIC",,:Hepburn Springs,",:Cafe, Coffee and Tea, Modern Australian",,:20,:3.8,:Good,:192
+16604896,:La Trattoria of Lavandula,:Hepburn Springs,:350 Hepburn-Newstead Road, Hepburn Springs, VIC",,:Hepburn Springs,",:Italian, Fusion, Cafe",,:7,:3.8,:Good,:93
+16612550,:5 Little Pigs,:Huskisson,:64 Owen St, Huskisson, NSW",,:Huskisson,",:Breakfast, Modern Australian",,:20,:4.1,:Very Good,:40
+16606299,:Beach Box Cafe,:Inverloch,:6a Ramsay Blvd, Inverloch, VIC",,:Inverloch,",:Burger, Coffee and Tea, Modern Australian",,:7,:3.7,:Good,:100
+16605794,:Funkey Monkey,:Lakes Entrance,:26 Myer street, Lakes Entrance, VIC",,:Lakes Entrance,",:Breakfast, Coffee and Tea",,:7,:3.8,:Good,:97
+17557488,:Burger Queen Drive In,:Lakeview,:109 S F St, Lakeview, OR 97630",,:Lakeview,",:Burger, Desserts, Sandwich",,:10,:3.6,:Good,:41
+17452342,:Blue Orchid Thai Restaurant,:Lincoln,:129 N 10th St, Lincoln, NE 68508",,:Haymarket,,:Thai,,:25,:4.5,:Excellent,:799
+16611498,:Stillwater on Belmore,:Lorn,:27 Belmore Rd,, Lorn, NSW",,:Lorn,",:Breakfast, Coffee and Tea",,:20,:3.6,:Good,:18
+17842104,:Mr.,:Macedon,:23 Victoria St, Macedon, VIC",,:Macedon,,:Cafe,,:20,:3.5,:Good,:31
+17501291,:Emilio's Cuban Cafe,:Macon,:402 Ga. Highway 247, Bonaire, GA 31005",,:Bonaire,",:Coffee and Tea, Cuban, Latin American",,:25,:3.9,:Good,:146
+17500759,:Ingleside Village Pizza,:Macon,:2395 Ingleside Ave, Macon, GA 31204",,:Macon,",:Pizza, Sandwich",,:10,:4.9,:Excellent,:478
+17500767,:Jim Shaw's Seafood Grill & Bar,:Macon,:3040 Vineville Ave, Macon, GA 31204",,:Macon,,:Seafood,,:25,:4.6,:Excellent,:467
+17500819,:Mandarin Chinese Restaurant,:Macon,:3086 Riverside Dr, Macon, GA 31210",,:Macon,",:Chinese, Thai",,:25,:4.5,:Excellent,:302
+17500911,:Rookery,:Macon,:543 Cherry St, Macon, GA 31201",,:Macon,",:Burger, Desserts, Bar Food",,:25,:4.5,:Excellent,:289
+17501439,:Dovetail,:Macon,:543 Cherry St, Macon, GA 31201",,:Macon,,,:40,,:3,:0,:102
+17501279,:0
+17500695,:Downtown Grill,:Macon,:562 Mulberry St, Macon, GA 31201",,:Macon,,:Steak,,:70,:4,:Very Good,:195
+17501298,:Greek Corner Deli,:Macon,:587 Cherry St, Macon, GA 31201",,:Macon,",:Desserts, Greek, Sandwich",,:10,:4.3,:Very Good,:244
+17500847,:Natalia's,:Macon,:201 North Macon St., Macon, GA 31210",,:Macon,",:European, Italian, Mediterranean",,:70,:4.2,:Very Good,:379
+17500872,:Papouli's Mediterranean Cafe & Market,:Macon,:121 Tom Hill Sr Blvd, Macon, GA 31210",,:Macon,",:Greek, Mediterranean, Vegetarian",,:10,:4.2,:Very Good,:223
+17501315,:Benson's Steak and Sushi,:Macon,:1289 S Houston Lake Rd, Warner Robins, GA 31088",,:Warner Robins,",:American, Chinese, Sushi",,:25,:3.7,:Good,:243
+17501201,:My Fathers Place,:Macon,:2507 Moody Rd, Warner Robins, GA 31088",,:Warner Robins,,:Italian,,:25,:3.7,:Good,:104
+17501247,:Sushi Thai Restaurant,:Macon,:2624 Watson Blvd Ste D, Warner Robins, GA 31093",,:Warner Robins,",:Japanese, Sushi, Thai",,:10,:3.7,:Good,:153
+17501281,:The Mellow Mushroom,:Macon,:710 Lake Joy Road, Warner Robins, GA 31088",,:Warner Robins,",:Pizza, Sandwich, Vegetarian",,:25,:3.8,:Good,:323
+17501143,:El Jalisciense Mexican Restaurant,:Macon,:1224 Russell Pkwy, Warner Robins, GA 31088",,:Warner Robins,,:Mexican,,:10,:4.1,:Very Good,:181
+17501292,:Greek Village,:Macon,:1801 Watson Blvd, Warner Robins, GA 31093",,:Warner Robins,",:American, Greek, Seafood",,:25,:4,:Very Good,:316
+17501308,:Martin's BBQ,:Macon,:102 S Armed Forces Boulevard, Warner Robins, GA 31088",,:Warner Robins,,:BBQ,,:25,:4.2,:Very Good,:288
+17501301,:Thai Pepper,:Macon,:1806 Russell Parkway, Warner Robins, GA 31088",,:Warner Robins,",:Japanese, Sushi, Thai",,:10,:4,:Very Good,:232
+17501268,:Zen Japanese Steakhouse and Sushi Bar,:Macon,:4086 Watson Blvd, Warner Robins, GA 31093",,:Warner Robins,",:Japanese, Steak, Sushi",,:40,:4.1,:Very Good,:314
+16611701,:Star Buffet,:Mayfield,:58 Hanbury St, Mayfield, NSW",,:Mayfield,,:Asian,,:20,:2.9,:Average,:11
+17482142,:Triangle Restaurant,:Mc Millan,:21053 State Hwy M28, Mc Millan, MI 49853",,:Mc Millan,",:Breakfast, Burger",,:10,:2.4,:Poor,:17
+16609169,:Three Anchors,:Middleton Beach,:2 Flinders Pde, Middleton Beach, WA",,:Middleton Beach,",:Bar Food, Modern Australian",,:30,:3.8,:Good,:176
+17606621,:HI Lite Bar & Lounge,:Miller,:109 N Broadway Ave, Miller, SD 57362",,:Miller,,,:0,,:3,:0,:11
+17687832,:0
+16613059,:Poets Cafe,:Montville,:167 Main St, Montville, QLD",,:Montville,",:Coffee and Tea, Modern Australian",,:30,:2.4,:Poor,:193
+17534788,:The Artesian Restaurant,:Ojo Caliente,:Ojo Caliente Mineral Springs Resort And Spa 50 Los Banos Rd, Ojo Caliente, NM 87549",,:Ojo Caliente,",:American, International, Southwestern",,:40,:3.6,:Good,:30
+17061237,:Cev°_che Tapas Bar & Restaurant,:Orlando,:125 West Church Street, Orlando, FL 32801",,:Church Street District,",:Spanish, Tapas",,:40,:4.4,:Very Good,:981
+17057397,:'Ohana,:Orlando,:1600 Seven Seas Drive, Lake Buena Vista, FL 32830",,:Disney World Area,,:Hawaiian,,:45,:4.5,:Excellent,:1151
+17058534,:Earl of Sandwich,:Orlando,:1750 E Buena Vista Drive, Lake Buena Vista, FL 32830",,:Disney,: Downtown Disney,",:0,:0,:35,:4
+17060320,:Raglan Road Irish Pub and Restaurant,:Orlando,:1640 E Buena Vista Drive, Lake Buena Vista, FL 32830",,:Disney,: Downtown Disney,,:0,:50,:4.3,:0
+17057925,:Caf°? Tu Tu Tango,:Orlando,:8625 International Drive, Orlando, FL 32819",,:I-Drive/Universal,",:New American, Tapas",,:40,:4.6,:Excellent,:1293
+17060869,:Texas de Brazil,:Orlando,:5259 International Drive, Orlando, FL 32819",,:I-Drive/Universal,",:Brazilian, Steak",,:100,:4.6,:Excellent,:2324
+17057591,:Bahama Breeze Island Grille,:Orlando,:8849 International Drive, Orlando, FL 32819",,:I-Drive/Universal,,:Caribbean,,:45,:4.3,:Very Good,:910
+17059541,:Maggiano's Little Italy,:Orlando,:9101 International Drive,Orlando, FL 32819",,:I-Drive/Universal,,:Italian,,:50,:4.4,:Very Good,:886
+17064266,:Hawkers Asian Street Fare,:Orlando,:1103 N Mills Avenue, Orlando, FL 32803",,:Mills 50,",:Asian, Thai",,:35,:4.6,:Excellent,:1293
+17064405,:Tako Cheena by Pom Pom,:Orlando,:932 North Mills Avenue, Orlando, FL 32803",,:Mills 50,",:Asian, Latin American, Vegetarian",,:10,:4.4,:Very Good,:570
+17060516,:Seasons 52 Fresh Grill,:Orlando,:7700 West Sand Lake Road, Orlando, FL 32819",,:Restaurant Row,,:American,,:60,:4.4,:Very Good,:1685
+17059012,:Hollerbach's Willow Tree Caf°?,:Orlando,:205 East 1st Street, Sanford, FL 32771",,:Sanford,,:German,,:40,:4.8,:Excellent,:1699
+17061296,:Pom Pom's Teahouse and Sandwicheria,:Orlando,:67 North Bumby Avenue, Orlando, FL 32803",,:The Milk District,",:American, Sandwich, Tea",,:25,:4.9,:Excellent,:1457
+17061205,:Yellow Dog Eats,:Orlando,:1236 Hempel Avenue,Gotha, FL 34786",,:Windermere,",:American, BBQ, Sandwich",,:35,:4.9,:Excellent,:1252
+17064031,:Tibby's New Orleans Kitchen,:Orlando,:2203 Aloma Avenue, Winter Park, FL 32792",,:Winter Park,,:Cajun,,:25,:4.7,:Excellent,:1412
+17066603,:The Coop,:Orlando,:610 W Morse Boulevard, Winter Park, FL 32789",,:Winter Park,",:Southern, Cajun, Soul Food",,:25,:3.6,:Good,:432
+17057797,:Bosphorous Turkish Cuisine,:Orlando,:108 S Park Ave, Winter Park, FL 32789",,:Winter Park,",:Mediterranean, Turkish",,:40,:4.2,:Very Good,:568
+17061253,:Ethos Vegan Kitchen,:Orlando,:601-B South New York Avenue, Winter Park, FL 32789",,:Winter Park,",:American, Breakfast, Vegetarian",,:25,:4.4,:Very Good,:797
+17059060,:Hillstone,:Orlando,:215 South Orlando Avenue, Winter Park, FL 32789",,:Winter Park,,,:40,,:4,:0,:1158
+17061231,:0
+16613649,:Vivo Bar and Grill,:Palm Cove,:49 Williams Esplanade, Palm Cove, QLD",,:Palm Cove,",:Mediterranean, Seafood",,:30,:4.4,:Very Good,:381
+18255631,:Pier 70,:Paynesville,:70 The Esplanade, Paynesville",,:Paynesville,,:Modern Australian,,:120,:2.6,:Average,:16
+16608483,:DiVine,:Penola,:39 Church St, Penola, SA",,:Penola,",:Cafe, Coffee and Tea, Sandwich",,:20,:3.4,:Average,:19
+17580453,:Cactus Flower Cafe Navarre,:Pensacola,:8725 Ortega Park Dr, Navarre, FL 32566",,:Navarre,",:Mexican, Southwestern, Tex-Mex",,:25,:4.2,:Very Good,:635
+17580142,:McGuire's Irish Pub & Brewery,:Pensacola,:600 E Gregory Street, Pensacola, FL 32502",,:Pensacola,",:Burger, Bar Food, Steak",,:40,:4.9,:Excellent,:2238
+17580160,:New Yorker Deli & Pizzeria,:Pensacola,:3001 E Cervantes St, Pensacola, FL 32503",,:Pensacola,",:Italian, Pizza, Sandwich",,:10,:4.6,:Excellent,:792
+17580349,:Tu-Do Vietnamese Restaurant,:Pensacola,:7130 N Davis Hwy, Pensacola, FL 32504",,:Pensacola,",:Asian, Vietnamese",,:10,:4.5,:Excellent,:828
+17580412,:Carrabba's Italian Grill,:Pensacola,:311 N 9th Avenue, Pensacola, FL 32502",,:Pensacola,",:Italian, Pizza, Seafood",,:40,:3.7,:Good,:292
+17580590,:Jaco's Bayfront Bar and Grille,:Pensacola,:997 South Palafox, Pensacola, FL 32502",,:Pensacola,,:Tapas,,:25,:3.9,:Good,:502
+17580704,:The Tin Cow,:Pensacola,:102 S Palafox Pl, Pensacola, FL",,:Pensacola,",:Burger, Bar Food",,:25,:3.7,:Good,:559
+17579928,:Cactus Flower Cafe,:Pensacola,:3425 N 12th Ave, Pensacola, FL 32503",,:Pensacola,",:Latin American, Mexican, Southwestern",,:25,:4.2,:Very Good,:1268
+17579992,:Dharma Blue,:Pensacola,:300 S Alcaniz Street, Pensacola, FL 32502",,:Pensacola,",:Seafood, Sushi",,:40,:4.1,:Very Good,:669
+17580030,:Global Grill,:Pensacola,:27 South Palafox Pl, Pensacola, FL 32501",,:Pensacola,",:European, International, Tapas",,:40,:4.4,:Very Good,:900
+17580074,:Ichiban,:Pensacola,:5555 N Davis Hwy Ste I, Pensacola, FL 32503",,:Pensacola,",:Japanese, Sushi",,:25,:4.3,:Very Good,:765
+17580020,:The Fish House,:Pensacola,:600 S Barracks St, Pensacola, FL 32502",,:Pensacola,",:American, Seafood, Sushi",,:40,:4,:Very Good,:1270
+17580350,:Tuscan Oven,:Pensacola,:4801 N 9th Ave, Pensacola, FL 32503",,:Pensacola,",:Italian, Mediterranean, Pizza",,:25,:4.1,:Very Good,:502
+17580408,:Flounders Chowder House,:Pensacola,:800 Quietwater Beach Rd, Pensacola Beach, FL 32561",,:Pensacola Beach,,:Seafood,,:40,:3.9,:Good,:724
+17579653,:Hemingway's Island Grill,:Pensacola,:400 Quietwater Beach Rd, Pensacola Beach, FL 32561",,:Pensacola Beach,",:Caribbean, Seafood, Steak",,:40,:3.5,:Good,:479
+17580476,:Native Cafe,:Pensacola,:45 A Via De Luna Dr, Pensacola Beach, FL 32561",,:Pensacola Beach,",:Breakfast, Burger",,:25,:4.2,:Very Good,:591
+17580422,:Peg Leg Pete's,:Pensacola,:1010 Fort Pickens Rd, Pensacola Beach, FL 32561",,:Pensacola Beach,",:Burger, Sandwich, Seafood",,:40,:4.4,:Very Good,:1408
+17580539,:The Grand Marlin,:Pensacola,:400 Pensacola Beach Boulevard, Pensacola Beach, FL 32561",,:Pensacola Beach,",:Caribbean, Seafood",,:40,:4.3,:Very Good,:905
+17580511,:Original Georgios Authentic Greek Food,:Pensacola,:13310 Merilla Street, Pensacola, FL 32507",,:Perdido Key,,:Greek,,:10,:4.7,:Excellent,:816
+17580021,:Fisherman's Corner,:Pensacola,:13486 Perdido Key Dr, Pensacola, FL 32507",,:Perdido Key,",:Sandwich, Seafood, Cajun",,:40,:4.4,:Very Good,:747
+16604370,:Mad Cowes Cafe,:Phillip Island,:4/17 The Esplanade, Cowes, VIC",,:Phillip Island,",:Breakfast, Coffee and Tea, Modern Australian",,:20,:3.7,:Good,:351
+17582467,:Rupes Burgers,:Pocatello,:302 NE Main St, Blackfoot, ID 83221",,:Blackfoot,",:Burger, Fast Food",,:10,:3.7,:Good,:104
+17582668,:Texas Roadhouse,:Pocatello,:560 Bullock Street, Pocatello, ID 83202",,:Chubbuck,",:American, BBQ, Steak",,:45,:3.5,:Good,:83
+17582498,:Riverwalk Cafe,:Pocatello,:695 E Main St, Lava Hot Springs, ID 83246",,:Lava Hot Springs,",:Asian, Thai",,:10,:3.6,:Good,:91
+17582499,:Royal Hotel,:Pocatello,:11 E Main St, Lava Hot Springs, ID 83246",,:Lava Hot Springs,",:Pizza, Bar Food",,:0,:3.6,:Good,:59
+17582522,:Buddy's Italian Restaurant,:Pocatello,:626 E Lewis St, Pocatello, ID 83201",,:Pocatello,",:Italian, Pizza, Sandwich",,:40,:3.7,:Good,:222
+17582524,:Butterburrs,:Pocatello,:917 Yellowstone Avenue, Pocatello, ID 83201",,:Pocatello,",:American, Breakfast",,:30,:3.6,:Good,:121
+17582527,:Chang Garden,:Pocatello,:1000 Pocatello Creek Rd Ste W2, Pocatello, ID 83201",,:Pocatello,,:Chinese,,:10,:3.5,:Good,:93
+17582551,:Fifth Street Bagelry,:Pocatello,:559 S 5TH Ave, Pocatello, ID 83201",,:Pocatello,",:Coffee and Tea, Sandwich",,:10,:3.8,:Good,:136
+17582558,:Goody's Deli,:Pocatello,:905 S 5th Ave, Pocatello, ID 83201",,:Pocatello,",:Pizza, Sandwich",,:10,:3.8,:Good,:160
+17582560,:Grecian Key Restaurant,:Pocatello,:314 N Main St, Pocatello, ID 83204",,:Pocatello,",:American, Greek",,:25,:3.7,:Good,:152
+17582677,:Outer Limits Fun Zone,:Pocatello,:1800 Garrett Way, Pocatello, ID 83201",,:Pocatello,",:Burger, Pizza, Sandwich",,:10,:3.5,:Good,:57
+17582670,:Portneuf Valley Brewing,:Pocatello,:615 South 1st Avenue, ID 83201",,:Pocatello,",:American, Pizza",,:25,:3.7,:Good,:191
+17582625,:Sandpiper Restaurant & Lounge,:Pocatello,:1400 Bench Rd, Pocatello, ID 83201",,:Pocatello,",:American, Seafood, Steak",,:40,:3.6,:Good,:85
+17582627,:Senor Iguanas,:Pocatello,:961 Hiline Rd, Pocatello, ID 83201",,:Pocatello,,:Mexican,,:0,:3.6,:Good,:108
+17582700,:Sushi Family,:Pocatello,:415 Yellowstone Ave, Pocatello, ID 83201",,:Pocatello,",:Asian, Sushi, Vegetarian",,:25,:3.6,:Good,:132
+17582664,:Taste of India Nepal,:Pocatello,:330 N Main Street, Pocatello, ID 83204",,:Pocatello,",:Indian, International, Vegetarian",,:25,:3.8,:Good,:141
+17582682,:Thai Paradise,:Pocatello,:140 S. Main, Pocatello, ID 83204",,:Pocatello,",:Desserts, Thai",,:25,:3.7,:Good,:162
+17582669,:The Bridge,:Pocatello,:815 S 1st Street, Pocatello, ID 83201",,:Pocatello,,:New American,,:40,:3.6,:Good,:144
+18491935,:Nosh Mahal,:Pocatello,:303 E Alameda Road, ID 83201",,:Pocatello,",:Indian, Persian",,:25,:0,:Not rated,:1
+17582546,:El Herradero,:Pocatello,:123 Jefferson Ave, Pocatello, ID 83201",,:Pocatello,,:Mexican,,:10,:4.1,:Very Good,:365
+17629582,:Barrett Junction Cafe,:Potrero,:1020 Barrett Lake Rd, Dulzura, CA 91917",,:Potrero,",:American, BBQ, Burger",,:25,:3.3,:Average,:9
+17211719,:Blue Point Grill,:Princeton,:258 Nassau St, Princeton, NJ 08542",,:Princeton,,:Seafood,,:70,:4,:Very Good,:542
+17144717,:Giovanni's Shrimp Truck,:Rest of Hawaii,:56-505 Kamehameha Hwy, Kahuku, HI 96731",,:Kahuku,,:Seafood,,:25,:4.5,:Excellent,:691
+17143970,:Kona Brewing Company,:Rest of Hawaii,:75-5629 Kuakini Highway, Kailua Kona, HI 96740",,:Kailua Kona,",:American, Pizza, Bar Food",,:35,:4.7,:Excellent,:764
+17142698,:Leonard's Bakery,:Rest of Hawaii,:933 Kapahulu Ave, Honolulu, HI 96816",,:Kaimuki,,,:10,,:4,:0,:707
+17144991,:0
+17142519,:Kihei Caffe,:Rest of Hawaii,:1945 S Kihei Road, Kihei, HI 96753",,:Kihei,",:American, Hawaiian",,:10,:4.5,:Excellent,:695
+17145408,:Monkeypod Kitchen by Merriman,:Rest of Hawaii,:10 Wailea Gateway Place, Unit B-201 Kihei, Hawaii, HI 96753",,:Kihei,,:Burger,,:40,:4.2,:Very Good,:485
+17143336,:Sansei Seafood Restaurant & Sushi Bar,:Rest of Hawaii,:1881 S Kihei Rd, Kihei, HI 96753",,:Kihei,",:Japanese, Seafood, Sushi",,:40,:4.2,:Very Good,:807
+17145077,:Star Noodle,:Rest of Hawaii,:286 Kupuohi St, Lahaina, HI 96761",,:Lahaina,,:Asian,,:10,:4.6,:Excellent,:723
+17141447,:Aloha Mixed Plate,:Rest of Hawaii,:1285 Front St, Lahaina, HI 96761",,:Lahaina,",:Asian, Breakfast, Hawaiian",,:10,:4.2,:Very Good,:874
+17142096,:Gazebo,:Rest of Hawaii,:5315 Lower Honoapiilani Rd, Lahaina, HI 96761",,:Lahaina,",:Breakfast, Burger",,:25,:4.4,:Very Good,:552
+17142297,:Hula Grill,:Rest of Hawaii,:2435 Kaanapali Pkwy, Lahaina, HI 96761",,:Lahaina,",:Hawaiian, Seafood, Steak",,:40,:4.3,:Very Good,:1056
+17142535,:Kimo's,:Rest of Hawaii,:845 Front St, Lahaina, HI 96761",,:Lahaina,",:Hawaiian, Seafood, Steak",,:40,:4.3,:Very Good,:707
+17142792,:Mama's Fish House,:Rest of Hawaii,:799 Poho Pl, Paia, HI 96779",,:Paia,",:Hawaiian, Seafood",,:70,:4.9,:Excellent,:1343
+17145495,:Marukame Udon,:Rest of Hawaii,:2310 Kuhio Avenue, Honolulu, HI 96815",,:Waikiki,,:Japanese,,:10,:4.9,:Excellent,:602
+17143950,:Yard House,:Rest of Hawaii,:226 Lewers St, Honolulu, HI 96815",,:Waikiki,",:American, Asian, Burger",,:40,:4.6,:Excellent,:1078
+17142747,:Lulu's Waikiki,:Rest of Hawaii,:2586 Kalakaua Ave, Honolulu, HI 96815",,:Waikiki,,:American,,:25,:3.9,:Good,:232
+17141990,:Duke's Waikiki,:Rest of Hawaii,:2335 Kalakaua Ave, Honolulu, HI 96815",,:Waikiki,",:Hawaiian, Seafood, Steak",,:70,:4.4,:Very Good,:1492
+17144732,:Eggs 'n Things,:Rest of Hawaii,:343 Saratoga Road, Honolulu, HI 96815",,:Waikiki,,:Breakfast,,:10,:4,:Very Good,:535
+17143282,:Roy's,:Rest of Hawaii,:226 Lewers St, Honolulu, HI 96815",,:Waikiki,",:Asian, European, Seafood",,:70,:4.2,:Very Good,:531
+17143705,:Wailana Coffee House,:Rest of Hawaii,:1860 Ala Moana Blvd, Honolulu, HI 96815",,:Waikiki,",:American, Breakfast, Hawaiian",,:25,:4.2,:Very Good,:694
+17615915,:The Lady & Sons,:Savannah,:102 W Congress St, Savannah, GA 31401",,:Savannah,,:Southern,,:40,:3.3,:Average,:1201
+17616487,:Green Truck Pub,:Savannah,:2430 Habersham Street, Savannah, GA 31401",,:Savannah,,:Burger,,:40,:4.7,:Excellent,:906
+17615924,:Leopold's Ice Cream,:Savannah,:212 E Broughton Street, Savannah, GA 31401",,:Savannah,",:Desserts, Sandwich, Ice Cream",,:10,:4.6,:Excellent,:880
+17615979,:Mrs. Wilkes' Dining Room,:Savannah,:107 W Jones St, Savannah, GA 31401",,:Savannah,",:American, Southern",,:40,:4.5,:Excellent,:1014
+17616266,:Zunzi's,:Savannah,:108 E York Street, Savannah, GA 31401",,:Savannah,",:International, Mediterranean, Sandwich",,:25,:4.5,:Excellent,:796
+17615976,:Moon River Brewing Company,:Savannah,:21 W Bay St, Savannah, GA 31401",,:Savannah,",:American, Bar Food, Sandwich",,:25,:3.7,:Good,:747
+17616025,:Pirates' House Restaurant,:Savannah,:20 E Broad St, Savannah, GA 31401",,:Savannah,",:American, Seafood, Steak",,:40,:3.8,:Good,:566
+17615597,:B. Matthew's Eatery,:Savannah,:325 E Bay St, Savannah, GA 31401",,:Savannah,",:American, Breakfast",,:25,:4.1,:Very Good,:683
+17615740,:Crystal Beer Parlor,:Savannah,:301 W Jones St, Savannah, GA 31401",,:Savannah,",:American, Bar Food",,:25,:4.4,:Very Good,:690
+17616203,:Goose Feathers Cafe and Bakery,:Savannah,:39 Barnard St, Savannah, GA 31401",,:Savannah,",:Breakfast, Vegetarian",,:10,:4.2,:Very Good,:680
+17616590,:Henry's,:Savannah,:28 Drayton St, Savannah, GA 31401",,:Savannah,",:American, Breakfast",,:10,:4.1,:Very Good,:287
+17615855,:Huey's On The River,:Savannah,:115 E River St, Savannah, GA 31401",,:Savannah,",:Breakfast, Cajun",,:40,:4.1,:Very Good,:802
+17616348,:J. Christopher's,:Savannah,:122 E. Liberty, Savannah, GA 31401",,:Savannah,",:Breakfast, Diner, Sandwich",,:25,:4.3,:Very Good,:710
+17616368,:Lulu's Chocolate Bar,:Savannah,:42 MLK Jr. Blvd, Savannah, GA 31401",,:Savannah,",:Coffee and Tea, Desserts",,:10,:4.3,:Very Good,:456
+17616400,:Rocks on the River,:Savannah,:102 West Bay St., Savannah, GA 31401",,:Savannah,",:Pizza, Seafood, Steak",,:70,:4,:Very Good,:687
+17616076,:SOHO South Cafe,:Savannah,:12 W Liberty St, Savannah, GA 31401",,:Savannah,",:Cafe, Sandwich, Southern",,:25,:4.3,:Very Good,:719
+17616205,:The Olde Pink House,:Savannah,:23 Abercorn St, Savannah, GA 31401",,:Savannah,",:American, Seafood, Southern",,:70,:4.4,:Very Good,:1803
+17616222,:Vic's On The River,:Savannah,:26 E Bay St, Savannah, GA 31401",,:Savannah,,:American,,:70,:4.1,:Very Good,:558
+17616295,:The Crab Shack,:Savannah,:40 Estill Hammock Rd, Tybee Island, GA 31328",,:Tybee Island,,:Seafood,,:40,:3.8,:Good,:883
+17616465,:Tybee Island Social Club,:Savannah,:1311 Butler Ave, Tybee Island, GA 31328",,:Tybee Island,,,:10,,:3,:0,:309
+18483372,:0
+18484349,:Cut By Wolfgang Puck,:Singapore,:2 Bayfront Avenue, B1-71 Marina Bay Sands 018972",",:Bayfront Subzone, Downtown Core",",:American, Steak",,:270,:4,:Very Good,:33
+18496057,:Restaurant Andre,:Singapore,:1 Bukit Pasoh Road 089855,",:Cantonment Road, Outram",",:French, Mediterranean, European",,:500,:3.8,:Good,:33
+18483389,:Potato Head Folk,:Singapore,:6 Keong Saik Road 089143,",:Chinatown, Outram",,:American,,:80,:3.1,:Average,:34
+18483222,:Jaan,:Singapore,:2 Stamford Road, Level 70 Equinox Complex 178882",",:City Hall, Downtown Core",,:French,,:430,:3.8,:Good,:35
+18483085,:Rhubarb Le Restaurant,:Singapore,:3 Duxton Hill, Duxton 089589",",:Duxton Hill, Outram",,:French,,:315,:3.9,:Good,:33
+18484423,:Al'frank Cookies,:Singapore,:2 Haji Lane 189205,",:Haji Lane, Rochor",,:Bakery,,:20,:4.2,:Very Good,:29
+18483714,:Fratini La Trattoria,:Singapore,:10 Greenwood Avenue, Hillcrest Park 289201",",:Hillcrest, Bukit Timah",,:Italian,,:100,:4.1,:Very Good,:35
+18485469,:Boufe Boutique Cafe,:Singapore,:308 Tanglin Road,Phoenix Park #01-01  247974",",:Kay Siang Road, Tanglin",",:Italian, French, Bakery, Cafe",,:50,:3.2,:Average,:29
+18479690,:The Refinery Singapore,:Singapore,:115 King George Avenue, #01-02 Ann Chuan Industrial Building 208561",",:Lavender, Kallang",",:American, Japanese, Singaporean",,:80,:3.2,:Average,:30
+18483224,:Chye Seng Huat Hardware,:Singapore,:50 Tyrwhitt Road 207563,",:Lavender, Kallang",,:Cafe,,:40,:3.7,:Good,:33
+18493989,:Makansutra Gluttons Bay,:Singapore,:803 Raffles Avenue, #01-15 Esplanade Mall 039802",",:Marina Centre, Downtown Core",",:Singaporean, Chinese, Seafood, Malay, Indian",,:30,:3,:Average,:25
+18484464,:Colony,:Singapore,:7 Raffles Avenue, Ritz-carlton Millenia Singapore 039799",",:Marina Centre, Downtown Core",",:Asian, Continental, Seafood",,:220,:3.8,:Good,:30
+18483051,:Summer Pavilion,:Singapore,:The Ritz-Carlton, 7 Raffles Avenue,  Millenia Singapore,  039799",",:Marina Centre, Downtown Core",",:Chinese, Seafood, Cantonese, Dim Sum",,:300,:3.9,:Good,:34
+18482983,:The Lokal,:Singapore,:36 Neil Road 088865,",:Neil Road, Outram",",:Singaporean, Australian, German",,:60,:3.1,:Average,:33
+18479742,:I Am,:Singapore,:674 North Bridge Road, #01-01 Haji Lane 188804",",:North Bridge Road, Rochor",",:Western, Fusion, Fast Food",,:60,:3.2,:Average,:32
+18482938,:Super Loco,:Singapore,:The Quayside60 Roberston Quay #01-13 238252",",:Robertson Quay, Singapore River",",:American, Mexican",,:95,:3.2,:Average,:30
+18483082,:Artistry,:Singapore,:7 Jalan Pinang 199149,",:Sungai Pinang, Rochor",",:American, Bakery, European, Burger, Fusion",,:50,:3.8,:Good,:28
+18483446,:Bitters & Love,:Singapore,:18 Telok Ayer Street 068587,",:Telok Ayer Street, Outram",,:Finger Food,,:40,:3.9,:Good,:35
+18483252,:Artichoke Cafe,:Singapore,:161 Middle Road, Sculpture Square 188978",",:Victoria, Rochor",",:Cafe, Spanish, Turkish, Greek",,:75,:3.2,:Average,:33
+17621616,:Archie's Waeside,:Sioux City,:224 4th Ave NE, Le Mars, IA 51031",,:Le Mars,",:Burger, Seafood, Steak",,:40,:3.7,:Good,:100
+17621696,:Bob Roe's Pizza,:Sioux City,:2320 Transit Ave, Sioux City, IA 51106",,:Sioux City,",:American, Pizza, Bar Food",,:10,:3.6,:Good,:92
+17621744,:Da Kao Restaurant,:Sioux City,:800 W 7th St, Sioux City, IA 51103",,:Sioux City,",:Asian, Vegetarian, Vietnamese",,:10,:3.8,:Good,:182
+17621759,:Famous Dave's,:Sioux City,:201 Pierce St, Sioux City, IA 51101",,:Sioux City,,:BBQ,,:10,:3.6,:Good,:76
+17621763,:Fuji Bay Japanese Restaurant,:Sioux City,:513 6th St, Sioux City, IA 51101",,:Sioux City,",:Japanese, Sushi",,:40,:3.7,:Good,:129
+17621780,:HuHot Mongolian Grill,:Sioux City,:4229 S Lakeport St, Sioux City, IA 51106",,:Sioux City,",:Asian, Chinese",,:25,:3.6,:Good,:94
+17621781,:Hunan Palace,:Sioux City,:3523 Singing Hills Blvd, Sioux City, IA 51106",,:Sioux City,,:Chinese,,:25,:3.8,:Good,:129
+17621788,:Jerry's Pizza,:Sioux City,:1417 Morningside Ave, Sioux City, IA 51106",,:Sioux City,,:Pizza,,:25,:3.8,:Good,:178
+17621793,:Jim's Burgers,:Sioux City,:800 Pierce St, Sioux City, IA 51101",,:Sioux City,,:Burger,,:10,:3.7,:Good,:97
+17621796,:Johnnie Mars,:Sioux City,:2401 5th St, Sioux City, IA 51101",,:Sioux City,",:American, Desserts, Diner",,:10,:3.9,:Good,:161
+17621831,:Miles Inn,:Sioux City,:2622 Leech Ave, Sioux City, IA 51106",,:Sioux City,,:American,,:10,:3.7,:Good,:122
+17621832,:Milwaukee Wiener House,:Sioux City,:301 Douglas St, Sioux City, IA 51101",,:Sioux City,",:American, Fast Food",,:10,:3.8,:Good,:195
+17621833,:Minerva's Food & Cocktails,:Sioux City,:2945 Hamilton Blvd, Sioux City, IA 51104",,:Sioux City,",:American, Seafood, Steak",,:40,:3.7,:Good,:146
+17621834,:Monterrey Mexican Restaurant,:Sioux City,:3138 Singing Hills Blvd, Sioux City, IA 51106",,:Sioux City,,:Mexican,,:10,:3.7,:Good,:117
+17621869,:Rebos,:Sioux City,:1107 4th St, Sioux City, IA 51101",,:Sioux City,",:Caribbean, Mexican, Cajun",,:25,:3.8,:Good,:187
+17621960,:Tokyo Japanese Steakhouse & Sushi Bar,:Sioux City,:4567 Southern Hills Drive, Sioux City, IA 51106",,:Sioux City,",:Japanese, Steak, Sushi",,:40,:3.9,:Good,:239
+17621746,:Diamond Thai Cuisine,:Sioux City,:515 W 7th St, Sioux City, IA 51103",,:Sioux City,",:Asian, Thai, Vegetarian",,:10,:4,:Very Good,:303
+17621755,:El Fredo Pizza,:Sioux City,:523 W 19th St, Sioux City, IA 51103",,:Sioux City,,:Pizza,,:40,:4,:Very Good,:280
+17621946,:Trattoria Fresco,:Sioux City,:416 Jackson St., Sioux City, IA 51101",,:Sioux City,,:Italian,,:25,:4,:Very Good,:271
+17621552,:Kahill's Steak-Fish Chophouse,:Sioux City,:385 E 4th St, South Sioux City, IA 68776",,:South Sioux City,",:American, Seafood, Steak",,:70,:3.5,:Good,:58
+17096140,:Rumba Island Bar & Grill,:Tampa Bay,:1800 Gulf To Bay Blvd, Clearwater, FL 33765",,:Clearwater,",:BBQ, Caribbean, Seafood",,:25,:4.6,:Excellent,:1321
+17099925,:Red Mesa Cantina,:Tampa Bay,:128 3rd St S, St Petersburg, FL 33701",,:Downtown St Petersburg,",:Latin American, Mexican, Southwestern",,:25,:4.6,:Excellent,:1629
+17092257,:BellaBrava,:Tampa Bay,:204 Beach Drive Northeast, St Petersburg, FL 33701",,:Downtown St Petersburg,",:American, Italian, Seafood",,:25,:4.1,:Very Good,:921
+17092799,:Ceviche Tapas Bar & Restaurant,:Tampa Bay,:10 Beach Dr, St Petersburg, FL 33701",,:Downtown St Petersburg,",:Spanish, Tapas",,:25,:4.1,:Very Good,:986
+17095222,:The Moon Under Water,:Tampa Bay,:332 Beach Dr NE, St Petersburg, FL 33701",,:Downtown St Petersburg,",:British, Bar Food, Sandwich",,:25,:4.1,:Very Good,:1020
+17092293,:Bern's Steak House,:Tampa Bay,:1208 S Howard Ave, Tampa, FL 33606",,:Hyde Park,",:American, Desserts, Steak",,:70,:4.7,:Excellent,:3157
+17102241,:Boca Kitchen Bar Market,:Tampa Bay,:901 W. Platt St., Tampa, FL 33606",,:Hyde Park,,:Breakfast,,:40,:3.9,:Good,:665
+17102579,:Edison: Food+Drink Lab,:Tampa Bay,:912 W Kennedy Blvd, Tampa, FL 33606",,:Hyde Park,,:International,,:70,:3.9,:Good,:373
+17092801,:Ceviche Tapas Bar & Restaurant,:Tampa Bay,:2500 W Azeele St, Tampa, FL 33609",,:Hyde Park,",:Breakfast, Spanish, Tapas",,:25,:4.4,:Very Good,:1007
+17093273,:Daily Eats,:Tampa Bay,:901 S Howard Avenue, Tampa, FL 33606",,:Hyde Park,",:American, Burger",,:25,:4.4,:Very Good,:803
+17096198,:Salt Rock Grill,:Tampa Bay,:19325 Gulf Blvd, Indian Shores, FL 33785",,:Indian Rocks/Indian Shores,",:American, Seafood, Steak",,:40,:4.2,:Very Good,:1363
+17095098,:Mazzaro's Italian Market,:Tampa Bay,:2909 22nd Ave N, St Petersburg, FL 33713",,:Kenwood,",:Italian, Deli",,:10,:4.9,:Excellent,:1424
+17093135,:Conch Republic Grill,:Tampa Bay,:16699 Gulf Blvd, North Redington Beach, FL 33708",,:Madeira Beach/Redington Beach,",:Sandwich, Seafood, Steak",,:40,:4.5,:Excellent,:844
+17095236,:Mr. Dunderbak's Biergarten and Marketplatz,:Tampa Bay,:14929 Bruce B Downs Blvd, Tampa, FL 33612",,:New Tampa,",:European, German",,:40,:4.9,:Excellent,:1413
+17095979,:Red Mesa Restaurant,:Tampa Bay,:4912 4th St N, St Petersburg, FL 33703",,:Northeast St Petersburg,",:Breakfast, Mexican",,:40,:4.5,:Excellent,:1203
+17099856,:Datz,:Tampa Bay,:2616 S Macdill Avenue, Tampa, FL 33629",,:Palma Ceia,",:Desserts, Bar Food",,:40,:4.7,:Excellent,:3074
+17100307,:Ella's Americana Folk Art Cafe,:Tampa Bay,:5119 N Nebraska Ave, Tampa, FL 33603",,:Seminole Heights,",:International, Italian, Southern",,:40,:4.8,:Excellent,:1715
+17093600,:Taco Bus,:Tampa Bay,:913 E Hillsborough Ave, Tampa, FL 33604",,:Seminole Heights,",:Mexican, Vegetarian",,:10,:4.5,:Excellent,:1868
+17100547,:The Refinery,:Tampa Bay,:5137 N. Florida Ave., Tampa, FL 33603",,:Seminole Heights,",:Seafood, Steak",,:40,:4,:Very Good,:875
+17093124,:Columbia Restaurant,:Tampa Bay,:2117 E 7th Ave, Tampa, FL 33605",,:Ybor City,",:Cuban, Spanish",,:40,:4.4,:Very Good,:1746
+16608059,:1918 Bistro & Grill,:Tanunda,:94 Murray St, Tanunda, SA",,:Tanunda,",:Modern Australian, Australian",,:30,:4.4,:Very Good,:339
+16605194,:Pig and Whistle,:Trentham East,:Pearsons Rd, Trentham East, VIC",,:Trentham East,,:Australian,,:20,:4.1,:Very Good,:87
+17678243,:Buffalo Wild Wings,:Valdosta,:1553 Baytree Rd., Valdosta, GA 31602",,:Valdosta,,:Bar Food,,:25,:3.4,:Average,:98
+17678043,:El Toreo Mexican Restaurant,:Valdosta,:1713 Gornto Rd, Valdosta, GA 31601",,:Valdosta,,:Mexican,,:25,:3.1,:Average,:83
+17677978,:306 North Restaurant,:Valdosta,:306 N Patterson St, Valdosta, GA 31601",,:Valdosta,",:Seafood, Southern",,:40,:3.9,:Good,:231
+17677988,:Austins Cattle Co,:Valdosta,:2101 W Hill Ave, Valdosta, GA 31601",,:Valdosta,",:Burger, Seafood, Steak",,:40,:3.7,:Good,:216
+17678231,:Beijing Cafe,:Valdosta,:1715 C Norman Drive, Valdosta, GA 31601",,:Valdosta,",:Asian, Chinese, Thai",,:35,:3.8,:Good,:185
+17677990,:Bleu Cafe,:Valdosta,:125 N Patterson St, Valdosta, GA 31601",,:Valdosta,",:Pizza, Sandwich",,:25,:3.7,:Good,:185
+17677991,:Bleu Pub,:Valdosta,:116 W Hill Ave, Valdosta, GA 31601",,:Valdosta,",:Burger, Bar Food, Vegetarian",,:10,:3.8,:Good,:281
+17678307,:Bubba Jax Crab Shack,:Valdosta,:1700 W Hill Ave, Valdosta, GA 31601",,:Valdosta,",:Fast Food, Seafood",,:40,:3.7,:Good,:137
+17678276,:Cheddar's Scratch Kitchen,:Valdosta,:270 Norman Drive, Valdosta, GA 31601",,:Valdosta,,:American,,:25,:3.7,:Good,:209
+17678283,:El Cazador,:Valdosta,:1600 N. Ashley St., Valdosta, GA 31602",,:Valdosta,,:Mexican,,:10,:3.7,:Good,:168
+17678222,:Friends Grille and Bar,:Valdosta,:3338-B Country Club Rd, GA 31605",,:Valdosta,",:American, Southern",,:25,:3.9,:Good,:243
+17678055,:Giulios Greek & Italian Restaurant,:Valdosta,:105 E Ann St, Valdosta, GA 31601",,:Valdosta,",:Greek, Italian",,:40,:3.8,:Good,:221
+17678326,:La Jalisco Supermercato,:Valdosta,:1300 N. Ashley St., Valdosta, GA 31601",,:Valdosta,,:Mexican,,:10,:3.5,:Good,:46
+17678229,:Masato Japanese,:Valdosta,:1337 Baytree Rd, Valdosta, GA 31602",,:Valdosta,",:Japanese, Sushi",,:25,:3.9,:Good,:262
+17678097,:Mom & Dad's Italian Restaurant,:Valdosta,:4143 N Valdosta Rd, Valdosta, GA 31602",,:Valdosta,,:Italian,,:25,:3.7,:Good,:183
+17678216,:Mori's Japanese Steakhouse & Sushi Bar,:Valdosta,:1709 Norman Dr, Valdosta, GA 31601",,:Valdosta,",:Japanese, Steak, Sushi",,:70,:3.5,:Good,:208
+17678233,:Passage 2 India,:Valdosta,:2910 N Ashley St Ste E, Valdosta, GA 31602",,:Valdosta,",:Indian, Middle Eastern",,:25,:3.8,:Good,:245
+17678148,:Rodeo Mexican Restaurant,:Valdosta,:2801 N Ashley St, Valdosta, GA 31602",,:Valdosta,,:Mexican,,:25,:3.8,:Good,:199
+17678291,:Steel Magnolias,:Valdosta,:132 N. Patterson St, Valdosta, GA 31601",,:Valdosta,,:Southern,,:40,:3.8,:Good,:225
+17678218,:Smok'n Pig B-B-Q,:Valdosta,:4228 N Valdosta Rd, Valdosta, GA 31602",,:Valdosta,,:BBQ,,:25,:4.1,:Very Good,:575
+17558738,:Blue House Cafe,:Vernonia,:919 Bridge St, Vernonia, OR 97064",,:Vernonia,",:Coffee and Tea, Mediterranean",,:10,:4.3,:Very Good,:88
+16608209,:Anchorage Cafe Restaurant Wine Bar,:Victor Harbor,:21 Flinders Parade, Victor Harbor, SA",,:Victor Harbor,",:Coffee and Tea, Tapas, Australian",,:20,:3.6,:Good,:96
+16654702,:Lake House Restaurant,:Vineland Station,:3100 N Service Rd, Vineland Station, ON L0R2E0",,:Vineland Station,",:Italian, Mediterranean, Pizza",,:70,:4.3,:Very Good,:204
+17697444,:Masala Grill & Coffee House,:Waterloo,:911 W 23rd St, Cedar Falls, IA 50613",,:Cedar Falls,",:Indian, Middle Eastern",,:10,:3.2,:Average,:18
+17696871,:Brown Bottle The Cedar Falls,:Waterloo,:1111 Center St, Cedar Falls, IA 50613",,:Cedar Falls,",:Italian, Pizza, Vegetarian",,:25,:3.7,:Good,:134
+17696891,:Four Queens Dairy Cream,:Waterloo,:1310 W 1st St, Cedar Falls, IA 50613",,:Cedar Falls,,:Desserts,,:10,:3.9,:Good,:190
+17696901,:Hong Kong Chinese Restaurant,:Waterloo,:6306 University Ave, Cedar Falls, IA 50613",,:Cedar Falls,,:Chinese,,:10,:3.8,:Good,:136
+17697384,:HuHot Mongolian Grill,:Waterloo,:6301 University Ave, Cedar Falls, IA 50613",,:Cedar Falls,",:Asian, Chinese",,:25,:3.7,:Good,:113
+17697417,:J's Homestyle Cooking,:Waterloo,:1724 West 31st Street, Cedar Falls, IA 50613",,:Cedar Falls,",:American, Breakfast",,:10,:3.6,:Good,:69
+17696918,:Montage,:Waterloo,:222 Main St, Cedar Falls, IA 50613",,:Cedar Falls,",:American, Italian, Seafood",,:40,:3.6,:Good,:89
+17696920,:Mulligan's Brick Oven Grill,:Waterloo,:205 E 18th St, Cedar Falls, IA 50613",,:Cedar Falls,",:Burger, Pizza, Sandwich",,:25,:3.6,:Good,:80
+17697398,:Sakura,:Waterloo,:5719 university avenue, Cedar Falls, IA 50613",,:Cedar Falls,",:Japanese, Sushi",,:40,:3.8,:Good,:175
+17697406,:Scratch,:Waterloo,:315 Main St, Cedar Falls, IA 50613",,:Cedar Falls,",:Coffee and Tea, Desserts, Beverages",,:10,:3.7,:Good,:136
+17696941,:SOHO Sushi Bar & Deli,:Waterloo,:119 Main St, Cedar Falls, IA 50613",,:Cedar Falls,",:Sandwich, Sushi, Tapas",,:25,:3.6,:Good,:114
+17696955,:Texas Roadhouse,:Waterloo,:5715 University Ave, Cedar Falls, IA 50613",,:Cedar Falls,",:American, BBQ, Steak",,:25,:3.6,:Good,:93
+17696957,:Tony's La Pizzeria,:Waterloo,:407 Main St, Cedar Falls, IA 50613",,:Cedar Falls,",:Pizza, Sandwich",,:25,:3.6,:Good,:89
+17697418,:Chapala,:Waterloo,:900 La Porte Road, Waterloo, IA 50702",,:Waterloo,,:Mexican,,:25,:3.6,:Good,:69
+17697386,:Galleria de Paco,:Waterloo,:622 Commercial Street, Waterloo, IA 50701",,:Waterloo,,:American,,:40,:3.6,:Good,:86
+17697224,:Golden China,:Waterloo,:106 Brookridge Dr, IA 50702",,:Waterloo,,:Chinese,,:10,:3.7,:Good,:73
+17697304,:Rudy's Tacos,:Waterloo,:2401 Falls Avenue, IA 50701",,:Waterloo,,:Mexican,,:25,:3.6,:Good,:104
+17697389,:The Screaming Eagle,:Waterloo,:228 E 4th St., Waterloo, IA 50703",,:Waterloo,",:American, Bar Food",,:10,:3.7,:Good,:101
+17697424,:The Thai Bowl,:Waterloo,:624 Sycamore Street, Waterloo, IA 50703",,:Waterloo,,:Thai,,:10,:3.5,:Good,:58
+17697332,:Tokyo Japanese Steak House,:Waterloo,:1931 Sears Street, Waterloo, IA 50702",,:Waterloo,",:Japanese, Steak, Sushi",,:25,:3.9,:Good,:156
+17694056,:Theo Yianni's Authentic Greek Restaurant,:Weirton,:322 American Way, Weirton, WV 26062",,:Weirton,",:Burger, Greek, Sandwich",,:25,:3.9,:Good,:156
+17559793,:Fishpatrick's Crabby Cafe,:Winchester Bay,:196 Bayfront Loop, Winchester Bay, OR 97467",,:Winchester Bay,",:Burger, Seafood, Steak",,:25,:3.2,:Average,:16
+16668008,:Arigato Sushi,:Yorkton,:14 Second Ave North, Yorkton, SK S3N 1G1",,:Yorkton,,:Asian,,:25,:3.3,:Average,:26
+18212135,:Denny's,:Abu Dhabi,:Abu Dhabi Mall, Tourist Club Area (Al Zahiyah), Abu Dhabi",",:Abu Dhabi Mall, Tourist Club Area  (Al Zahiyah)",,:American,,:190,:4.6,:Excellent,:207
+5704255,:Famous Dave's Barbecue,:Abu Dhabi,:Near The One, Level 3, Abu Dhabi Mall, Tourist Club Area (Al Zahiyah), Abu Dhabi",",:Abu Dhabi Mall, Tourist Club Area  (Al Zahiyah)",,:American,,:260,:4.6,:Excellent,:376
+5701978,:Pizza Di Rocco,:Abu Dhabi,:Near Corner of Salam and Al Falah Street (9th Street), Salam Street, Al Dhafrah, Abu Dhabi",,:Al Dhafrah,",:Italian, Pizza",,:150,:4.4,:Very Good,:471
+5701729,:Sofra Istanbul,:Abu Dhabi,:Next to ADNOC Petrol Station, Muroor Road, Al Dhafrah, Abu Dhabi",,:Al Dhafrah,",:Turkish, Arabian, Middle Eastern",,:70,:4.3,:Very Good,:224
+5704168,:Salt,:Abu Dhabi,:Inside Mushrif Park, Al Mushrif, Abu Dhabi",,:Al Mushrif,",:Fast Food, Burger",,:100,:4.2,:Very Good,:228
+18277098,:Genghis Grill,:Abu Dhabi,:Level 2, Al Wahda Mall New Extension, Al Wahda, Abu Dhabi",",:Al Wahda Mall, Al Wahda",,:Asian,,:180,:4.6,:Excellent,:81
+5701446,:Olive Garden,:Abu Dhabi,:Level 3, Al Wahda Mall Extension, Al Wahda, Abu Dhabi",",:Al Wahda Mall, Al Wahda",",:Italian, Pizza",,:230,:4.1,:Very Good,:422
+5700052,:Cho Gao - Crowne Plaza Abu Dhabi,:Abu Dhabi,:Crowne Plaza Abu Dhabi, Sheikh Hamdan Bin Mohammed Street, Al Markaziya, Abu Dhabi",",:Crowne Plaza Abu Dhabi, Al Markaziya",",:Thai, Japanese, Chinese, Indonesian, Vietnamese",,:350,:4.4,:Very Good,:246
+5702418,:Gazebo,:Abu Dhabi,:Ground Level, Next to E-Max, Dalma Mall, Mussafah Sanaiya, Abu Dhabi",",:Dalma Mall, Mussafah Sanaiya",",:Indian, North Indian, Mughlai, Biryani",,:120,:4,:Very Good,:355
+5700386,:Sangeetha Vegetarian Restaurant,:Abu Dhabi,:Opposite Cristal Hotel, Behind KM Trading, Electra Street, Madinat Zayed, Abu Dhabi",,:Madinat Zayed,",:Indian, South Indian",,:60,:3.6,:Good,:268
+5704202,:Hot Palayok,:Abu Dhabi,:Food Court, Level 2, Madinat Zayed Shopping Centre, Madinat Zayed, Abu Dhabi",",:Madinat Zayed Shopping Centre, Madinat Zayed ",",:Filipino, Japanese, Asian",,:100,:4.5,:Excellent,:162
+5701052,:Applebee's,:Abu Dhabi,:Level 3, Mushrif Mall, Al Mushrif, Abu Dhabi",",:Mushrif Mall, Al Mushrif",",:American, Mexican, Seafood",,:250,:4,:Very Good,:205
+5704118,:Tikka Tonight,:Abu Dhabi,:Behind RAK Bank, Sanaiya ME11, Mussafah Sanaiya, Abu Dhabi",,:Mussafah Sanaiya,",:Pakistani, Afghani, Indian, Hyderabadi",,:50,:4,:Very Good,:277
+5701548,:Bait El Khetyar,:Abu Dhabi,:Al Najda Street, Najda, Abu Dhabi",,:Najda,",:Lebanese, Arabian, Middle Eastern",,:70,:4,:Very Good,:380
+18235425,:Indian By Nature,:Abu Dhabi,:Shop 2-3, Tolico Building, Behind Lebanese Roastery, Near National Hospital, Najda, Abu Dhabi",,:Najda,,:Indian,,:80,:4.3,:Very Good,:180
+5702615,:Via Delhi,:Abu Dhabi,:Near First Flight Couriers, Behind ADNOC Head Office, Salam Street, Najda Area, Najda, Abu Dhabi",,:Najda,",:Indian, North Indian, Chinese",,:100,:4,:Very Good,:525
+5703500,:Punjab Grill,:Abu Dhabi,:Venetian Village, Ritz Carlton Abu Dhabi, Grand Canal, Al Maqtaa, Abu Dhabi",",:Venetian Village, Al Maqtaa",",:Indian, North Indian",,:330,:4.9,:Excellent,:216
+18253896,:Tamba,:Abu Dhabi,:6th Floor, World Trade Centre Mall, Al Markaziya, Abu Dhabi",",:World Trade Center Mall, Al Markaziya",,:Indian,,:500,:4.7,:Excellent,:201
+5701917,:P.F. Chang's,:Abu Dhabi,:Level 1, World Trade Center Mall, Central Market, Al Markaziya, Abu Dhabi",",:World Trade Center Mall, Al Markaziya",,:Chinese,,:250,:4.2,:Very Good,:435
+5702574,:The Cheesecake Factory,:Abu Dhabi,:Level 1, Yas Mall, Yas Leisure Dr, Yas Island, Abu Dhabi",",:Yas Mall, Yas Island",",:American, Desserts",,:200,:4.6,:Excellent,:586
+202321,:The Farm,:Dubai,:Al Barari Villas, Opposite Falcon City, Al Barari, Dubai",,:Al Barari,",:Mediterranean, Italian, Thai, European",,:280,:3.9,:Good,:927
+206488,:Maharaja Bhog,:Dubai,:Ground Level, Hamsah Mall, Next to Ansar Gallery, Al Karama, Dubai",,:Al Karama,",:Indian, Rajasthani",,:90,:4.1,:Very Good,:1448
+209654,:Rasoi Ghar,:Dubai,:Zainal Mohebi Plaza, Sheikh Khalifa Bin Zayed Road, Opposite Centrepoint, Al Karama, Dubai",,:Al Karama,,:Indian,,:90,:4.3,:Very Good,:1281
+18340881,:Barbeque Nation,:Dubai,:G1, Villa, Near HQ Fitness, Near Lulu Mall, Barsha 2, Dubai",,:Barsha 2,",:Indian, North Indian",,:150,:4.5,:Excellent,:307
+18233284,:Farzi Cafe,:Dubai,:CITY WALK, Al Safa & Al Wasl Road Intersection, Al Safa, Dubai",",:CITY WALK, Al Safa",",:International, Indian",,:200,:4.5,:Excellent,:909
+18269368,:AB's Absolute Barbecues,:Dubai,:Mezzanaine Floor, Centurion Star Tower, Deira City Centre Area, Dubai",,:Deira City Centre Area,",:Continental, Indian",,:160,:4.9,:Excellent,:641
+18254160,:Carnival By Tresind,:Dubai,:Podium Level, Burj Daman, DIFC, Dubai",,:DIFC,,:Indian,,:500,:4.9,:Excellent,:322
+208939,:AB's Absolute Barbecues,:Dubai,:Shop G05, Sidra Tower, Near GEMS Wellington School, Exit 36, Sheikh Zayed Road, Dubai Media City, Dubai",,:Dubai Media City,",:Indian, Continental",,:160,:4.8,:Excellent,:2510
+201531,:Hard Rock Cafe,:Dubai,:Next to Marks & Spencer's, Festival City, Dubai",,:Festival City,",:American, Burger",,:300,:4.5,:Excellent,:1388
+208965,:The Coffee Club,:Dubai,:Wasl Vita, Opposite Civil Defence Station, Near Emirates NBD, Al Wasl Road, Jumeirah 1, Dubai",,:Jumeirah 1,,:Cafe,,:140,:4.5,:Excellent,:403
+208778,:SALT,:Dubai,:Kite Beach, Street 2D, Umm Suqeim, Dubai",",:Kite Beach, Umm Suqeim",",:Fast Food, Burger",,:100,:4.3,:Very Good,:1351
+209703,:Din Tai Fung,:Dubai,:Level 2 Expansion, Mall of the Emirates, Barsha 1, Dubai",",:Mall of the Emirates, Barsha 1",",:Asian, Chinese",,:160,:4.3,:Very Good,:661
+18381837,:SpiceKlub,:Dubai,:Opposite Aster Hospital, Near Sharaf DG, Kuwait Street, Mankhool, Dubai",,:Mankhool,",:Indian, North Indian, Street Food",,:150,:4.4,:Very Good,:281
+208850,:Tresind - Nassima Royal Hotel,:Dubai,:Level 2, Nassima Royal Hotel, Sheikh Zayad Road, Trade Centre Area, Dubai",",:Nassima Royal Hotel, Trade Centre Area",,:Indian,,:500,:4.9,:Excellent,:1352
+210134,:Grand Barbeque Buffet Restaurant,:Dubai,:Al Mina Road, Next to Ibis Styles Jumeirah Hotel, Satwa, Dubai",,:Satwa,",:Indian, Asian",,:150,:4.4,:Very Good,:552
+201044,:Red Lobster,:Dubai,:Near the Fountain, Lower Ground Level, The Dubai Mall, Downtown Dubai, Dubai",",:The Dubai Mall,Downtown Dubai",",:Seafood, American",,:285,:3.2,:Average,:506
+201340,:The Cheesecake Factory,:Dubai,:Ground Level, Near Aquarium, The Dubai Mall, Downtown Dubai, Dubai",",:The Dubai Mall,Downtown Dubai",",:American, Desserts",,:270,:4.7,:Excellent,:2424
+18289126,:Parker's,:Dubai,:The Dubai Mall, Downtown Dubai, Dubai",",:The Dubai Mall,Downtown Dubai",",:Cafe, Burger",,:170,:4.3,:Very Good,:386
+202507,:Applebee's,:Dubai,:Sheikh Issa Tower, Sheikh Zayed Road, Trade Centre Area, Dubai",,:Trade Centre Area,",:American, Mexican, Burger",,:250,:3.7,:Good,:500
+210139,:Grub Shack,:Dubai,:Building 41, Next to Dubai Healthcare City Metro Station, Dubai Healthcare City, Umm Hurair, Dubai",,:Umm Hurair,",:Goan, Chinese, Indian, North Indian",,:130,:4.3,:Very Good,:544
+5600424,:Kamat,:Sharjah,:Opposite HSBC, Near Emax, King Faisal Street, Abu Shagara, Sharjah",,:Abu Shagara,",:Indian, North Indian, South Indian, Chinese",,:85,:3.9,:Good,:285
+5602751,:Vadakkan Pepper,:Sharjah,:Near New City Center Supermarket, Abu Shagara, Sharjah",,:Abu Shagara,,:South Indian,,:70,:3.8,:Good,:210
+5600457,:Gazebo,:Sharjah,:Opposite Safeer Market, Near E max, King Faisal Street, Abu Shagara, Sharjah",,:Abu Shagara,",:Indian, Mughlai, South Indian, Biryani",,:120,:4.1,:Very Good,:372
+5600642,:Katis Restaurant,:Sharjah,:Opposite Safeer Market, Al Khan Street, Al Khan, Sharjah",,:Al Khan,",:Indian, North Indian, Chinese",,:65,:4.3,:Very Good,:316
+18268134,:Zaroob,:Sharjah,:Al Buhaira Corniche Street, Al Majaz Water Front, Al Majaz, Sharjah",,:Al Majaz,,:Lebanese,,:110,:3.9,:Good,:69
+18376208,:Derby,:Sharjah,:Al Khan Street, Al Majaz 3, Al Majaz, Sharjah",,:Al Majaz,",:Fast Food, American",,:40,:4.1,:Very Good,:33
+5600959,:Nayaab Haandi,:Sharjah,:Near Etisalat Business Center, Opposite ADNOC Petrol Station, Al Khan Street, Al Majaz 2, Al Majaz, Sharjah",,:Al Majaz,",:Pakistani, Indian",,:100,:4.1,:Very Good,:449
+5600103,:Najmat Lahore Restaurant,:Sharjah,:Near Sharjah Animal Market, Al Mina Road, Al Mareija, Sharjah",,:Al Mareija,",:Pakistani, Indian, Mughlai",,:80,:4.2,:Very Good,:504
+5602586,:Saffron,:Sharjah,:Mina Road, Opposite Bird Market, Al Mareija, Sharjah",,:Al Mareija,",:Pakistani, Chinese, Indian, Afghani",,:90,:4.1,:Very Good,:192
+5600961,:Pizza Hut,:Sharjah,:Next to Safeer Mall, Al Nahda, Sharjah",,:Al Nahda,",:Fast Food, Pizza",,:80,:2.4,:Poor,:154
+5600960,:Al Mukhtar Bakery,:Sharjah,:Near Safeer Mall, Al Nahda, Sharjah",,:Al Nahda,",:Bakery, Arabian, Middle Eastern",,:50,:4.2,:Very Good,:142
+5601340,:Aroos Damascus,:Sharjah,:Opposite Emirates NBD, Near First Gulf Bank, King Abdul Aziz Street, Al Nud, Sharjah",,:Al Nud,",:Arabian, Middle Eastern",,:60,:4.2,:Very Good,:444
+5600701,:Nando's,:Sharjah,:Ground level, Block D, Qanat Al Qasba, Al Khan, Sharjah",",:Al Qasba, Al Khan",",:African, Portuguese",,:160,:4.2,:Very Good,:265
+5601404,:Peking Chinese Restaurant,:Sharjah,:Opposite Spinneys Roundabout, Estiqlal Square, Halwan Suburb, Sharjah",,:Halwan Suburb,",:Chinese, Thai",,:130,:3.8,:Good,:227
+5600556,:TGI Friday's,:Sharjah,:Majaz Waterfront, Buhairah Corniche, Al Majaz 3, Al Majaz, Sharjah",",:Majaz Waterfront, Al Majaz 3",",:American, Mexican",,:250,:3.9,:Good,:357
+5602055,:Rajasthan Al Malaki,:Sharjah,:Behind DPS Sharjah Primary School, Muwailih Commercial, Sharjah",,:Muwailih Commercial,",:Indian, North Indian",,:60,:4.8,:Excellent,:459
+5601521,:Applebee's,:Sharjah,:Opposite Jumbo Electronics, Level 2, Sahara Centre, Al Nahda, Sharjah",",:Sahara Centre, Al Nahda",",:American, Mexican, Burger",,:250,:4.1,:Very Good,:197
+5602377,:Paper Fig,:Sharjah,:Near Dubai Islamic Bank, Muweilah, University City, Sharjah",,:University City,",:Cafe, Bakery, Desserts",,:150,:4.5,:Excellent,:143
+5602884,:Sis Burger,:Sharjah,:Behind ADNOC Petrol Station,Univercity City Road, University City, Sharjah",,:University City,",:Fast Food, Burger",,:50,:3.8,:Good,:12
+5602942,:Crafted Blends,:Sharjah,:Next To Super Bonanza Hyper Market, Opposite Defence Camp, University City, Sharjah",,:University City,,:Cafe,,:110,:4.2,:Very Good,:43
+3400025,:Jahanpanah,:Agra,:E 23, Shopping Arcade, Sadar Bazaar, Agra Cantt, Agra",,:Agra Cantt,",:North Indian, Mughlai",,:850,:3.9,:Good,:140
+3400341,:Rangrezz Restaurant,:Agra,:E-20, Shopping Arcade, Sadar Bazaar, Agra Cantt, Agra",,:Agra Cantt,",:North Indian, Mughlai",,:700,:3.5,:Good,:71
+3400005,:Time2Eat - Mama Chicken,:Agra,:Main Market, Sadar Bazaar, Agra Cantt, Agra",,:Agra Cantt,,:North Indian,,:500,:3.6,:Good,:94
+3400021,:Chokho Jeeman Marwari Jain Bhojanalya,:Agra,:1/48, Delhi Gate, Station Road, Raja Mandi, Civil Lines, Agra",,:Civil Lines,,:Rajasthani,,:400,:4,:Very Good,:87
+3400017,:Pinch Of Spice,:Agra,:23/453, Opposite Sanjay Cinema, Wazipura Road, Sanjay Place, Civil Lines, Agra",,:Civil Lines,",:North Indian, Chinese, Mughlai",,:1000,:4.2,:Very Good,:177
+3400325,:MoMo Cafe,:Agra,:Courtyard by Marriott Agra, Phase 2, Fatehabad Road, Tajganj, Agra",",:Courtyard by Marriott Agra, Tajganj",",:North Indian, European",,:2000,:4,:Very Good,:45
+3400059,:Peshawri - ITC Mughal,:Agra,:ITC Mughal, Fatehabad Road, Tajganj, Agra",",:ITC Mughal, Tajganj",",:North Indian, Mughlai",,:2500,:4.3,:Very Good,:133
+3400060,:Taj Bano - ITC Mughal,:Agra,:ITC Mughal, Fatehabad Road, Tajganj, Agra",",:ITC Mughal, Tajganj",,:Mughlai,,:2500,:4,:Very Good,:41
+3400348,:G Thal,:Agra,:3/20, KPS Tower, Near Tulsi Talkies, Bypass Road, Khandari, Agra",,:Khandari,",:Rajasthani, Gujarati, Mughlai",,:800,:3.6,:Good,:59
+3400072,:Dawat-e-Nawab - Radisson Blu,:Agra,:Radisson Blu, Taj East Gate Road, Tajganj, Agra",",:Radisson Blu, Tajganj",",:North Indian, Mughlai",,:3600,:3.8,:Good,:46
+3400073,:The Latitude - Radisson Blu,:Agra,:Radisson Blu, Taj East Gate Road, Tajganj, Agra",",:Radisson Blu, Tajganj",",:North Indian, Chinese, Continental",,:0,:3.9,:Good,:103
+3400019,:Dasaprakash Restaurant,:Agra,:Meher Cinema Complex, Gwalior Road, Rakabganj, Agra",,:Rakabganj,",:South Indian, Desserts",,:550,:4.1,:Very Good,:121
+3400033,:The Charcoal Chimney,:Agra,:Hotel Samovar, Fatehabad Road, Tajganj, Agra",,:Tajganj,",:North Indian, Chinese, Continental, Mughlai",,:1100,:3.4,:Average,:70
+3400346,:Sheroes Hangout,:Agra,:Opposite The Gateway Hotel, Fatehabad Road, Tajganj, Agra",,:Tajganj,",:Cafe, North Indian, Chinese",,:0,:4.9,:Excellent,:77
+3400350,:Bon Barbecue,:Agra,:Parador Hotel, 3A-3B, Phase 1, Fatehabad Road, Taj Nagri, Tajganj, Agra",,:Tajganj,",:North Indian, Chinese, Continental",,:1500,:3.8,:Good,:57
+3400391,:Chapter 1 Cafe,:Agra,:1374 K/1375 K, 2nd floor, Dinesh Nagar, Fatehbad Road, Tajganj, Agra",,:Tajganj,",:Cafe, Italian, Mexican, North Indian, Continental",,:0,:3.9,:Good,:98
+3400016,:Pind Balluchi,:Agra,:Opposite Saga Emporium, Fatehabad Road, Tajganj, Agra",,:Tajganj,",:North Indian, Mughlai",,:900,:3.7,:Good,:175
+3400105,:Pizza Hut,:Agra,:8, Handicraft Nagar, Fatehabad Road, Tajganj, Agra",,:Tajganj,",:Italian, Pizza",,:700,:4.4,:Very Good,:134
+3400326,:Tea'se Me - Rooftop Tea Boutique,:Agra,:Near Purani Mandi Crossing,Fatehabad Road, Tajganj, Agra",,:Tajganj,",:Chinese, Italian, Continental, North Indian",,:1000,:4.2,:Very Good,:166
+3400392,:Thaaliwala,:Agra,:Next To ITC Mughal Hotel, Fatehabad Road, Tajganj, Agra",,:Tajganj,",:North Indian, Fast Food",,:700,:4.1,:Very Good,:168
+111895,:650 - The Global Kitchen,:Ahmedabad,:Shreekunj Mandapam, Beside Golden Tulip Bunglows & Tulip Citadel, Manekbaug, Ambavadi, Ahmedabad",,:Ambavadi,",:Chinese, Italian, North Indian, Mexican, Mediterranean, Thai",,:900,:4.2,:Very Good,:1582
+110502,:Patang - The Revolving Restaurant,:Ahmedabad,:Chinubhai Tower, Nehru Bridge Corner, Ashram Road, Ahmedabad",,:Ashram Road,",:Continental, Chinese, North Indian",,:1800,:3.7,:Good,:1315
+18396250,:Huber & Holly,:Ahmedabad,:7 B, Circle  B, Opposite Rajpath Club, Sarkhej, Gandhinagar Highway, Bodakdev, Ahmedabad",,:Bodakdev,",:Ice Cream, Desserts, Continental",,:300,:4.5,:Excellent,:217
+113702,:@Mango,:Ahmedabad,:Opposite Sindhu Bhawan, Bodakdev, Ahmedabad",,:Bodakdev,",:North Indian, Continental, Mexican, Italian",,:800,:4.1,:Very Good,:769
+113433,:Fozzie's Pizzaiolo,:Ahmedabad,:Ground Floor, Maruti Crystal, Opposite Rajpath Club, Service Road, Bodakdev, Ahmedabad",,:Bodakdev,",:Pizza, Italian, Beverages, Desserts",,:900,:4.3,:Very Good,:731
+18438909,:La Pino'z Pizza,:Ahmedabad,:Shop 10,  Circle B, Nyay Marg, Bodakdev, Ahmedabad",,:Bodakdev,",:Pizza, Italian",,:500,:4.4,:Very Good,:113
+18143128,:Mocha,:Ahmedabad,:6-9, Ground Floor, Devashish Business Park, Opposite Krishna Complex, Bodakdev, Ahmedabad",,:Bodakdev,",:Cafe, Continental, Desserts",,:1000,:4.4,:Very Good,:944
+18438944,:Blue -  Rooftop Cafe Restaurant Bistro,:Ahmedabad,:10th Floor, Balaji Heights Buliding, Behind Tanishq Showroom, C G Road, Ahmedabad",,:C G Road,",:North Indian, Cafe, Italian, Mexican, Continental",,:1000,:3.8,:Good,:63
+110436,:MoMo Caf°? - Courtyard By Marriott,:Ahmedabad,:Courtyard By Marriott, Ramdevnagar Cross Road, Satellite, Ahmedabad",",:Courtyard By Marriott, Satellite",",:North Indian, South Indian, Asian, Continental",,:1400,:3.6,:Good,:375
+18385201,:Cryo Lab,:Ahmedabad,:Ground Floor, Arjun Avenue, Opposite Samartheshwar Mahadev, Law Garden, Ahmedabad",,:Ellis Bridge,",:Desserts, Ice Cream",,:350,:4.6,:Excellent,:166
+110395,:Swati Snacks,:Ahmedabad,:Near Law Garden, Ellis Bridge, Ahmedabad",,:Ellis Bridge,",:Fast Food, Street Food, South Indian",,:450,:4.4,:Very Good,:697
+18335583,:Brick Kitchen,:Ahmedabad,:At Five Petals Hotel & Banquets, Near Chanakyapuri Bridge, Ghatlodia, Ahmedabad",,:Ghatlodia,",:North Indian, Chinese, Continental",,:900,:4.3,:Very Good,:325
+110237,:Kabir Restaurant,:Ahmedabad,:JB Tower, Opposite Doordarshan Kendra, Drive In Road, Gurukul, Ahmedabad",,:Gurukul,",:North Indian, Chinese, Continental, Desserts, Fast Food, Sandwich",,:600,:3.8,:Good,:432
+113537,:Puffizza,:Ahmedabad,:103, Kairos, Opposite Mahatma Gandhi Labour Institute, Drive In Road, Gurukul, Ahmedabad",,:Gurukul,",:Italian, Fast Food",,:700,:4.3,:Very Good,:744
+113703,:Cafe Alfresco,:Ahmedabad,:101, Dynamic House, Vijay Cross Road, Above HDFC Bank, Opposite Child Care Hospital, Navrangpura, Ahmedabad",,:Navrangpura,",:Cafe, Beverages, Desserts, Pizza",,:700,:4,:Very Good,:404
+18385186,:The Cafe Baraco,:Ahmedabad,:34, Shribhuvan Complex, Near Memnagar Fire Station, Navrangpura, Ahmedabad",,:Navrangpura,",:Cafe, Italian",,:600,:4.4,:Very Good,:317
+113325,:Nini's Kitchen,:Ahmedabad,:12, First Floor, Camps Corner 2, Opposite Prahlad Nagar Garden, Prahlad Nagar, Ahmedabad",,:Prahlad Nagar,",:North Indian, Continental, Beverages, Italian, Burger, Healthy Food, Mediterranean",,:950,:4.5,:Excellent,:1138
+111826,:Yanki Sizzlers,:Ahmedabad,:4, Ground Floor, Binori Ambit, Next to Renault Showroom, Thaltej Circle, Thaltej, Ahmedabad",,:Thaltej,",:Continental, Italian, Chinese",,:1200,:4.1,:Very Good,:1041
+110516,:The Garden Cafe - The Fern,:Ahmedabad,:The Fern, Near Sola Overbridge, S G Highway, Sola, Ahmedabad",",:The Fern, Sola",",:North Indian, Italian, Asian, South Indian",,:1200,:4.1,:Very Good,:192
+18371341,:Mazzo,:Ahmedabad,:27, Sunshine Villa, Sunrise Park Society, Vastrapur, Ahmedabad",,:Vastrapur,",:Cafe, American, Continental, Armenian, Fast Food",,:550,:3.9,:Good,:166
+113570,:Turquoise Villa,:Ahmedabad,:Ground Floor, Shanay - 1, Near AMA, IIM Road, Vastrapur, Ahmedabad",,:Vastrapur,,:Continental,,:1200,:4,:Very Good,:535
+2400020,:Aryan Family's Delight,:Allahabad,:Ground Floor, Vinayak City Centre, Sardar Patel Marg, Civil Lines, Allahabad",,:Civil Lines,",:North Indian, South Indian, Fast Food",,:500,:3.4,:Average,:57
+2400148,:Bean Here,:Allahabad,:Vinayak Pushp, 77 Elgin Road, Near Florista, Civil Lines, Allahabad",,:Civil Lines,",:Cafe, Fast Food",,:350,:3.3,:Average,:76
+2400019,:Bikanerwala,:Allahabad,:2A, JMD Bhawan, Strachey Road, Civil Lines, Allahabad",,:Civil Lines,",:North Indian, Street Food, Fast Food",,:500,:3.2,:Average,:51
+2400193,:Dewsis,:Allahabad,:2, MG Marg, Opposite Hanuman Mandir, Civil Lines, Allahabad",,:Civil Lines,",:North Indian, Chinese",,:600,:3.4,:Average,:99
+2400027,:Friends Forever,:Allahabad,:13/13, Sardar Patel Marg, Civil Lines, Allahabad",,:Civil Lines,",:North Indian, Chinese",,:600,:3.4,:Average,:83
+17960073,:Hotel Ravisha Continental,:Allahabad,:57 A, Purshottamdas Tandon Marg, Civil Lines, Allahabad",,:Civil Lines,",:North Indian, South Indian, Chinese",,:600,:3.4,:Average,:18
+2400119,:KFC,:Allahabad,:P Square Mall, Civil Lines, Allahabad",,:Civil Lines,",:American, Fast Food",,:500,:3.4,:Average,:58
+2400014,:McDonald's,:Allahabad,:Shop 4, 34-B, M G Marg, Civil Lines, Allahabad",,:Civil Lines,,:Fast Food,,:400,:3.3,:Average,:53
+2400403,:Pind Balluchi,:Allahabad,:5-A, Sardar Patel Marg, Civil Lines, Allahabad",,:Civil Lines,",:North Indian, Mughlai",,:800,:3.2,:Average,:6
+2400349,:Pizza Hut,:Allahabad,:31/31, Sardar Patel Marg, Civil Lines, Allahabad",,:Civil Lines,",:Italian, Pizza",,:700,:3.4,:Average,:35
+2400279,:Subway,:Allahabad,:207/53, Mahatma Gandhi Marg, Civil Lines, Allahabad",,:Civil Lines,",:Fast Food, American, Salad, Healthy Food",,:400,:3.4,:Average,:32
+2400017,:Tandoor Restaurant,:Allahabad,:17/33, Mahatama Gandhi Marg, Civil Lines, Allahabad",,:Civil Lines,",:North Indian, Chinese",,:500,:3.2,:Average,:151
+18317988,:The BrewMaster,:Allahabad,:Near Vishal Megamart, Civil Lines, Allahabad",,:Civil Lines,",:North Indian, Chinese, Italian",,:0,:3.3,:Average,:49
+2400144,:The Tamarind Tree,:Allahabad,:60 C, Thornhill Road, Civil Lines, Allahabad",,:Civil Lines,",:South Indian, Chinese",,:500,:3.4,:Average,:106
+2400195,:Cafe El Chico,:Allahabad,:24, Mahatma Gandhi, Civil Lines, Allahabad",,:Civil Lines,",:Continental, Italian",,:1000,:3.6,:Good,:59
+2400052,:Eat On,:Allahabad,:Palace Compound, Near Palace Cinema, MG Marg, Civil Lines, Allahabad",,:Civil Lines,,:North Indian,,:200,:3.7,:Good,:105
+2400016,:Hot Stuff,:Allahabad,:21 C, Lal Bhadhur Shastri Marg, Civil Lines, Allahabad",,:Civil Lines,",:North Indian, Fast Food",,:500,:3.5,:Good,:105
+2400293,:Paradise,:Allahabad,:19/35, MG Marg, Civil Lines, Allahabad",,:Civil Lines,",:Desserts, Fast Food",,:500,:3.6,:Good,:57
+2400009,:Sagar Ratna,:Allahabad,:3/3, Near Balson Crossing, Hashimpur Road, Tagore Town, Allahabad",,:Tagore Town,",:South Indian, North Indian, Chinese, Continental",,:400,:3.5,:Good,:134
+2400010,:Moti Mahal Delux,:Allahabad,:Second Floor, Vinayak City Center Mall, SP Marg, Civil Lines, Allahabad",",:Vinayak City Centre Mall, Civil Lines",",:Mughlai, North Indian, Chinese",,:800,:3.3,:Average,:58
+2200011,:Makhan Fish and Chicken Corner,:Amritsar,:21-A, Near Madaan Hospital, Majitha Road, Basant Nagar, Amritsar",,:Basant Nagar,",:North Indian, Chinese",,:700,:3.4,:Average,:345
+2200078,:Charming Chicken,:Amritsar,:Shop 3, Opposite Nari Nikaten, Majithia Road, Near Basant Nagar, Amritsar",,:Basant Nagar,,:North Indian,,:300,:3.9,:Good,:151
+18204507,:Ahuja Milk Bhandar,:Amritsar,:Dhab Khatikan, Near Hindu College, Hathi Gate, Amritsar",,:Hathi Gate,,:Beverages,,:100,:4,:Very Good,:52
+2200030,:Crystal Restaurant,:Amritsar,:Crystal Chowk, Queens Road, INA Colony, Amritsar",,:INA Colony,",:North Indian, Mughlai",,:800,:3.4,:Average,:122
+2200201,:Brijwasi Chat Bhandar,:Amritsar,:Crystal Chowk, Cooper Road, Near INA Colony",,:INA Colony,,:Street Food,,:150,:3.6,:Good,:56
+2200067,:Bubby Fish & Chicken Corner,:Amritsar,:Near Crystal Chowk, Cooper Road, INA Colony, Amritsar",,:INA Colony,,:North Indian,,:300,:3.5,:Good,:91
+2200358,:Bon Gateau,:Amritsar,:SCF 27, C Block Market, Ranjit Avenue, Amritsar",,:Ranjit Avenue,",:Cafe, Bakery, Fast Food",,:500,:3.4,:Average,:26
+2200001,:The Yellow Chilli,:Amritsar,:108, GRD Towers, District Shopping Center, Ranjit Avenue, Amritsar",,:Ranjit Avenue,",:North Indian, Mughlai, Chinese",,:1200,:3.4,:Average,:98
+2200033,:La Roma Pizzeria,:Amritsar,:SCO 6, District Shopping Complex, Ranjit Avenue, Amritsar",,:Ranjit Avenue,",:Fast Food, Italian",,:400,:3.5,:Good,:111
+2200283,:Sakhis Watz Kukin,:Amritsar,:M 47, Green Avenue, opp Main Park, Amritsar",,:Ranjit Avenue,",:North Indian, Chinese",,:700,:3.6,:Good,:51
+2200045,:The Kulcha Land,:Amritsar,:Opposite M.K Hotel, District Shopping Centre, Ranjit Avenue, Amritsar",,:Ranjit Avenue,",:North Indian, Street Food",,:200,:3.9,:Good,:206
+2200149,:Shudh Restaurant,:Amritsar,:Opposite Gurudwara Saragarhi, Near Dharm Singh Market Chowk, Fuwara, Town Hall, Amritsar",,:Town Hall,",:North Indian, South Indian, Chinese, Fast Food",,:600,:3.4,:Average,:44
+2200043,:Bade Bhai Ka Brothers' Dhaba,:Amritsar,:Near Amritsar Municipal Corporation, Town Hall, Amritsar",,:Town Hall,",:North Indian, Fast Food",,:500,:3.7,:Good,:94
+2200044,:Bharawan Da Dhaba,:Amritsar,:Near Amritsar Municipal Corporation, Town Hall, Amritsar",,:Town Hall,",:North Indian, Fast Food",,:500,:3.5,:Good,:461
+2200132,:Brothers Dhaba,:Amritsar,:Golden Temple Out Road, Opposite Amritsar Municipal Corporation, Town Hall, Amritsar",,:Town Hall,,:North Indian,,:500,:3.8,:Good,:276
+2200236,:Brothers' Amritsari Dhaba,:Amritsar,:Phawara Chowk, Town Hall, Amritsar",,:Town Hall,,:North Indian,,:400,:3.8,:Good,:71
+2200175,:Gurdas Ram Jalebi Wala,:Amritsar,:Near Golden Temple, Town Hall, Amritsar",,:Town Hall,,:Mithai,,:100,:4.1,:Very Good,:104
+2200000,:Kesar Da Dhabha,:Amritsar,:Near Telephone Exchange, Chowk Passian, Shastri Market, Near Town Hall, Amritsar",,:Town Hall,,:North Indian,,:500,:4.1,:Very Good,:878
+2200055,:Beera Chicken Corner,:Amritsar,:Opposite Bandari Hospital, Sehaj Avenue, Majitha Road, Near White Avenue, Amritsar",,:White Avenue,,:North Indian,,:500,:3.8,:Good,:192
+2200034,:Surjit Food Plaza,:Amritsar,:Shop 4, Nehru Shopping Complex, Lawrence Road, White Avenue, Amritsar",,:White Avenue,,:North Indian,,:1000,:3.5,:Good,:96
+2200153,:Kanha Sweets,:Amritsar,:Shop 1, Opposite Bijli Pehalwan Mandir, Lawrence Road, White Avenue, Amritsar",,:White Avenue,,:Fast Food,,:150,:4.1,:Very Good,:140
+2500023,:Kream N Krunch,:Aurangabad,:2, Near Akashwani Circle, Mahesh Nagar, Jalna Road, Akashwani, Aurangabad",,:Akashwani,",:North Indian, Chinese, Continental, Italian",,:800,:3.6,:Good,:240
+2500076,:Balbeer's Kitchen & Bar,:Aurangabad,:Shendra, Near Cambridge School, Jalna Road, Chicalthana, Aurangabad",,:Chicalthana,",:Italian, Continental, Chinese, North Indian",,:850,:3.3,:Average,:65
+2500054,:Angeethi Restaurant,:Aurangabad,:Seven Hill Flyover, Jalna Road, Vidya Nagar, CIDCO, Aurangabad",,:CIDCO,",:North Indian, Chinese",,:600,:3.3,:Average,:63
+2500134,:Domino's Pizza,:Aurangabad,:8, Upper Ground Floor, City Pride Commercial Complex, Kali Bawdi, Jalna Road, CIDCO, Aurangabad",,:CIDCO,,:Pizza,,:700,:3.1,:Average,:19
+2500069,:Hotel Laadli,:Aurangabad,:Goodwill Complex, Opposite Cidco Busstand, N-2, CIDCO, Aurangabad",,:CIDCO,",:North Indian, South Indian",,:350,:3.4,:Average,:46
+2500256,:Indiana Veg Restaurant,:Aurangabad,:Plot 2, Near High Court, N-3, CIDCO, Aurangabad",,:CIDCO,",:South Indian, North Indian, Chinese, Fast Food",,:450,:3.4,:Average,:75
+2500024,:Madhuban Restaurant - Welcome Hotel Rama International,:Aurangabad,:Welcome Hotel Rama International, Opposite High Court, CIDCO, Aurangabad",,:CIDCO,",:North Indian, Chinese, Continental, Italian, Mexican",,:1800,:3.4,:Average,:94
+2500075,:Mauj Restaurant,:Aurangabad,:31, Kailash Arcade, Opposite Bank of Baroda, Connaught Place, CIDCO, Aurangabad",,:CIDCO,",:Italian, Fast Food, North Indian, Chinese",,:500,:3.3,:Average,:47
+2500029,:Naivedya,:Aurangabad,:Sakal Office, Jalna Road, CIDCO, Aurangabad",,:CIDCO,,:North Indian,,:500,:3.4,:Average,:71
+2500079,:d' Curry House,:Aurangabad,:Hotel Green Olive, Near Baba Petrol Pump, Nirala Bazar, Aurangabad",",:Hotel Green Olive, Nirala Bazar",",:Continental, Chinese, Biryani, North Indian",,:1000,:3.6,:Good,:73
+2500343,:Mokoholic Juice Bar,:Aurangabad,:Opposite Municipal Car Parking, Paithan Gate, Near Mondha, Aurangabad",,:Mondha,",:Juices, Desserts",,:300,:3.5,:Good,:21
+2500052,:Ashoka's Veg Restaurant,:Aurangabad,:31, Opposite Kohinoor Plaza, Near M P Law College, Nirala Bazar, Aurangabad",,:Nirala Bazar,",:South Indian, Chinese, North Indian",,:400,:3.3,:Average,:46
+2500062,:Kareem's Fine Dining,:Aurangabad,:A1-A3, Motiwala Complex, Below KFC Restaurant, Nirala Bazar, Aurangabad",,:Nirala Bazar,",:Mughlai, Biryani",,:700,:3.3,:Average,:45
+2500056,:That Baat,:Aurangabad,:Near Vivekanand College, Samarth Nagar, Nirala Bazar Road, Aurangabad",,:Nirala Bazar,,:Maharashtrian,,:450,:3.4,:Average,:34
+2500030,:Bhoj Restaurant,:Aurangabad,:First Floor, Bhau Pathak Smriti Kamgar Bhavan, CBS Road, Nirala Bazar, Aurangabad",,:Nirala Bazar,,:North Indian,,:450,:3.7,:Good,:89
+2500390,:Downside Up,:Aurangabad,:6&7 B, Kuber Avenue, Rana Nagar, Near Nyay Nagar, Aurangabad",,:Nyay Nagar,",:Cafe, Mughlai, North Indian",,:400,:3.2,:Average,:8
+2500007,:Kareem's Kabab & Biryani,:Aurangabad,:First Floor, Food Court, Prozone Mall, MIDC Industrial Area, Chicalthana, Aurangabad",",:Prozone Mall, Chicalthana",,:Mughlai,,:650,:3.4,:Average,:39
+2500123,:Great Sagar Restaurant,:Aurangabad,:Near Bhadkal Gate, VIP Road, Shahgunj, Aurangabad",,:Shahgunj,",:North Indian, Mughlai",,:600,:3.3,:Average,:74
+2500122,:Kailash Restaurant,:Aurangabad,:Rachanakar colony, Railway Station Road, Usmanpura, Aurangabad",,:Usmanpura,",:North Indian, Chinese, South Indian, Fast Food",,:450,:3.3,:Average,:76
+2500346,:Yalla Yalla,:Aurangabad,:Near Gopal Tea Corner, Usmanpura Circle, Usmanpura, Aurangabad",,:Usmanpura,",:North Indian, Hyderabadi",,:500,:3.3,:Average,:71
+50943,:Sultans of Spice,:Bangalore,:BluPetal Hotel, 60 Jyoti Nivas College Road, Koramangala 5th Block, Bangalore",",:BluPetal Hotel, Koramangala",",:North Indian, Mughlai",,:1300,:4.1,:Very Good,:2416
+58268,:The Fatty Bao - Asian Gastro Bar,:Bangalore,:610, 3rd Floor, 12th Main, Off 80 Feet Road, Indiranagar, Bangalore",,:Indiranagar,,:Asian,,:2400,:4.7,:Excellent,:2369
+51705,:Toit,:Bangalore,:298, Namma Metro Pillar 62, 100 Feet Road, Indiranagar, Bangalore",,:Indiranagar,",:Italian, American, Pizza",,:2000,:4.8,:Excellent,:10934
+18162866,:Three Dots & A Dash,:Bangalore,:840/1,100 Feet Road, Metro Pillar 56-57, Indiranagar, Bangalore",,:Indiranagar,",:European, Continental",,:1300,:3.9,:Good,:1354
+18407918,:Bombay Brasserie,:Bangalore,:2989/B, 12th Main Road, HAL 2nd Stage, Indiranagar, Bangalore",,:Indiranagar,,:Modern Indian,,:1500,:4.2,:Very Good,:231
+56464,:Glen's Bakehouse,:Bangalore,:297, 100 Feet Road, Indiranagar, Bangalore",,:Indiranagar,",:Bakery, Desserts, Cafe",,:800,:4,:Very Good,:3533
+18221572,:Onesta,:Bangalore,:501, Binnamangala Extension, 1st stage, C.M.H Road, Indiranagar, Bangalore",,:Indiranagar,",:Pizza, Cafe, Italian",,:600,:4.3,:Very Good,:1413
+18359919,:Onesta,:Bangalore,:Site 15, 15th Cross, 100 Feet Road, 4th Phase, JP Nagar, Bangalore",,:JP Nagar,",:Pizza, Cafe, Italian",,:600,:4.6,:Excellent,:781
+18439634,:ECHOES Koramangala,:Bangalore,:44, 4th B Cross, Koramangala 5th Block, Bangalore",,:Koramangala 5th Block,",:Continental, American, Italian, North Indian, Chinese, Cafe",,:950,:4.7,:Excellent,:276
+51040,:Truffles,:Bangalore,:28, 4th 'B' Cross, Koramangala 5th Block, Bangalore",,:Koramangala 5th Block,",:American, Burger, Cafe",,:800,:4.7,:Excellent,:9667
+54162,:The Black Pearl,:Bangalore,:105, 1st A Cross Road, Jyothi Nivas College Road, Koramangala 5th Block, Bangalore",,:Koramangala 5th Block,",:North Indian, European, Mediterranean",,:1400,:4.1,:Very Good,:5385
+18305628,:Eat Street,:Bangalore,:11, 80 Feet Road, Opposite Indian Oil Petrol Pump, Koramangala 6th Block, Bangalore",,:Koramangala 6th Block,",:North Indian, Chinese, Italian, Street Food, Desserts",,:400,:4.3,:Very Good,:753
+18385443,:Koramangala Social,:Bangalore,:118, Koramangala Industrial Area, Koramangala 7th Block, Bangalore",,:Koramangala 7th Block,",:Continental, American",,:1500,:4.5,:Excellent,:1288
+56618,:AB's - Absolute Barbecues,:Bangalore,:90/4, 3rd Floor, Outer Ring Road, Munnekollaly Village, Marathahalli, Bangalore",,:Marathahalli,",:European, Mediterranean, North Indian",,:1400,:4.6,:Excellent,:6907
+18353121,:Flechazo,:Bangalore,:9/1, 1st Floor, Above Surya Nissan, VRR Orchid, Doddanakkundi, Marathahalli, Bangalore",,:Marathahalli,",:Asian, Mediterranean, North Indian",,:1200,:4.4,:Very Good,:983
+18366652,:Onesta,:Bangalore,:215, 216 & 220, Devasandra Village, Kasaba Hobli, New BEL Road, Bangalore",,:New BEL Road,",:Pizza, Cafe, Italian",,:600,:4.6,:Excellent,:627
+18430785,:Communiti,:Bangalore,:67 & 68, Brigade Solitaire, Opposite to Advaith Hyundai, Residency Road, Bangalore",,:Residency Road,,:Continental,,:1200,:4.2,:Very Good,:334
+58882,:Big Brewsky,:Bangalore,:Behind MK Retail, Before WIPRO Corporate Office, Sarjapur Road, Bangalore",,:Sarjapur Road,",:Finger Food, North Indian, Italian, Continental, Thai, South Indian",,:1800,:4.5,:Excellent,:5705
+18422898,:Hoot,:Bangalore,:BBMP 2034/69, Block 2, Kaikondrahalli, Varthur Hobli, Sarjapur Road, Bangalore",,:Sarjapur Road,",:Continental, Italian, North Indian",,:1400,:3.9,:Good,:405
+18339874,:Farzi Cafe,:Bangalore,:202, Level 2, UB City, Vittal Mallya Road, Lavelle Road, Bangalore",,:UB City,,:Modern Indian,,:1500,:4.4,:Very Good,:754
+2600472,:Black N White Cafe,:Bhopal,:G-1, Raksha Tower, Eden Garden, Arera Colony, Bhopal",,:Arera Colony,",:Cafe, Chinese, North Indian",,:200,:3.3,:Average,:51
+2600514,:Maybe There,:Bhopal,:4th floor,10th Cross Road Building, Above Vishal Fitness Centre, 10 Main Road, Arera Colony, Bhopal",,:Arera Colony,,:Cafe,,:600,:3.4,:Average,:63
+2600109,:Sagar Gaire Fast Food,:Bhopal,:10, Number Market, Arera Colony, Bhopal",,:Arera Colony,,:Fast Food,,:250,:4.9,:Excellent,:427
+2600311,:The Kasbah,:Bhopal,:110/7, Mandakini, Opposite Union Bank, Kolar Main Road, Arera Colony, Bhopal",,:Arera Colony,",:North Indian, Chinese",,:700,:3.9,:Good,:126
+2600008,:Bake N Shake,:Bhopal,:B-1, GM Tower,  Stop No. 10, Arera Colony, Bhopal",,:Arera Colony,,:Fast Food,,:500,:4.2,:Very Good,:223
+2600031,:10 Downing Street,:Bhopal,:Third Floor, DB City Mall, Maharana Pratap Nagar, Bhopal",",:DB City, Maharana Pratap Nagar",",:North Indian, Chinese",,:1000,:4,:Very Good,:257
+2600250,:Chi Kitchen,:Bhopal,:12-13, Food Court, DB City Mall, Maharana Pratap Nagar, Bhopal",",:DB City, Maharana Pratap Nagar",,:Chinese,,:1000,:4,:Very Good,:103
+2600025,:Pizza Hut,:Bhopal,:Third Floor, DB City Mall, Arera Hills, Maharana Pratap Nagar, Bhopal",",:DB City, Maharana Pratap Nagar",,:Pizza,,:650,:4.1,:Very Good,:118
+2600494,:Kafe Kulture,:Bhopal,:A-66A, Jai Bhawani Housing Society, Bawadiyan Kalan, Gulmohar Colony, Bhopal",,:Gulmohar Colony,",:Cafe, Fast Food",,:600,:3.8,:Good,:98
+18108352,:Violet Hour,:Bhopal,:Shop 3-4, Plot 5B, Sai Mehndi Appartment, B.D.A,  Kohefiza Main Road, Kohefiza, Bhopal",,:Kohefiza,,:Bakery,,:500,:3.8,:Good,:33
+2600079,:Bapu Ki Kutia,:Bhopal,:Behind Jyoti Cineplex, Zone 1, Maharana Pratap Nagar, Bhopal",,:Maharana Pratap Nagar,",:North Indian, Chinese, South Indian, Fast Food",,:550,:3.5,:Good,:175
+2600340,:Da pizzeria,:Bhopal,:177, Zone 2, Maharana Pratap Nagar, Bhopal",,:Maharana Pratap Nagar,",:Pizza, Italian, Fast Food",,:500,:3.6,:Good,:111
+18461339,:Papa Mexicano,:Bhopal,:R-24, Zone II, Maharana Pratap Nagar, Bhopal",,:Maharana Pratap Nagar,",:Fast Food, Mexican, Tex-Mex",,:350,:3.6,:Good,:20
+2600010,:Bake N Shake,:Bhopal,:Near Jyoti Cineplex, Zone 1, Maharana Pratap Nagar, Bhopal",,:Maharana Pratap Nagar,,:Fast Food,,:500,:4.1,:Very Good,:103
+2600230,:Manohar Dairy And Restaurant,:Bhopal,:132, Zone 1, Maharana Pratap Nagar, Bhopal",,:Maharana Pratap Nagar,",:North Indian, South Indian, Street Food, Bakery",,:400,:4.4,:Very Good,:243
+2600003,:Manohar Dairy And Restaurant,:Bhopal,:6, Hamidia Road, Opposite Alpana Cineplex, Peer Gate Area, Bhopal",,:Peer Gate Area,",:North Indian, South Indian, Street Food, Bakery",,:400,:4.1,:Very Good,:238
+2600303,:Kebabsville - Sayaji Hotel,:Bhopal,:A-3,Van Vihar Road, Prempura, TT Nagar, Bhopal",,:Sayaji Hotel,,:North Indian,,:1800,:4.3,:Very Good,:128
+2600180,:Indian Coffee House,:Bhopal,:Near Apex Bank, TT Nagar, Bhopal",,:TT Nagar,,:South Indian,,:500,:3.9,:Good,:161
+2600393,:The Urban Socialite,:Bhopal,:Hotel Lake View Ashoka, 5th Floor, Shyamla Hills, TT Nagar, Bhopal",,:TT Nagar,",:Italian, Mexican, Chinese",,:900,:3.8,:Good,:79
+2600007,:Bake N Shake,:Bhopal,:Bhadbhada Road, Near Rang Mahal Talkies, TT Nagar, Bhopal",,:TT Nagar,,:Fast Food,,:500,:4.3,:Very Good,:120
+2900587,:Tyre Patty,:Bhubaneshwar,:3rd Floor, BMC Bhawani Mall, Sahid Nagar, Bhubaneshwar",",:BMC Bhawani Mall, Sahid Nagar",,:Cafe,,:500,:3.9,:Good,:289
+2900354,:Silver Streak,:Bhubaneshwar,:Ground Floor, BMC Bhawani Mall, Sahid Nagar, Bhubaneshwar",",:BMC Bhawani Mall, Sahid Nagar",,:Chinese,,:550,:4.1,:Very Good,:379
+2900633,:Barbeque Nation,:Bhubaneshwar,:Plot 12-13/557, 3rd Floor, Mauza Samantapuri,Gajapati Nagar, Chandrasekharpur, Bhubaneshwar",,:Chandrasekharpur,",:Mediterranean, Asian, Continental, North Indian, Arabian",,:1200,:4.6,:Excellent,:154
+18408676,:Central Perk 7,:Bhubaneshwar,:Plot 133/A, District Center, Chandrasekharpur, Bhubaneshwar",,:Chandrasekharpur,",:Cafe, Charcoal Grill, Steak",,:600,:4.5,:Excellent,:145
+2900234,:The Chicken Dinesty,:Bhubaneshwar,:District Center, Niladri Vihar Road, Chandrasekharpur, Bhubaneshwar",,:Chandrasekharpur,",:Fast Food, North Indian, Chinese",,:500,:3.9,:Good,:247
+2900550,:Taste Of China,:Bhubaneshwar,:139, District Center, Chandrasekharpur, Bhubaneshwar",,:Chandrasekharpur,,:Chinese,,:500,:4,:Very Good,:145
+18362677,:Michael's Kitchen,:Bhubaneshwar,:7798, Sainik School Road, Gajapati Nagar, Bhubaneswar, Gajapati Nagar, Bhubaneshwar",,:Gajapati Nagar,",:North Indian, Asian, European",,:850,:3.7,:Good,:118
+2900044,:Mamma Mia - Mayfair Lagoon,:Bhubaneshwar,:Mayfair Lagoon, 8-B, Jayadev Vihar, Bhubaneshwar",",:Mayfair Lagoon, Jayadev Vihar",",:Cafe, Italian, Mexican, Bakery",,:1400,:4.1,:Very Good,:256
+2900469,:99 North Restaurant,:Bhubaneshwar,:B36, Chandaka Industrial Estate, Near CTTC, Patia, Bhubaneshwar",,:Patia,",:North Indian, Chinese",,:450,:3.6,:Good,:173
+2900219,:Adda,:Bhubaneshwar,:4th Floor, SJ Complex, KIIT College Road, Patia, Bhubaneshwar",,:Patia,",:North Indian, Chinese, Mexican, Beverages",,:600,:3.8,:Good,:424
+2900473,:Chill Ummm,:Bhubaneshwar,:DS Tower, 2nd Floor, Plot 516/1763/4177, Near Big Bazar, Patia, Bhubaneshwar",,:Patia,",:Chinese, North Indian, Cafe",,:450,:3.7,:Good,:338
+2900020,:Lal Qila,:Bhubaneshwar,:Sampark Vihar, Opposite Big Bazaar, KIIT Square, Patia, Bhubaneshwar",,:Patia,",:Mughlai, Chinese, North Indian",,:500,:3.7,:Good,:228
+2900562,:Richard's Kitchen & Coffee Bar,:Bhubaneshwar,:Rooftop Bata Showroom, KIIT Square, Patia, Bhubaneshwar",,:Patia,",:Cafe, Chinese, Fast Food, Seafood",,:450,:3.8,:Good,:253
+18413814,:Aangan Horizon,:Bhubaneshwar,:Above Patia Pantaloons, Nandankanan Road, Patia, Bhubaneshwar",,:Patia,",:North Indian, Chinese, Continental",,:900,:4,:Very Good,:90
+18235390,:Brewberrys The Coffee Bar,:Bhubaneshwar,:3, Infocity Road, Patia, Bhubaneshwar",,:Patia,,:Cafe,,:400,:4,:Very Good,:197
+2900640,:Chai Break,:Bhubaneshwar,:KIIT Road, PS Plaza, Patia, Bhubaneshwar",,:Patia,",:Italian, Cafe, Chinese, Continental",,:800,:4.3,:Very Good,:69
+18271459,:JUGAAD JN.,:Bhubaneshwar,:KIIT Road, Opposite SBI, Patia, Bhubaneshwar",,:Patia,",:North Indian, Rajasthani",,:300,:4.1,:Very Good,:199
+18377283,:Cha cTea,:Bhubaneshwar,:797, Near Shivam Honda Showroom, Sahid Nagar, Bhubaneshwar",,:Sahid Nagar,",:Cafe, Tea",,:500,:3.8,:Good,:56
+18408600,:Food Fever,:Bhubaneshwar,:A-54, Opposite Law University, Sahid Nagar, Bhubaneshwar",,:Sahid Nagar,",:Chinese, North Indian",,:900,:4.2,:Very Good,:49
+2900012,:Mainland China,:Bhubaneshwar,:The Crown, A1, Near IRC Village, Nayapalli, Bhubaneshwar",",:The Crown, Nayapalli",,:Chinese,,:1500,:4.3,:Very Good,:345
+18436042,:Eram Rooftop,:Bhubaneshwar,:206, 3rd Floor, Suryansh Enclave, Shastri Nagar, Unit 4, Bhubaneshwar",,:Unit 4,",:Asian, Continental",,:400,:3.5,:Good,:89
+122003,:The Night Factory,:Chandigarh,:Phase 1, Chandigarh Industrial Area, Chandigarh",,:Chandigarh Industrial Area,",:North Indian, Chinese, Continental, Pizza",,:850,:3.7,:Good,:665
+121552,:Brooklyn Central,:Chandigarh,:Courtyard, Elante Mall, Phase 1, Chandigarh Industrial Area, Chandigarh",",:Elante Mall, Chandigarh Industrial Area",",:American, Cafe",,:1600,:4.2,:Very Good,:676
+121214,:Chili's,:Chandigarh,:312 B, 3rd Floor, Elante Mall, Phase 1, Chandigarh Industrial Area, Chandigarh",",:Elante Mall, Chandigarh Industrial Area",",:Mexican, American, Italian",,:1400,:4.3,:Very Good,:970
+121553,:Kylin Experience,:Chandigarh,:312 A, 3rd Floor, Elante Mall, Phase 1, Chandigarh Industrial Area, Chandigarh",",:Elante Mall, Chandigarh Industrial Area",",:Japanese, Chinese, Thai, Malaysian, Burmese, Asian",,:1600,:4.1,:Very Good,:300
+121312,:Mocha,:Chandigarh,:Ground Floor, Elante Mall, Phase 1, Chandigarh Industrial Area, Chandigarh",",:Elante Mall, Chandigarh Industrial Area",",:Continental, Italian, Thai, Finger Food",,:1400,:4,:Very Good,:428
+121335,:Pirates of Grill,:Chandigarh,:313, Third Floor, Elante Mall, Phase 1, Chandigarh Industrial Area, Chandigarh",",:Elante Mall, Chandigarh Industrial Area",",:North Indian, Continental, Asian",,:1200,:4,:Very Good,:1022
+120014,:Barbeque Nation,:Chandigarh,:SCO 39, Madhya Marg, Sector 26, Chandigarh",,:Sector 26,",:North Indian, Chinese",,:1300,:4.5,:Excellent,:1450
+123125,:TGI Friday's,:Chandigarh,:SCO 51, Madhya Marg, Sector 26, Chandigarh",,:Sector 26,",:American, Tex-Mex",,:1800,:4.3,:Very Good,:228
+120221,:Pal Dhaba,:Chandigarh,:SCO 151 & 152, Sector 28 D, Sector 28, Chandigarh",,:Sector 28,,:North Indian,,:700,:3.8,:Good,:982
+122064,:Midnight Chef,:Chandigarh,:SCO 329-332, Sector 35B, Sector 35, Chandigarh",,:Sector 35,",:North Indian, Chinese, Continental, Italian, Burger",,:1000,:3.4,:Average,:502
+120203,:Nik Baker's,:Chandigarh,:SCO 441 & 442, Sector 35 C, Sector 35, Chandigarh",,:Sector 35,",:Bakery, Desserts, Cafe",,:650,:4.1,:Very Good,:698
+120219,:OvenFresh,:Chandigarh,:SCO 437 & 438, Sector 35 C, Sector 35, Chandigarh",,:Sector 35,",:Cafe, Bakery",,:650,:4.1,:Very Good,:397
+121425,:Super Donuts,:Chandigarh,:SCO 446 Sector 35 C, Sector 35, Chandigarh",,:Sector 35,",:Burger, Fast Food, Desserts, Beverages",,:450,:4,:Very Good,:265
+123010,:Taco Bell,:Chandigarh,:SCO 453-454, Sector 35C, Sector 35, Chandigarh",,:Sector 35,",:Mexican, Fast Food",,:600,:4.2,:Very Good,:252
+123294,:Karim's,:Chandigarh,:SCO 33, Madhya Marg, Sector 7, Chandigarh",,:Sector 7,",:Mughlai, North Indian",,:800,:3.3,:Average,:86
+121120,:Virgin Courtyard,:Chandigarh,:Backside, SCO 1A, Madhya Marg, Sector 7, Chandigarh",,:Sector 7,,:Italian,,:2200,:4.4,:Very Good,:817
+122940,:Burgrill,:Chandigarh,:Booth 70, Sector 8, Chandigarh",,:Sector 8,",:Burger, Fast Food",,:500,:4.5,:Excellent,:249
+122830,:Uncle Jack's,:Chandigarh,:Booth 11, Sector 8, Chandigarh",,:Sector 8,",:Desserts, American",,:600,:4,:Very Good,:356
+69024,:That Madras Place,:Chennai,:34/29, 2nd Main Road, Kasturibai Nagar, Adyar, Chennai",,:Adyar,",:European, Italian, Desserts",,:800,:4.2,:Very Good,:1810
+72475,:Haunted,:Chennai,:273, F13, New Number 71, 2nd Main Road, Anna Nagar East, Chennai",,:Anna Nagar East,",:North Indian, Chinese, Arabian",,:800,:3.8,:Good,:519
+70431,:Pantry d'or,:Chennai,:21/11, J Block, 6th Avenue Main Road, Anna Nagar East, Chennai",,:Anna Nagar East,",:Continental, Cafe, Italian, Desserts",,:750,:4.4,:Very Good,:1504
+71443,:Palmshore,:Chennai,:95, Jawaharlal Nehru Salai, Jafferkhanpet, Ashok Nagar, Chennai",,:Ashok Nagar,",:North Indian, Mughlai, Chinese, South Indian",,:850,:4.2,:Very Good,:841
+73088,:Chili's,:Chennai,:49 & 50 L, Express Avenue Mall, White's Road, Royapettah, Chennai",",:Express Avenue Mall,  Royapettah",",:Mexican, American, Tex-Mex, Burger",,:1700,:4.8,:Excellent,:1262
+18423075,:Writer's Cafe,:Chennai,:98, Peter's Road, Behind Philip's Service Centre, Gopalapuram, Chennai",,:Gopalapuram,",:Cafe, European",,:450,:4.2,:Very Good,:191
+70890,:Fusilli Reasons,:Chennai,:1/9, Dr. Vasudevan Street, Ormes Road, Kilpauk, Chennai",,:Kilpauk,,:Italian,,:350,:4.6,:Excellent,:1510
+71492,:Ciclo Cafe,:Chennai,:47, Gandhi Mandapam Road, Kotturpuram, Chennai",,:Kotturpuram,",:Cafe, Continental",,:1100,:4.1,:Very Good,:1004
+70092,:Kaidi Kitchen,:Chennai,:20/3, Bishop Wallers Avenue, Mylapore, Chennai",,:Mylapore,",:Italian, Mexican, Chinese, Thai, North Indian",,:1500,:4,:Very Good,:1820
+70393,:Bombay Brasserie,:Chennai,:3, College Lane, Nungambakkam, Chennai",,:Nungambakkam,,:North Indian,,:1200,:4.6,:Excellent,:1753
+70894,:Maplai,:Chennai,:14, Sterling Avenue, Nungambakkam, Chennai",,:Nungambakkam,",:South Indian, Chettinad",,:1000,:4.2,:Very Good,:1714
+73279,:Paradise,:Chennai,:392, Anjali Devi Towers Kandanchavadi, OMR, Perungudi, Chennai",,:Perungudi,",:Biryani, North Indian",,:900,:3.8,:Good,:1317
+69951,:L'amandier,:Chennai,:57, 2nd Main Road, RA Puram, Chennai",,:RA Puram,",:European, Cafe, Italian",,:1200,:4.3,:Very Good,:1607
+72497,:Palmshore,:Chennai,:Plot 8, Park Dugar, Mount Poonamallee High Road, Ramapuram, Chennai",,:Ramapuram,",:North Indian, Mughlai, Chinese, South Indian",,:850,:4.4,:Very Good,:645
+65413,:Palmshore,:Chennai,:111/108, Santhome High Road, Foreshore Estate, Santhome, Chennai",,:Santhome,",:North Indian, Mughlai, Chinese, South Indian",,:850,:4.3,:Very Good,:742
+70497,:Basil With A Twist,:Chennai,:58-A, Habibullah Road, T. Nagar, Chennai",,:T. Nagar,",:Continental, Cafe, Spanish, Italian, European, Greek, Mediterranean",,:1500,:4.5,:Excellent,:1210
+65055,:Barbeque Nation,:Chennai,:Shri Devi Park Hotel, 1, Hanumantha Road, North Usman Road, T. Nagar, Chennai",,:T. Nagar,",:North Indian, Continental",,:2000,:4.4,:Very Good,:3848
+18384227,:AB's - Absolute Barbecues,:Chennai,:Velachery Tharamani Link Road, Opposite TCS, Velachery, Chennai",,:Velachery,",:North Indian, European, Mediterranean",,:1600,:4.9,:Excellent,:859
+72604,:Coal Barbecues,:Chennai,:17-18, Rajalakshmi Nagar, 7th Cross Street, 100 Feet Bypass Road, Velachery, Chennai",,:Velachery,",:North Indian, Mediterranean, Asian, Arabian",,:1400,:4.6,:Excellent,:1267
+66457,:Pind,:Chennai,:2, Sarathy Nagar, 1st Main Road, Velachery, Chennai",,:Velachery,",:North Indian, Chinese",,:900,:4,:Very Good,:2272
+18260777,:Kuchi n Kream,:Coimbatore,:353/1, Hotel Landmark Complex, Bharathiaar Road, Gandhipuram, Coimbatore",,:Gandhipuram,",:Cafe, Continental, Fast Food",,:800,:4.6,:Excellent,:202
+3000107,:Haribhavanam Hotel,:Coimbatore,:2, Bharathi Colony, Peelamedu, Coimbatore",,:Peelamedu,",:South Indian, Chettinad, North Indian",,:600,:3.9,:Good,:318
+3000132,:Kites Cafe,:Coimbatore,:267, B.R. Puram, Near Royal Enfield Showroom, Avinashi Road, Peelamedu, Coimbatore",,:Peelamedu,,:Cafe,,:400,:3.8,:Good,:124
+3000122,:Zucca Pizzeria,:Coimbatore,:GRG College Road, Opposite Rajasree Ford Showroom, Peelamedu, Coimbatore",,:Peelamedu,,:Pizza,,:600,:3.5,:Good,:274
+3001032,:Burger Ka Baap,:Coimbatore,:Avinashi Road, Near PSG College Of Technology, Peelamedu, Coimbatore",,:Peelamedu,,:Fast Food,,:500,:4.3,:Very Good,:147
+3000021,:The Cascade Restaurant,:Coimbatore,:479-B1, Avinashi Road, Near Suguna Kalyana Mandapam, Peelamedu, Coimbatore",,:Peelamedu,,:Chinese,,:1200,:4.1,:Very Good,:243
+18434000,:24 Plus Cafe & Restaurant,:Coimbatore,:1A, Pollachi Main Road, Eachanari, Podanur, Coimbatore",,:Podanur,",:Continental, Fast Food, Desserts, Indian",,:450,:3.8,:Good,:24
+3000195,:Valarmathi Kongunaatu Samayal,:Coimbatore,:207/A, CSI Compound, Opposite Photo Centre, Race Course, Coimbatore",,:Race Course,",:South Indian, Biryani",,:350,:4.5,:Excellent,:380
+3000126,:Bird On Tree,:Coimbatore,:28, Opposite Circuit House, Behind HDFC, Race Course, Coimbatore",,:Race Course,",:Continental, Chinese, Thai, Malaysian, North Indian",,:1200,:3.8,:Good,:221
+18280306,:Tim's Bistro,:Coimbatore,:156, Race Course Road, Race Course, Coimbatore",,:Race Course,",:North Indian, Continental",,:700,:3.9,:Good,:85
+3001489,:Batlivala & Khanabhoy,:Coimbatore,:122, 4th Floor, Appusamy Layout, Red Fields, Race Course, Coimbatore",,:Race Course,",:Parsi, North Indian",,:1200,:4.2,:Very Good,:40
+3000770,:Cafe Totaram,:Coimbatore,:245/1, Near Veejay Hall, Raheja Apartment, Race Course, Coimbatore",,:Race Course,",:Cafe, Fast Food",,:600,:4,:Very Good,:132
+3000062,:Cream Centre,:Coimbatore,:128/180, Orbit Avenue, Thirugnanasambandam Road, Opposite Bishop Appasamy College, Gopalapuram, Race Course, Coimbatore",,:Race Course,",:North Indian, Chinese, Italian, Mexican",,:1000,:4,:Very Good,:203
+3000016,:On The Go,:Coimbatore,:167, Race Course Road, Gopalapuram, Race Course, Coimbatore",,:Race Course,",:Italian, North Indian, Desserts",,:1500,:4,:Very Good,:215
+3000014,:Sree Annapoorna,:Coimbatore,:75, East Arokiasamy Road, RS Puram, Coimbatore",,:RS Puram,",:South Indian, North Indian, Chinese",,:400,:4.3,:Very Good,:225
+3000001,:That's Y Food,:Coimbatore,:24/49, TV Swamy Road East, Opposite Emeral Building, RS Puram, Coimbatore",,:RS Puram,",:North Indian, Biryani",,:1400,:4.2,:Very Good,:299
+3001321,:CakeBee,:Coimbatore,:6/1, SRP Nagar, Saibaba Colony, Coimbatore",,:Saibaba Colony,",:Bakery, Desserts",,:350,:4.9,:Excellent,:200
+3000996,:Yari,:Coimbatore,:69, Bharathi Park, 6th Cross, Saibaba Colony, Coimbatore",,:Saibaba Colony,",:North Indian, Chinese, Street Food",,:700,:4.2,:Very Good,:221
+3001065,:Cream Stone,:Coimbatore,:Creamstone , 1335, Avinashi Road, Opposite Bharath Petrol Bunk, Peelamedu, Coimbatore",",:SMS Hotel, Peelamedu",",:Desserts, Ice Cream",,:300,:4.3,:Very Good,:161
+3000048,:Barbeque Nation,:Coimbatore,:6th Floor, Metro Park Inn, 1000, Raja Street, Near Clock Tower, Town Hall, Coimbatore",,:Town Hall,",:North Indian, European, Mediterranean",,:1400,:4.4,:Very Good,:505
+3500012,:The Punjabi Essence Restaurant,:Dehradun,:27 B, Near Premier Plaza, Rajpur Road, Chukkuwala, Dehradun",,:Chukkuwala,",:North Indian, Chinese",,:800,:3.6,:Good,:102
+3500007,:Tirupati Restaurant,:Dehradun,:27 B, Rajpur Road, Opposite St. Joseph's Academy, Chukkuwala, Dehradun",,:Chukkuwala,",:South Indian, North Indian, Chinese",,:500,:3.8,:Good,:115
+3500017,:Anandam,:Dehradun,:69, Krishna Tower, Rajpur Road, Hathibarkala Salwala, Dehradun",,:Hathibarkala Salwala,",:Desserts, North Indian, Chinese, South Indian, Fast Food, Street Food",,:650,:3.9,:Good,:141
+3500018,:Town Table Restaurant,:Dehradun,:101, Rajpur Road, Hathibarkala Salwala, Dehradun",,:Hathibarkala Salwala,",:North Indian, Chinese, Continental",,:1000,:3.9,:Good,:173
+3500011,:Kalsang Friends Corner,:Dehradun,:88 A, Opposite Osho, Chander Lok Colony, Rajpur Road, Hathibarkala Salwala, Dehradun",,:Hathibarkala Salwala,",:Chinese, Thai, Tibetan",,:750,:4.2,:Very Good,:406
+18416632,:The Great Indian Pub,:Dehradun,:138/345, Rajpur Road, Jakhan, Dehradun",,:Jakhan,,:North Indian,,:1500,:4.9,:Excellent,:50
+18279289,:BMG - All Day Dining,:Dehradun,:140 A, Rajpur Road, Jakhan, Dehradun",,:Jakhan,",:Chinese, North Indian, Fast Food",,:0,:4.3,:Very Good,:63
+18408585,:Punjab Grill,:Dehradun,:Rajpur Road, Jakhan, Dehradun",,:Jakhan,",:Mughlai, North Indian",,:1250,:4,:Very Good,:98
+3500059,:TBistro,:Dehradun,:Saina Inn, 3, Old Survey Road, Karanpur, Dehradun",,:Karanpur,",:North Indian, Chinese",,:550,:3.8,:Good,:230
+3500081,:Y Cafe & Restaurant,:Dehradun,:Hotel White House, Behind St. Joseph's Academy, Subhash Road, Karanpur, Dehradun",,:Karanpur,,:Cafe,,:500,:4,:Very Good,:94
+17971273,:Eddie's Patisserie,:Dehradun,:102 Yamuna Colony, Above Punjab National Bank, Chakrata Road, Dehradun",,:Krishna Nagar,,:Bakery,,:350,:4.1,:Very Good,:64
+3500365,:First Gear Cafe,:Dehradun,:Khala Gaon, Near Shiv Mandir, Malsi, Dehradun",,:Malsi,",:Cafe, Chinese",,:700,:3.9,:Good,:131
+3500013,:Dunkin Donuts,:Dehradun,:UG 03, Pacific Mall, Rajpur Road, Jakhan, Dehradun",",:Pacific Mall, Jakhan",",:Burger, Desserts",,:600,:3.9,:Good,:101
+3500024,:Doon Darbar,:Dehradun,:43, Gandhi Road, Paltan Bazaar, Dehradun",,:Paltan Bazaar,",:North Indian, Mughlai",,:600,:3.9,:Good,:121
+3500488,:Razzmatazz,:Dehradun,:5, Pritam Road, Dalanwala, Near Race Course, Dehradun",,:Race Course,,:Cafe,,:400,:3.9,:Good,:39
+3500505,:Barbeque Nation,:Dehradun,:Chaudhary Plaza, Rajpur Road, Rajpur, Dehradun",,:Rajpur,",:North Indian, Mediterranean, Asian, Chinese",,:1600,:4.4,:Very Good,:66
+3500010,:Black Pepper Restaurant,:Dehradun,:3, Astley Hall, Rajpur Road, Rajpur, Dehradun",,:Rajpur,",:North Indian, Chinese",,:1200,:4,:Very Good,:175
+3500414,:Cafe Marigold,:Dehradun,:Near Shehanshahi Ashram, Old Mussorie Road, Rajpur, Dehradun",,:Rajpur,",:Cafe, Chinese, Fast Food",,:500,:4.1,:Very Good,:104
+18440677,:Jalapenos,:Dehradun,:Mussourie Diversion, Pacific Hills,Rajpur Road, Rajpur, Dehradun",,:Rajpur,",:Cafe, Mexican",,:500,:4.2,:Very Good,:68
+3500484,:Kalsang AMA Cafe,:Dehradun,:88, Opposite Osho, Chander Lok Colony, Rajpur Road, Rajpur, Dehradun",,:Rajpur,,:Cafe,,:600,:4.2,:Very Good,:89
+301728,:Desire Foods,:Faridabad,:G 25/22, Main Road, 40 Feet, Molarband Extension, Badarpur Border, Faridabad",,:Badarpur Border,",:Chinese, Fast Food, Bakery",,:250,:2.9,:Average,:4
+5992,:Knight Rock,:Faridabad,:11/6, Delhi Mathura Road, Near Bharat Petrol Pump, Badarpur Border, Faridabad",,:Badarpur Border,",:North Indian, Chinese",,:500,:2.8,:Average,:16
+301730,:Punjab Restaurant,:Faridabad,:Main 40 Feet Road, Molarband Extension, Badarpur Border, Faridabad",,:Badarpur Border,,:North Indian,,:150,:2.8,:Average,:8
+301729,:Raju Dhaba,:Faridabad,:Main 40 Feet Road, Molarband Extension, Badarpur Border, Faridabad",,:Badarpur Border,,:North Indian,,:150,:2.9,:Average,:8
+301731,:Rakheja Bakery,:Faridabad,:Main 40 Feet Road, Molarband Extension, Badarpur Border, Faridabad",,:Badarpur Border,,:Bakery,,:100,:2.8,:Average,:7
+311053,:Snax Points,:Faridabad,:A-68/5, Near Mehra Petrol Pump, Main Tajpur Road, Badarpur Border, Faridabad",,:Badarpur Border,",:Chinese, North Indian, Fast Food",,:300,:3,:Average,:4
+9299,:Aggarwal Sweet Corner,:Faridabad,:Badarpur Border Chowk Post, Badarpur Border, Faridabad",,:Badarpur Border,,:Mithai,,:100,:0,:Not rated,:1
+9178,:Kashyap Vaishno Dhaba,:Faridabad,:Near Seble Cinema, Dharamveer Market, Badarpur Border, Faridabad",,:Badarpur Border,,:North Indian,,:100,:0,:Not rated,:3
+18477319,:Total Food Court,:Faridabad,:B-222, Shishram Complex, Main Market, Badarpur Border, Faridabad",,:Badarpur Border,",:North Indian, Mughlai, Chinese",,:400,:0,:Not rated,:3
+18433852,:The Chaiwalas,:Faridabad,:Sector 21 A, Asian Hospital, Badhkal Chowk, Badkal Lake, Faridabad",,:Badkal Lake,,:Cafe,,:300,:0,:Not rated,:0
+304046,:Cafe And More,:Faridabad,:UGF 22, Charmwood Plaza, Eros Garden, Charmwood Village, Faridabad",,:Charmwood Village,",:Fast Food, North Indian",,:300,:2.9,:Average,:4
+309936,:Green Chick Chop,:Faridabad,:UG 58, Charmwood Plaza, Eros Garden Colony, Suraj Kund Road, Charmwood Village, Faridabad",,:Charmwood Village,",:Raw Meats, North Indian, Fast Food",,:350,:3,:Average,:7
+309927,:Kolkata Hot Kathi Rolls,:Faridabad,:Deepak Complex, Near Eros Garden, Charmwood Village, Faridabad",,:Charmwood Village,",:Fast Food, Chinese",,:300,:2.9,:Average,:11
+18377449,:Aapki Rasoi,:Faridabad,:HR-227, 60 Feet Road, Pul Pehlad Pur, Charmwood Village, Faridabad",,:Charmwood Village,,:North Indian,,:200,:0,:Not rated,:1
+18465871,:Fusion Food Corner,:Faridabad,:158/7, Opposite DDA Flat, Pul Pehlad Pur, Charmwood Village, Faridabad",,:Charmwood Village,",:North Indian, Chinese",,:300,:0,:Not rated,:0
+18472646,:Punjabi Rasoi,:Faridabad,:1, Deepak Complex, Eros Charmwood Village, Faridabad",,:Charmwood Village,,:North Indian,,:400,:0,:Not rated,:0
+18037826,:Kebab Xpress,:Faridabad,:Shop 23-24, 2nd Floor, Crown Interiorz Mall, Sector 35, Faridabad",",:Crown Interiorz Mall, Sector 35, Faridabad",",:North Indian, Mughlai",,:600,:2.8,:Average,:49
+301163,:McDonald's,:Faridabad,:12/7, 2nd Floor, Crown Interiorz Mall, Sector 35, Faridabad",",:Crown Interiorz Mall, Sector 35, Faridabad",",:Fast Food, Burger",,:500,:3.4,:Average,:58
+4931,:Suruchi,:Faridabad,:29, 2nd Floor, Crown Interiorz Mall, Sector 35, Faridabad",",:Crown Interiorz Mall, Sector 35, Faridabad",",:North Indian, South Indian, Gujarati, Rajasthani",,:700,:3.4,:Average,:233
+1804,:Berco's,:Faridabad,:Shop R-2, 3rd Floor, Crown Interiorz Mall, Sector 35, Faridabad",",:Crown Interiorz Mall, Sector 35, Faridabad",",:Chinese, Thai",,:1100,:3.8,:Good,:508
+312102,:Dunkin' Donuts,:Faridabad,:3, 2nd Floor, Crown Interiorz Mall, Near Toll Bridge, Sector 35, Faridabad",",:Crown Interiorz Mall, Sector 35, Faridabad",",:Burger, Desserts, Fast Food",,:600,:3.6,:Good,:98
+18217857,:The Chocolate Room,:Faridabad,:10, 2nd Floor, Crown Interiorz Mall, Sector 35, Faridabad",",:Crown Interiorz Mall, Sector 35, Faridabad",",:Cafe, Desserts",,:900,:3.6,:Good,:59
+18471268,:Baskin Robbin,:Faridabad,:Ground Floor, Crown Interiorz Mall, Sector 35, Faridabad",",:Crown Interiorz Mall, Sector 35, Faridabad",,:Desserts,,:300,:0,:Not rated,:0
+18381244,:Popcorn Fusion,:Faridabad,:Crown Interiorz Mall, Sector 35, Faridabad",",:Crown Interiorz Mall, Sector 35, Faridabad",,:Fast Food,,:200,:0,:Not rated,:1
+18408041,:Subway,:Faridabad,:SF 25, 2nd Floor, Sector 35, Faridabad",",:Crown Interiorz Mall, Sector 35, Faridabad",",:American, Fast Food, Salad, Healthy Food",,:500,:0,:Not rated,:2
+311051,:KFC,:Faridabad,:Shops 21-22, 2nd Floor, Crown Interiorz Mall, Sector 35, Faridabad",",:Crown Interiorz Mall, Sector 35, Faridabad",",:American, Fast Food, Burger",,:500,:2.1,:Poor,:57
+18133510,:Barbeque Nation,:Faridabad,:2nd Floor, Crown Interiorz Mall, Sector 35, Faridabad",",:Crown Interiorz Mall, Sector 35, Faridabad",,:North Indian,,:1600,:4,:Very Good,:299
+308380,:Yo! China,:Faridabad,:S-2, 2nd Floor, Crown Interiorz Mall, Sector 35, Faridabad",",:Crown Interiorz Mall, Sector 35, Faridabad",,:Chinese,,:1300,:4.1,:Very Good,:239
+6077,:Giani's,:Faridabad,:Food Court, Crown Plaza Mall, Sector 15-A,  Near, Sector 15, Faridabad",",:Crown Plaza Mall, Sector 15, Faridabad",",:Ice Cream, Desserts",,:400,:3.2,:Average,:16
+308082,:Momo-Cha,:Faridabad,:Crown Plaza Mall, Sector 15, Faridabad",",:Crown Plaza Mall, Sector 15, Faridabad",,:Fast Food,,:200,:2.7,:Average,:16
+309558,:Shree Rathnam,:Faridabad,:LG-28, Crown Plaza Mall, Sector 15-A, Sector 15, Faridabad",",:Crown Plaza Mall, Sector 15, Faridabad",",:South Indian, North Indian, Chinese",,:800,:3.4,:Average,:48
+8128,:Mirage Restro Bar,:Faridabad,:2nd Floor, Crown Plaza Mall, Sector 15-A, Sector 15, Faridabad",",:Crown Plaza Mall, Sector 15, Faridabad",",:North Indian, Mughlai",,:1000,:2.4,:Poor,:25
+304062,:Jai Jagannath Hotel,:Faridabad,:E 51, Shiv Durga Vihar, Dayal Bagh, Faridabad",,:Dayal Bagh,,:South Indian,,:200,:0,:Not rated,:3
+9785,:Gelato Vinto,:Faridabad,:40 GF, Eldeco Station 1 Mall, Sector 12, Faridabad",",:Eldeco Station 1 Mall, Sector 12, Faridabad",",:Desserts, Ice Cream",,:250,:2.8,:Average,:12
+312514,:Maggi Point,:Faridabad,:F-46 A, 1st Floor, Eldeco Mall, Sector 12, Faridabad",",:Eldeco Station 1 Mall, Sector 12, Faridabad",,:Fast Food,,:200,:0,:Not rated,:2
+308961,:Angaar,:Faridabad,:Hotel Saffron Kiran, 12/6, Adjacent to Badarpur Toll, NH-2, Sector 35, Faridabad",",:Hotel Saffron Kiran, Faridabad",",:North Indian, Chinese",,:1200,:0,:Not rated,:0
+308963,:TcozY,:Faridabad,:Hotel Saffron Kiran, 12/6, Adjacent to Badarpur Toll, NH-2, Sector 35, Faridabad",",:Hotel Saffron Kiran, Faridabad",,:Cafe,,:1500,:0,:Not rated,:0
+308962,:The Retriever,:Faridabad,:Hotel Saffron Kiran, 12/6, Adjacent to Badarpur Toll, NH-2, Sector 35, Faridabad",",:Hotel Saffron Kiran, Faridabad",",:North Indian, Mughlai, Chinese",,:1500,:0,:Not rated,:0
+8169,:Bangali Sweets & Restaurant,:Faridabad,:6, Plot 17, New DLF, Indraprastha Colony, Faridabad",,:Indraprastha Colony,,:Mithai,,:100,:0,:Not rated,:2
+309368,:Silver,:Faridabad,:K Hotel, Plot 2, Behind Pristine Mall, Sector 31, Faridabad",,:K Hotel,",:North Indian, Chinese, Continental",,:1500,:0,:Not rated,:3
+18472429,:Chill 'N Grill,:Faridabad,:3C-188, Opposite Bharat Optical, NIT, Faridabad",,:NIT,,:North Indian,,:300,:0,:Not rated,:0
+18472418,:Punjabi Restaurant,:Faridabad,:3F/49, Sainik Colony Road, NIT, Faridabad",,:NIT,",:North Indian, Mughlai",,:500,:0,:Not rated,:0
+18472426,:Standard Chicken Point,:Faridabad,:3F/90, Sainik Colony Road, NIT Faridabad",,:NIT,,:Mughlai,,:500,:0,:Not rated,:0
+18450934,:The Grillz & Gravy,:Faridabad,:3G/1, NIT, Faridabad",,:NIT,",:North Indian, Chinese",,:400,:0,:Not rated,:0
+6025,:Cakes 'n Bakes - Park Plaza,:Faridabad,:Park Plaza, Sector 21 C, Sector 21, Faridabad",",:Park Plaza, Sector 21, Faridabad",,:Bakery,,:1000,:3,:Average,:15
+6013,:Cafe Bite,:Faridabad,:UGF 35, Parsvanath City Mall, Sector 12, Faridabad",",:Parsavnath City Mall, Sector 12, Faridabad",,:Cafe,,:500,:3.2,:Average,:19
+8153,:Cafe Light,:Faridabad,:Shop 38, Upper Ground Floor, Parsvnath City Mall, Sector 12, Faridabad",",:Parsavnath City Mall, Sector 12, Faridabad",",:Cafe, Chinese, Fast Food",,:500,:2.8,:Average,:8
+18471296,:Little Cafe,:Faridabad,:Shop 32, Upper Ground Floor, Parsvnath City Mall, Sector 12, Faridabad",",:Parsavnath City Mall, Sector 12, Faridabad",",:Fast Food, Beverages",,:300,:0,:Not rated,:0
+18279477,:Momo-Cha,:Faridabad,:J-121, Near Lean Wolf Gym, Sector 10, Faridabad",,:Sector 10,",:North Indian, Chinese",,:450,:2.8,:Average,:20
+18359331,:Oregano India,:Faridabad,:Shop 2661, Sector 7-10 Market, YMCA Road, Sector 10, Faridabad",,:Sector 10,",:Fast Food, Chinese, Italian",,:500,:3.1,:Average,:11
+301151,:Sagar Bakery,:Faridabad,:938, 7-10 Chowk, YMCA Road, Sector 10, Faridabad",,:Sector 10,,:Bakery,,:150,:3,:Average,:11
+18204479,:Smugglers,:Faridabad,:Near Big Bus, Sector 9-10 Road, Sector 10, Faridabad",,:Sector 10,,:North Indian,,:450,:3.1,:Average,:7
+2198,:Welcome,:Faridabad,:J140, Sector 10, Faridabad",,:Sector 10,",:North Indian, Chinese",,:700,:2.9,:Average,:13
+18434243,:Giani's,:Faridabad,:Sector 10, Faridabad",,:Sector 10,",:Ice Cream, Desserts",,:400,:0,:Not rated,:0
+18273628,:Invitation,:Faridabad,:Invitation Inn Banquet & Rooms, DLF Sector 10, Faridabad",,:Sector 10,,:North Indian,,:700,:0,:Not rated,:3
+18471262,:New Dilight,:Faridabad,:H - 147, Sector 10, Faridabad",,:Sector 10,",:North Indian, Mughlai, Chinese",,:500,:0,:Not rated,:0
+18258480,:Chimney,:Faridabad,:SCF 9, Near Bank of India, Sector 11, Faridabad",,:Sector 11,",:North Indian, Mughlai, Chinese",,:800,:3.3,:Average,:25
+9698,:Chopstick,:Faridabad,:Booth 15, Sector 11, Faridabad",,:Sector 11,,:Chinese,,:300,:3,:Average,:22
+8326,:Hot & Tasty Chinese Food,:Faridabad,:18, DLF Market, Sector 11, Faridabad",,:Sector 11,",:North Indian, Chinese",,:450,:2.6,:Average,:26
+18270379,:Sanjha Chulha,:Faridabad,:Plot 1-A, Sector 11-D, Sector 11, Faridabad",,:Sector 11,",:North Indian, Mughlai",,:700,:2.9,:Average,:16
+304006,:Frontier,:Faridabad,:Ground Floor, Parsvnath CIty Mall, Sector 12, Faridabad",,:Sector 12,,:Bakery,,:200,:2.9,:Average,:7
+308957,:Oxy Lounge,:Faridabad,:Town Park, Opposite District Court, Sector 12, Faridabad",,:Sector 12,",:North Indian, Chinese, Italian",,:1500,:3.1,:Average,:28
+18427216,:City Dhaba,:Faridabad,:11-12 Dividing Road, Sector 12, Faridabad",,:Sector 12,",:North Indian, Chinese",,:550,:0,:Not rated,:0
+18433315,:Garam Masala,:Faridabad,:Plot 6, Bata Chowk, BIryaniwali Gali, Sector 12, Faridabad",,:Sector 12,",:North Indian, Chinese",,:400,:0,:Not rated,:0
+8266,:Mittal Fast Food,:Faridabad,:10, Town Park, Sector 12, Faridabad",,:Sector 12,,:Fast Food,,:100,:0,:Not rated,:0
+18383469,:Al Bake,:Faridabad,:SCF 58, Ground Floor, Sector 15, Faridabad",,:Sector 15,",:North Indian, Chinese",,:600,:3.2,:Average,:31
+1367,:Anupam Sweet,:Faridabad,:SCF 74, Sector 15 Market, Sector 15, Faridabad",,:Sector 15,",:North Indian, South Indian, Chinese, Fast Food, Mithai",,:400,:3.4,:Average,:70
+9650,:Cafe Coffee Day,:Faridabad,:SCF 42, Shopping Centre, Main Huda Market, Sector 15, Faridabad",,:Sector 15,,:Cafe,,:450,:3.3,:Average,:67
+308335,:Chicago Pizza,:Faridabad,:Booth Number 135, Main Market, Sector 15, Faridabad",,:Sector 15,,:Pizza,,:600,:2.7,:Average,:35
+18391065,:Crispy Crust,:Faridabad,:Shop 19, HUDA Market, Opposite Mother Dairy, Sector 15, Faridabad",,:Sector 15,",:North Indian, Chinese, Fast Food",,:500,:3.4,:Average,:22
+301193,:Frontier,:Faridabad,:SCO 46, Main Market, Sector 15, Faridabad",,:Sector 15,,:Bakery,,:200,:3.3,:Average,:17
+18107832,:Gulab,:Faridabad,:Shop 33, Main Market, Sector 15, Faridabad",,:Sector 15,",:North Indian, South Indian, Fast Food, Street Food, Mithai",,:600,:2.6,:Average,:39
+18089254,:Hunger Cure Express,:Faridabad,:HUDA Market, Sector 15, Faridabad",,:Sector 15,",:Fast Food, Beverages",,:500,:3.3,:Average,:35
+312981,:Maitre Patissier,:Faridabad,:697, Sector 15, Faridabad",,:Sector 15,,:Bakery,,:500,:3.4,:Average,:35
+18082235,:Momo-Cha,:Faridabad,:87, Near City Chemist, Sector 15, Faridabad",,:Sector 15,",:Chinese, Fast Food",,:400,:2.7,:Average,:32
+18138421,:Nirula's,:Faridabad,:135, Lower Ground Floor, HUDA Market, Sector 15, Faridabad",,:Sector 15,",:Fast Food, Desserts, Ice Cream, Beverages",,:950,:2.6,:Average,:14
+18421965,:The Grub House,:Faridabad,:SCF 55, Main Market, Sector 15, Faridabad",,:Sector 15,",:Cafe, North Indian, Chinese, Continental",,:600,:2.7,:Average,:17
+303267,:Twenty Four Seven,:Faridabad,:A-45/49, Sector 15, Faridabad",,:Sector 15,",:Fast Food, North Indian",,:300,:3.4,:Average,:35
+7471,:Cafe Parmesan,:Faridabad,:42, 1st Floor, HUDA Market, Sector 15, Faridabad",,:Sector 15,,:Italian,,:1000,:4.5,:Excellent,:799
+18219542,:Briosca,:Faridabad,:Shop 45, Main Market, Sector 15, Faridabad",,:Sector 15,",:Bakery, Fast Food",,:400,:3.6,:Good,:62
+18355112,:Burger Point,:Faridabad,:Shop 105, Sector 15, Faridabad",,:Sector 15,",:Burger, Fast Food",,:300,:3.5,:Good,:24
+18270895,:Cafe Grub Up,:Faridabad,:SCF 43, 2nd Floor, Main Market, Sector 15, Faridabad",,:Sector 15,",:Cafe, American, Mexican, Italian, Thai",,:900,:3.8,:Good,:134
+18313839,:Cakes At Bhawanas,:Faridabad,:418, 1st Floor, Sector 15, Faridabad",,:Sector 15,,:Bakery,,:400,:3.5,:Good,:26
+5005,:Chaudhary Bhojnalaya,:Faridabad,:HUDA Market, Sector 15, Faridabad",,:Sector 15,,:North Indian,,:400,:3.6,:Good,:93
+1820,:Chickenette,:Faridabad,:11 & 12, Main Market, Sector 15, Faridabad",,:Sector 15,",:Raw Meats, North Indian, Chinese, Fast Food",,:650,:3.7,:Good,:280
+3863,:Giani,:Faridabad,:125, Near Gurudwara, Sector 15, Faridabad",,:Sector 15,",:Ice Cream, Desserts",,:400,:3.6,:Good,:70
+9814,:Green Chick Chop,:Faridabad,:135, Main Market, Sector 15, Faridabad",,:Sector 15,",:Raw Meats, North Indian, Fast Food",,:350,:3.5,:Good,:31
+18474912,:Hash Stix,:Faridabad,:Shop 160, Sector 15, Faridabad",,:Sector 15,,:Fast Food,,:250,:3.6,:Good,:25
+18161568,:Juice On Go,:Faridabad,:SCF 46-50, 1st Floor, Fitstop Gym, Main Market, Sector 15, Faridabad",,:Sector 15,",:Juices, Beverages",,:150,:3.5,:Good,:18
+18416829,:Keventers,:Faridabad,:Booth 125-P, Ground Floor, Huda Market, Sector 15, Faridabad",,:Sector 15,,:Beverages,,:400,:3.6,:Good,:27
+18400756,:MD's Kebabs & Curries,:Faridabad,:Shop 18, Opposite Mother Dairy, Sector 15 Market, Sector 15, Faridabad",,:Sector 15,",:North Indian, Mughlai, Chinese",,:750,:3.8,:Good,:27
+301177,:Perfect Bake,:Faridabad,:DSS-48, Huda Market, Sector 15, Faridabad",,:Sector 15,",:Bakery, Fast Food",,:400,:3.5,:Good,:39
+6161,:Perfect Bake,:Faridabad,:SCF 40, Main Market, Sector 15, Faridabad",,:Sector 15,",:Bakery, Fast Food",,:400,:3.6,:Good,:126
+2565,:Sethi's Delicacy,:Faridabad,:9 & 10, Main Market, Sector 15, Faridabad",,:Sector 15,",:Fast Food, Bakery",,:150,:3.8,:Good,:75
+3866,:Subway,:Faridabad,:SCF 78, HUDA Market, Sector 15, Faridabad",,:Sector 15,",:American, Fast Food, Salad, Healthy Food",,:500,:3.5,:Good,:143
+18250288,:Caf°? Bogchi,:Faridabad,:SCF 39, First Floor, Above Axis Bank, Sector 15, Faridabad",,:Sector 15,",:Cafe, Italian, Mexican, Continental",,:650,:4.1,:Very Good,:153
+1430,:Ashoka Restaurant,:Faridabad,:Main Market, Sector 16, Faridabad",,:Sector 16,,:North Indian,,:400,:2.9,:Average,:43
+18393702,:Baskin Robbins,:Faridabad,:Shop 60, Near Sagar Cinema, Sector 16, Faridabad",,:Sector 16,,:Ice Cream,,:300,:2.9,:Average,:4
+6152,:China Hot Pot,:Faridabad,:Shop 147, HUDA Market, Sector 16, Faridabad",,:Sector 16,",:Chinese, Fast Food",,:400,:2.5,:Average,:25
+306962,:Handi Chhadeyan Di,:Faridabad,:Shop 138, HUDA Market, Near HDFC Bank, Sector 16, Faridabad",,:Sector 16,,:North Indian,,:400,:3.1,:Average,:26
+18445360,:Hungrill,:Faridabad,:Booth 110, HUDA Market, Near ICICI Bank, Sector 16, Faridabad",,:Sector 16,",:North Indian, Chinese, Continental",,:500,:3,:Average,:4
+6150,:Kant Khana Khazana,:Faridabad,:135, Huda Market, Sector 16, Faridabad",,:Sector 16,,:North Indian,,:250,:3.4,:Average,:22
+18421024,:Open Yard,:Faridabad,:SCO 22-23, Main Market, Sector 16, Faridabad",,:Sector 16,",:North Indian, Chinese, Continental",,:800,:3.3,:Average,:14
+18471260,:Recipe Badshah,:Faridabad,:Shop 98, Sabzi Mandi, Sector 16, Faridabad",,:Sector 16,,:North Indian,,:300,:3.1,:Average,:8
+18367316,:The Chai Cafe,:Faridabad,:Shop 123, HUDA Market, Sector 16, Faridabad",,:Sector 16,",:Cafe, Chinese",,:400,:3.1,:Average,:8
+18466931,:Apna Restaurant,:Faridabad,:Booth 146, HUDA Market, Sector 16, Faridabad",,:Sector 16,,:North Indian,,:400,:0,:Not rated,:0
+18466420,:Chaudhary Chaap & Chinese,:Faridabad,:Shop 137, Huda Market, Sector 16, Faridabad",,:Sector 16,",:Chinese, North Indian",,:300,:0,:Not rated,:0
+18464607,:Chings Chinese,:Faridabad,:Near Gold Gym, Behind Petro Pump Sector 16, Faridabad",,:Sector 16,,:Chinese,,:300,:0,:Not rated,:0
+18464631,:Food On Wheels,:Faridabad,:Near Gold Gym, Behind Petrol Pump, Sector 16, Faridabad",,:Sector 16,,:Chinese,,:300,:0,:Not rated,:0
+301170,:Gulshan Hotel,:Faridabad,:Booth 2, Main Huda Market, Sector 16, Faridabad",,:Sector 16,,:North Indian,,:250,:0,:Not rated,:2
+18466939,:Maa Kali Foods,:Faridabad,:SCO 35, HUDA Market, Sector 16, Faridabad",,:Sector 16,,:Chinese,,:250,:0,:Not rated,:0
+18380180,:The Street Kitchen,:Faridabad,:Shop 139, Main HUDA Market, Sector 16, Faridabad",,:Sector 16,",:North Indian, Chinese",,:400,:0,:Not rated,:0
+18466407,:United Kitchen,:Faridabad,:2nd Floor, SCO 95, HUDA Market, Sector 16, Faridabad",,:Sector 16,,:Fast Food,,:500,:0,:Not rated,:0
+304001,:Eat N Treat,:Faridabad,:145, Main Market, Sector 17, Faridabad",,:Sector 17,",:Chinese, North Indian",,:400,:2.8,:Average,:20
+8319,:Hotel Ekant,:Faridabad,:12 - 14, Sector 17, Faridabad",,:Sector 17,",:North Indian, Mughlai, Chinese",,:700,:2.7,:Average,:39
+303871,:Momo-Cha,:Faridabad,:31, Near HDFC Bank ATM, Sector 17 Market, Sector 17, Faridabad",,:Sector 17,",:North Indian, Chinese",,:600,:2.7,:Average,:56
+8321,:Paradise Inn,:Faridabad,:124, Near OBC Bank, Sector 17 Market, Faridabad, Sector 17, Faridabad",,:Sector 17,",:North Indian, Mughlai, Chinese",,:500,:2.7,:Average,:43
+311047,:Red Chilli,:Faridabad,:Shop 140, Back Side, Main Market, Sector 17, Faridabad",,:Sector 17,,:Chinese,,:300,:2.8,:Average,:9
+8320,:Shiv Restaurant,:Faridabad,:122 & 123, HUDA Market, Sector 17, Faridabad",,:Sector 17,,:North Indian,,:400,:2.7,:Average,:20
+8308,:Sohan Sweets & Namkeen,:Faridabad,:115 & 116, Sector 17, Faridabad",,:Sector 17,,:Mithai,,:100,:3.2,:Average,:41
+18303717,:The Binge Box Cafe,:Faridabad,:1st  Floor, 110, HUDA Market, Sector 17, Faridabad",,:Sector 17,,:Cafe,,:500,:3.4,:Average,:18
+304004,:Tmos Moving Feast,:Faridabad,:156, Main Market, Sector 17, Faridabad",,:Sector 17,",:Chinese, North Indian",,:700,:3.3,:Average,:76
+18472625,:Tmos Cafe Corner,:Faridabad,:Shop 164, Huda Market, Sector 17, Faridabad",,:Sector 17,,:Cafe,,:700,:0,:Not rated,:1
+18420432,:Parkash Dhaba,:Faridabad,:Shop 32, HUDA Market, Sector 19, Faridabad",,:Sector 19,",:North Indian, Chinese",,:200,:3,:Average,:6
+9824,:Sanjha Chulha,:Faridabad,:Booth 16, Part 2 Market, Sector 19, Faridabad",,:Sector 19,",:North Indian, Mughlai",,:700,:3.3,:Average,:219
+8029,:Hareram Bikanerzaika,:Faridabad,:77 & 78, HUDA Market, Opposite Community Centre, Sector 21 C, Near Sector 21, Faridabad",,:Sector 21,",:Mithai, Street Food",,:200,:2.8,:Average,:11
+312788,:Kulcha Paaji,:Faridabad,:Opposite 21-C Market, Sector 21, Faridabad",,:Sector 21,,:Street Food,,:100,:3.1,:Average,:12
+309672,:Shree Bikaner Misthan Bhandar,:Faridabad,:DSS 44, Sector 21, Faridabad",,:Sector 21,",:Street Food, South Indian, Mithai",,:350,:2.8,:Average,:13
+18359861,::The Hub - Gourmet,:akers & More",:aridabad,",:Asian Institute of Medical Sciences, Badkal Flyover, Sector 21 A, Sector 21, Faridabad",,:Sector 21,",:0,:0,:200,:3
+18439547,:Anand Dhaba,:Faridabad,:DSS-38, Sector 21C Market, Sector 21, Faridabad",,:Sector 21,,:North Indian,,:200,:0,:Not rated,:1
+18241538,:Bikaneri Sweets & Restaurant,:Faridabad,:Ankhir Road, Near Union Bank, Opposite Sector 21-D, Sector 21, Faridabad",,:Sector 21,",:Mithai, North Indian",,:250,:0,:Not rated,:0
+18452730,:Delicieux Ice Cream Rolls,:Faridabad,:Shop 73, Main Market, Sector 21 C, Sector 21, Faridabad",,:Sector 21,",:Ice Cream, Desserts, Beverages",,:400,:0,:Not rated,:1
+18317486,:Flying Tandoor,:Faridabad,:Shop 57, Sector 21D Market, Sector 21, Faridabad",,:Sector 21,",:North Indian, Fast Food",,:300,:0,:Not rated,:3
+18432933,:Food Station,:Faridabad,:G-5, Post Office Gali, Indra Enclave, Sector 21-D, Sector 21, Faridabad",,:Sector 21,",:North Indian, Mughlai, Chinese",,:400,:0,:Not rated,:0
+18452267,:Grub Hub,:Faridabad,:Shop 11, HUDA Main Market, Behind Park Plaza Hotel, Sector 21-C, Sector 21, Faridabad",,:Sector 21,,:Asian,,:500,:0,:Not rated,:1
+18466980,:Punjabi Chulha,:Faridabad,:Shop 16, Sector 21C, Sector 21, Faridabad",,:Sector 21,,:North Indian,,:300,:0,:Not rated,:3
+18469937,:Purani Dilli Da Swad,:Faridabad,:Shop 52, Sector 21C Market, Sector 21, Faridabad",,:Sector 21,",:Street Food, Fast Food",,:100,:0,:Not rated,:2
+18466937,:The BBQ Garden,:Faridabad,:Plot 1, Sector 21, Faridabad",,:Sector 21,",:North Indian, Seafood",,:700,:0,:Not rated,:0
+18433879,:The Chaiwalas,:Faridabad,:Asian Institute of Medical Sciences, Near Badhkal Road, Sector 21, Faridabad",,:Sector 21,,:Cafe,,:300,:0,:Not rated,:0
+18369105,:Funk House Cafe,:Faridabad,:Plot 2347, Near Sector 28 Metro Station, Sector 28, Faridabad",,:Sector 28,",:Cafe, Italian, Salad",,:650,:2.6,:Average,:15
+18133473,:Shiksha Fast Food,:Faridabad,:13, Near Water Tank, HUDA Market, Sector 28, Faridabad",,:Sector 28,",:Fast Food, Chinese",,:200,:2.9,:Average,:5
+18458540,:Hungry Head,:Faridabad,:Near Reliance Fresh, Huda Market, Sector 28, Faridabad",,:Sector 28,",:Street Food, Fast Food",,:200,:0,:Not rated,:0
+18482753,:Tandoori Hut,:Faridabad,:Shop 77-78, Near Balaji Sweets, Main Huda Market Sector 28, Faridabad",,:Sector 28,,:North Indian,,:400,:0,:Not rated,:0
+8167,:Lalit Kathi Rolls Momos,:Faridabad,:Main HUDA Market, Sector 29, Faridabad",,:Sector 29,,:Fast Food,,:100,:3.1,:Average,:9
